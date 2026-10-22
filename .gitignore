@@ -1,0 +1,18 @@
+# Python environment and caches
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# Editor / OS files
+.idea/
+.vscode/
+~$*
+
+# Downloaded datasets and caches (MovieLens / fallback)
+data/
+.cache/
+
+# Temporary download artifacts
+*.part

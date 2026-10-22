@@ -1,0 +1,1749 @@
+﻿method,user_id,target_item_id,recall_at_10,ndcg_at_10,hit_rank,train_positive_count,target_train_popularity,cold_target,target_title,failure_reason
+popularity,1,256,0.0,0.0,,162,7,0,When the Cats Away (Chacun cherche son chat) (1996),Top-10 未覆盖，需逐例分析
+item_cf,1,256,0.0,0.0,,162,7,0,When the Cats Away (Chacun cherche son chat) (1996),Top-10 未覆盖，需逐例分析
+popularity,2,316,0.0,0.0,,39,88,0,As Good As It Gets (1997),Top-10 未覆盖，需逐例分析
+item_cf,2,316,0.0,0.0,,39,88,0,As Good As It Gets (1997),Top-10 未覆盖，需逐例分析
+popularity,3,320,0.0,0.0,,14,13,0,Paradise Lost: The Child Murders at Robin Hood Hills (1996),Top-10 未覆盖，需逐例分析
+item_cf,3,320,0.0,0.0,,14,13,0,Paradise Lost: The Child Murders at Robin Hood Hills (1996),Top-10 未覆盖，需逐例分析
+popularity,4,11,0.0,0.0,,18,166,0,Seven (Se7en) (1995),Top-10 未覆盖，需逐例分析
+item_cf,4,11,0.0,0.0,,18,166,0,Seven (Se7en) (1995),Top-10 未覆盖，需逐例分析
+popularity,5,24,0.0,0.0,,57,89,0,Rumble in the Bronx (1995),Top-10 未覆盖，需逐例分析
+item_cf,5,24,0.0,0.0,,57,89,0,Rumble in the Bronx (1995),Top-10 未覆盖，需逐例分析
+popularity,6,272,0.0,0.0,,133,155,0,Good Will Hunting (1997),Top-10 未覆盖，需逐例分析
+item_cf,6,272,0.0,0.0,,133,155,0,Good Will Hunting (1997),Top-10 未覆盖，需逐例分析
+popularity,7,667,0.0,0.0,,273,0,1,Audrey Rose (1977),物品冷启动
+item_cf,7,667,0.0,0.0,,273,0,1,Audrey Rose (1977),物品冷启动
+popularity,8,685,0.0,0.0,,39,66,0,Executive Decision (1996),Top-10 未覆盖，需逐例分析
+item_cf,8,685,0.0,0.0,,39,66,0,Executive Decision (1996),Top-10 未覆盖，需逐例分析
+popularity,9,487,0.0,0.0,,19,50,0,Roman Holiday (1953),Top-10 未覆盖，需逐例分析
+item_cf,9,487,0.0,0.0,,19,50,0,Roman Holiday (1953),Top-10 未覆盖，需逐例分析
+popularity,10,340,0.0,0.0,,167,112,0,Boogie Nights (1997),Top-10 未覆盖，需逐例分析
+item_cf,10,340,0.0,0.0,,167,112,0,Boogie Nights (1997),Top-10 未覆盖，需逐例分析
+popularity,11,51,0.0,0.0,,85,44,0,Legends of the Fall (1994),Top-10 未覆盖，需逐例分析
+item_cf,11,51,0.0,0.0,,85,44,0,Legends of the Fall (1994),Top-10 未覆盖，需逐例分析
+popularity,12,735,0.0,0.0,,46,91,0,Philadelphia (1993),Top-10 未覆盖，需逐例分析
+item_cf,12,735,0.0,0.0,,46,91,0,Philadelphia (1993),Top-10 未覆盖，需逐例分析
+popularity,13,916,0.0,0.0,,268,5,0,Lost in Space (1998),Top-10 未覆盖，需逐例分析
+item_cf,13,916,0.0,0.0,,268,5,0,Lost in Space (1998),Top-10 未覆盖，需逐例分析
+popularity,14,269,0.0,0.0,,74,216,0,"Full Monty, The (1997)",Top-10 未覆盖，需逐例分析
+item_cf,14,269,0.0,0.0,,74,216,0,"Full Monty, The (1997)",Top-10 未覆盖，需逐例分析
+popularity,15,934,0.0,0.0,,38,17,0,"Preacher's Wife, The (1996)",Top-10 未覆盖，需逐例分析
+item_cf,15,934,0.0,0.0,,38,17,0,"Preacher's Wife, The (1996)",Top-10 未覆盖，需逐例分析
+popularity,16,404,0.0,0.0,,115,58,0,Pinocchio (1940),Top-10 未覆盖，需逐例分析
+item_cf,16,404,0.0,0.0,,115,58,0,Pinocchio (1940),Top-10 未覆盖，需逐例分析
+popularity,17,151,0.0,0.0,,11,187,0,Willy Wonka and the Chocolate Factory (1971),Top-10 未覆盖，需逐例分析
+item_cf,17,151,0.0,0.0,,11,187,0,Willy Wonka and the Chocolate Factory (1971),Top-10 未覆盖，需逐例分析
+popularity,18,923,0.0,0.0,,170,39,0,Raise the Red Lantern (1991),Top-10 未覆盖，需逐例分析
+item_cf,18,923,0.0,0.0,,170,39,0,Raise the Red Lantern (1991),Top-10 未覆盖，需逐例分析
+popularity,19,435,0.0,0.0,,10,149,0,Butch Cassidy and the Sundance Kid (1969),Top-10 未覆盖，需逐例分析
+item_cf,19,435,0.0,0.0,,10,149,0,Butch Cassidy and the Sundance Kid (1969),Top-10 未覆盖，需逐例分析
+popularity,20,87,0.0,0.0,,19,93,0,Searching for Bobby Fischer (1993),Top-10 未覆盖，需逐例分析
+item_cf,20,87,0.0,0.0,,19,93,0,Searching for Bobby Fischer (1993),Top-10 未覆盖，需逐例分析
+popularity,21,675,0.0,0.0,,47,29,0,"Nosferatu (Nosferatu, eine Symphonie des Grauens) (1922)",Top-10 未覆盖，需逐例分析
+item_cf,21,675,0.0,0.0,,47,29,0,"Nosferatu (Nosferatu, eine Symphonie des Grauens) (1922)",Top-10 未覆盖，需逐例分析
+popularity,22,250,0.0,0.0,,73,106,0,"Fifth Element, The (1997)",Top-10 未覆盖，需逐例分析
+item_cf,22,250,0.0,0.0,,73,106,0,"Fifth Element, The (1997)",Top-10 未覆盖，需逐例分析
+popularity,23,694,0.0,0.0,,88,32,0,Persuasion (1995),Top-10 未覆盖，需逐例分析
+item_cf,23,694,0.0,0.0,,88,32,0,Persuasion (1995),Top-10 未覆盖，需逐例分析
+popularity,24,742,0.0,0.0,,54,153,0,Ransom (1996),Top-10 未覆盖，需逐例分析
+item_cf,24,742,0.0,0.0,,54,153,0,Ransom (1996),Top-10 未覆盖，需逐例分析
+popularity,25,455,0.0,0.0,,66,63,0,Jackie Chan's First Strike (1996),Top-10 未覆盖，需逐例分析
+item_cf,25,455,0.0,0.0,,66,63,0,Jackie Chan's First Strike (1996),Top-10 未覆盖，需逐例分析
+popularity,26,1012,0.0,0.0,,22,59,0,Private Parts (1997),Top-10 未覆盖，需逐例分析
+item_cf,26,1012,0.0,0.0,,22,59,0,Private Parts (1997),Top-10 未覆盖，需逐例分析
+popularity,27,370,0.0,0.0,,8,9,0,Mary Reilly (1996),Top-10 未覆盖，需逐例分析
+item_cf,27,370,0.0,0.0,,8,9,0,Mary Reilly (1996),Top-10 未覆盖，需逐例分析
+popularity,28,223,0.0,0.0,,49,115,0,Sling Blade (1996),Top-10 未覆盖，需逐例分析
+item_cf,28,223,0.0,0.0,,49,115,0,Sling Blade (1996),Top-10 未覆盖，需逐例分析
+popularity,29,1019,0.0,0.0,,22,23,0,"Die xue shuang xiong (Killer, The) (1989)",Top-10 未覆盖，需逐例分析
+item_cf,29,1019,0.0,0.0,,22,23,0,"Die xue shuang xiong (Killer, The) (1989)",Top-10 未覆盖，需逐例分析
+popularity,30,538,0.0,0.0,,28,35,0,Anastasia (1997),Top-10 未覆盖，需逐例分析
+item_cf,30,538,0.0,0.0,,28,35,0,Anastasia (1997),Top-10 未覆盖，需逐例分析
+popularity,31,611,0.0,0.0,,25,28,0,Laura (1944),Top-10 未覆盖，需逐例分析
+item_cf,31,611,0.0,0.0,,25,28,0,Laura (1944),Top-10 未覆盖，需逐例分析
+popularity,32,628,0.0,0.0,,17,90,0,Sleepers (1996),Top-10 未覆盖，需逐例分析
+item_cf,32,628,0.0,0.0,,17,90,0,Sleepers (1996),Top-10 未覆盖，需逐例分析
+popularity,33,348,0.0,0.0,,15,12,0,Desperate Measures (1998),Top-10 未覆盖，需逐例分析
+item_cf,33,348,0.0,0.0,,15,12,0,Desperate Measures (1998),Top-10 未覆盖，需逐例分析
+popularity,34,899,0.0,0.0,,15,3,0,"Winter Guest, The (1997)",Top-10 未覆盖，需逐例分析
+item_cf,34,899,0.0,0.0,,15,3,0,"Winter Guest, The (1997)",Top-10 未覆盖，需逐例分析
+popularity,35,937,0.0,0.0,,7,17,0,"Thousand Acres, A (1997)",Top-10 未覆盖，需逐例分析
+item_cf,35,937,0.0,0.0,,7,17,0,"Thousand Acres, A (1997)",Top-10 未覆盖，需逐例分析
+popularity,36,1026,0.0,0.0,,12,0,1,"Lay of the Land, The (1997)",物品冷启动
+item_cf,36,1026,0.0,0.0,,12,0,1,"Lay of the Land, The (1997)",物品冷启动
+popularity,37,265,0.0,0.0,,34,150,0,"Hunt for Red October, The (1990)",Top-10 未覆盖，需逐例分析
+item_cf,37,265,0.0,0.0,,34,150,0,"Hunt for Red October, The (1990)",Top-10 未覆盖，需逐例分析
+popularity,38,452,0.0,0.0,,73,11,0,Jaws 2 (1978),Top-10 未覆盖，需逐例分析
+item_cf,38,452,0.0,0.0,,73,11,0,Jaws 2 (1978),Top-10 未覆盖，需逐例分析
+popularity,39,937,0.0,0.0,,13,17,0,"Thousand Acres, A (1997)",Top-10 未覆盖，需逐例分析
+item_cf,39,937,0.0,0.0,,13,17,0,"Thousand Acres, A (1997)",Top-10 未覆盖，需逐例分析
+popularity,40,754,0.0,0.0,,10,26,0,Red Corner (1997),Top-10 未覆盖，需逐例分析
+item_cf,40,754,0.0,0.0,,10,26,0,Red Corner (1997),Top-10 未覆盖，需逐例分析
+popularity,41,430,0.0,0.0,,35,66,0,Duck Soup (1933),Top-10 未覆盖，需逐例分析
+item_cf,41,430,0.0,0.0,,35,66,0,Duck Soup (1933),Top-10 未覆盖，需逐例分析
+popularity,42,845,0.0,0.0,,114,82,0,That Thing You Do! (1996),Top-10 未覆盖，需逐例分析
+item_cf,42,845,0.0,0.0,,114,82,0,That Thing You Do! (1996),Top-10 未覆盖，需逐例分析
+popularity,43,316,0.0,0.0,,144,88,0,As Good As It Gets (1997),Top-10 未覆盖，需逐例分析
+item_cf,43,316,0.0,0.0,,144,88,0,As Good As It Gets (1997),Top-10 未覆盖，需逐例分析
+popularity,44,183,0.0,0.0,,98,220,0,Alien (1979),Top-10 未覆盖，需逐例分析
+popularity,45,820,0.0,0.0,,26,20,0,Space Jam (1996),Top-10 未覆盖，需逐例分析
+item_cf,45,820,0.0,0.0,,26,20,0,Space Jam (1996),Top-10 未覆盖，需逐例分析
+popularity,46,125,0.0,0.0,,20,121,0,Phenomenon (1996),Top-10 未覆盖，需逐例分析
+item_cf,46,125,0.0,0.0,,20,121,0,Phenomenon (1996),Top-10 未覆盖，需逐例分析
+popularity,47,327,0.0,0.0,,14,79,0,Cop Land (1997),Top-10 未覆盖，需逐例分析
+item_cf,47,327,0.0,0.0,,14,79,0,Cop Land (1997),Top-10 未覆盖，需逐例分析
+popularity,48,661,0.0,0.0,,41,66,0,High Noon (1952),Top-10 未覆盖，需逐例分析
+item_cf,48,661,0.0,0.0,,41,66,0,High Noon (1952),Top-10 未覆盖，需逐例分析
+popularity,49,518,0.0,0.0,,56,58,0,Miller's Crossing (1990),Top-10 未覆盖，需逐例分析
+item_cf,49,518,0.0,0.0,,56,58,0,Miller's Crossing (1990),Top-10 未覆盖，需逐例分析
+popularity,50,123,0.0,0.0,,13,49,0,"Frighteners, The (1996)",Top-10 未覆盖，需逐例分析
+item_cf,50,123,0.0,0.0,,13,49,0,"Frighteners, The (1996)",Top-10 未覆盖，需逐例分析
+popularity,51,83,0.0,0.0,,11,138,0,Much Ado About Nothing (1993),Top-10 未覆盖，需逐例分析
+item_cf,51,83,0.0,0.0,,11,138,0,Much Ado About Nothing (1993),Top-10 未覆盖，需逐例分析
+popularity,52,191,0.0,0.0,,48,220,0,Amadeus (1984),Top-10 未覆盖，需逐例分析
+item_cf,52,191,0.0,0.0,,48,220,0,Amadeus (1984),Top-10 未覆盖，需逐例分析
+popularity,53,1087,0.0,0.0,,19,0,1,Bloodsport 2 (1995),物品冷启动
+item_cf,53,1087,0.0,0.0,,19,0,1,Bloodsport 2 (1995),物品冷启动
+popularity,54,298,0.0,0.0,,41,121,0,Face/Off (1997),Top-10 未覆盖，需逐例分析
+item_cf,54,298,0.0,0.0,,41,121,0,Face/Off (1997),Top-10 未覆盖，需逐例分析
+popularity,55,144,0.0,0.0,,9,166,0,Die Hard (1988),Top-10 未覆盖，需逐例分析
+item_cf,55,144,0.0,0.0,,9,166,0,Die Hard (1988),Top-10 未覆盖，需逐例分析
+popularity,56,410,0.0,0.0,,113,71,0,Kingpin (1996),Top-10 未覆盖，需逐例分析
+item_cf,56,410,0.0,0.0,,113,71,0,Kingpin (1996),Top-10 未覆盖，需逐例分析
+popularity,57,199,0.0,0.0,,50,133,0,"Bridge on the River Kwai, The (1957)",Top-10 未覆盖，需逐例分析
+item_cf,57,199,0.0,0.0,,50,133,0,"Bridge on the River Kwai, The (1957)",Top-10 未覆盖，需逐例分析
+popularity,58,191,0.0,0.0,,108,220,0,Amadeus (1984),Top-10 未覆盖，需逐例分析
+popularity,59,323,0.0,0.0,,279,71,0,Dante's Peak (1997),Top-10 未覆盖，需逐例分析
+item_cf,59,323,0.0,0.0,,279,71,0,Dante's Peak (1997),Top-10 未覆盖，需逐例分析
+popularity,60,272,0.0,0.0,,178,155,0,Good Will Hunting (1997),Top-10 未覆盖，需逐例分析
+item_cf,60,272,0.0,0.0,,178,155,0,Good Will Hunting (1997),Top-10 未覆盖，需逐例分析
+popularity,61,347,0.0,0.0,,6,73,0,Wag the Dog (1997),Top-10 未覆盖，需逐例分析
+item_cf,61,347,0.0,0.0,,6,73,0,Wag the Dog (1997),Top-10 未覆盖，需逐例分析
+popularity,62,1130,0.0,0.0,,113,0,1,Jupiter's Wife (1994),物品冷启动
+item_cf,62,1130,0.0,0.0,,113,0,1,Jupiter's Wife (1994),物品冷启动
+popularity,63,300,0.0,0.0,,30,248,0,Air Force One (1997),Top-10 未覆盖，需逐例分析
+item_cf,63,300,0.0,0.0,,30,248,0,Air Force One (1997),Top-10 未覆盖，需逐例分析
+popularity,64,651,0.0,0.0,,120,130,0,Glory (1989),Top-10 未覆盖，需逐例分析
+item_cf,64,651,0.0,0.0,,120,130,0,Glory (1989),Top-10 未覆盖，需逐例分析
+popularity,65,185,0.0,0.0,,59,183,0,Psycho (1960),Top-10 未覆盖，需逐例分析
+item_cf,65,185,0.0,0.0,,59,183,0,Psycho (1960),Top-10 未覆盖，需逐例分析
+popularity,66,249,0.0,0.0,,19,52,0,Austin Powers: International Man of Mystery (1997),Top-10 未覆盖，需逐例分析
+item_cf,66,249,0.0,0.0,,19,52,0,Austin Powers: International Man of Mystery (1997),Top-10 未覆盖，需逐例分析
+popularity,67,833,0.0,0.0,,18,22,0,Bulletproof (1996),Top-10 未覆盖，需逐例分析
+item_cf,67,833,0.0,0.0,,18,22,0,Bulletproof (1996),Top-10 未覆盖，需逐例分析
+popularity,68,178,0.0,0.0,,14,106,0,12 Angry Men (1957),Top-10 未覆盖，需逐例分析
+item_cf,68,178,0.0,0.0,,14,106,0,12 Angry Men (1957),Top-10 未覆盖，需逐例分析
+popularity,69,12,0.0,0.0,,38,230,0,"Usual Suspects, The (1995)",Top-10 未覆盖，需逐例分析
+popularity,70,408,0.0,0.0,,65,97,0,"Close Shave, A (1995)",Top-10 未覆盖，需逐例分析
+item_cf,70,408,0.0,0.0,,65,97,0,"Close Shave, A (1995)",Top-10 未覆盖，需逐例分析
+popularity,71,197,0.0,0.0,,23,184,0,"Graduate, The (1967)",Top-10 未覆盖，需逐例分析
+item_cf,71,197,0.0,0.0,,23,184,0,"Graduate, The (1967)",Top-10 未覆盖，需逐例分析
+popularity,72,479,0.0,0.0,,102,161,0,Vertigo (1958),Top-10 未覆盖，需逐例分析
+item_cf,72,479,0.0,0.0,,102,161,0,Vertigo (1958),Top-10 未覆盖，需逐例分析
+popularity,73,285,0.0,0.0,,42,134,0,Secrets & Lies (1996),Top-10 未覆盖，需逐例分析
+item_cf,73,285,0.0,0.0,,42,134,0,Secrets & Lies (1996),Top-10 未覆盖，需逐例分析
+popularity,74,508,0.0,0.0,,21,129,0,"People vs. Larry Flynt, The (1996)",Top-10 未覆盖，需逐例分析
+item_cf,74,508,0.0,0.0,,21,129,0,"People vs. Larry Flynt, The (1996)",Top-10 未覆盖，需逐例分析
+popularity,75,196,0.0,0.0,,39,183,0,Dead Poets Society (1989),Top-10 未覆盖，需逐例分析
+item_cf,75,196,0.0,0.0,,39,183,0,Dead Poets Society (1989),Top-10 未覆盖，需逐例分析
+popularity,76,955,0.0,0.0,,42,25,0,Before Sunrise (1995),Top-10 未覆盖，需逐例分析
+item_cf,76,955,0.0,0.0,,42,25,0,Before Sunrise (1995),Top-10 未覆盖，需逐例分析
+popularity,77,52,0.0,0.0,,37,53,0,"Madness of King George, The (1994)",Top-10 未覆盖，需逐例分析
+item_cf,77,52,0.0,0.0,,37,53,0,"Madness of King George, The (1994)",Top-10 未覆盖，需逐例分析
+popularity,78,237,0.0,0.0,,10,241,0,Jerry Maguire (1996),Top-10 未覆盖，需逐例分析
+popularity,80,237,0.0,0.0,,16,241,0,Jerry Maguire (1996),Top-10 未覆盖，需逐例分析
+item_cf,80,237,0.0,0.0,,16,241,0,Jerry Maguire (1996),Top-10 未覆盖，需逐例分析
+popularity,81,3,0.0,0.0,,25,32,0,Four Rooms (1995),Top-10 未覆盖，需逐例分析
+item_cf,81,3,0.0,0.0,,25,32,0,Four Rooms (1995),Top-10 未覆盖，需逐例分析
+popularity,82,310,0.0,0.0,,71,86,0,"Rainmaker, The (1997)",Top-10 未覆盖，需逐例分析
+item_cf,82,310,0.0,0.0,,71,86,0,"Rainmaker, The (1997)",Top-10 未覆盖，需逐例分析
+popularity,83,298,0.0,0.0,,88,121,0,Face/Off (1997),Top-10 未覆盖，需逐例分析
+item_cf,83,298,0.0,0.0,,88,121,0,Face/Off (1997),Top-10 未覆盖，需逐例分析
+popularity,84,385,0.0,0.0,,46,116,0,True Lies (1994),Top-10 未覆盖，需逐例分析
+item_cf,84,385,0.0,0.0,,46,116,0,True Lies (1994),Top-10 未覆盖，需逐例分析
+popularity,85,272,0.0,0.0,,155,155,0,Good Will Hunting (1997),Top-10 未覆盖，需逐例分析
+item_cf,85,272,0.0,0.0,,155,155,0,Good Will Hunting (1997),Top-10 未覆盖，需逐例分析
+popularity,86,683,0.0,0.0,,10,7,0,Rocket Man (1997),Top-10 未覆盖，需逐例分析
+item_cf,86,683,0.0,0.0,,10,7,0,Rocket Man (1997),Top-10 未覆盖，需逐例分析
+popularity,87,1189,0.0,0.0,,129,2,0,Prefontaine (1997),目标物品极稀疏
+item_cf,87,1189,0.0,0.0,,129,2,0,Prefontaine (1997),目标物品极稀疏
+popularity,88,1191,0.0,0.0,,13,1,0,"Letter From Death Row, A (1998)",目标物品极稀疏
+item_cf,88,1191,0.0,0.0,,13,1,0,"Letter From Death Row, A (1998)",目标物品极稀疏
+popularity,89,187,0.0,0.0,,52,165,0,"Godfather: Part II, The (1974)",Top-10 未覆盖，需逐例分析
+item_cf,89,187,0.0,0.0,,52,165,0,"Godfather: Part II, The (1974)",Top-10 未覆盖，需逐例分析
+popularity,90,385,0.0,0.0,,239,116,0,True Lies (1994),Top-10 未覆盖，需逐例分析
+item_cf,90,385,0.0,0.0,,239,116,0,True Lies (1994),Top-10 未覆盖，需逐例分析
+popularity,91,230,0.0,0.0,,71,97,0,Star Trek IV: The Voyage Home (1986),Top-10 未覆盖，需逐例分析
+item_cf,91,230,0.0,0.0,,71,97,0,Star Trek IV: The Voyage Home (1986),Top-10 未覆盖，需逐例分析
+popularity,92,307,0.0,0.0,,160,105,0,"Devil's Advocate, The (1997)",Top-10 未覆盖，需逐例分析
+item_cf,92,307,0.0,0.0,,160,105,0,"Devil's Advocate, The (1997)",Top-10 未覆盖，需逐例分析
+popularity,93,235,0.0,0.0,,10,57,0,Mars Attacks! (1996),Top-10 未覆盖，需逐例分析
+item_cf,93,235,0.0,0.0,,10,57,0,Mars Attacks! (1996),Top-10 未覆盖，需逐例分析
+popularity,94,690,0.0,0.0,,241,81,0,Seven Years in Tibet (1997),Top-10 未覆盖，需逐例分析
+item_cf,94,690,0.0,0.0,,241,81,0,Seven Years in Tibet (1997),Top-10 未覆盖，需逐例分析
+popularity,95,445,0.0,0.0,,142,10,0,"Body Snatcher, The (1945)",Top-10 未覆盖，需逐例分析
+item_cf,95,445,0.0,0.0,,142,10,0,"Body Snatcher, The (1945)",Top-10 未覆盖，需逐例分析
+popularity,96,1232,0.0,0.0,,47,1,0,Madonna: Truth or Dare (1991),目标物品极稀疏
+item_cf,96,1232,0.0,0.0,,47,1,0,Madonna: Truth or Dare (1991),目标物品极稀疏
+popularity,97,663,0.0,0.0,,47,81,0,Being There (1979),Top-10 未覆盖，需逐例分析
+item_cf,97,663,0.0,0.0,,47,81,0,Being There (1979),Top-10 未覆盖，需逐例分析
+popularity,98,629,0.0,0.0,,12,32,0,Victor/Victoria (1982),Top-10 未覆盖，需逐例分析
+item_cf,98,629,0.0,0.0,,12,32,0,Victor/Victoria (1982),Top-10 未覆盖，需逐例分析
+popularity,99,433,0.0,0.0,,77,101,0,Heathers (1989),Top-10 未覆盖，需逐例分析
+item_cf,99,433,0.0,0.0,,77,101,0,Heathers (1989),Top-10 未覆盖，需逐例分析
+popularity,100,690,0.0,0.0,,21,81,0,Seven Years in Tibet (1997),Top-10 未覆盖，需逐例分析
+popularity,101,866,0.0,0.0,,16,51,0,Michael (1996),Top-10 未覆盖，需逐例分析
+item_cf,101,866,0.0,0.0,,16,51,0,Michael (1996),Top-10 未覆盖，需逐例分析
+popularity,102,202,0.0,0.0,,22,177,0,Groundhog Day (1993),Top-10 未覆盖，需逐例分析
+item_cf,102,202,0.0,0.0,,22,177,0,Groundhog Day (1993),Top-10 未覆盖，需逐例分析
+popularity,103,96,0.0,0.0,,15,224,0,Terminator 2: Judgment Day (1991),Top-10 未覆盖，需逐例分析
+popularity,105,327,0.0,0.0,,10,79,0,Cop Land (1997),Top-10 未覆盖，需逐例分析
+item_cf,105,327,0.0,0.0,,10,79,0,Cop Land (1997),Top-10 未覆盖，需逐例分析
+item_cf,106,313,0.0,0.0,,42,276,0,Titanic (1997),Top-10 未覆盖，需逐例分析
+popularity,107,312,0.0,0.0,,7,27,0,Midnight in the Garden of Good and Evil (1997),Top-10 未覆盖，需逐例分析
+item_cf,107,312,0.0,0.0,,7,27,0,Midnight in the Garden of Good and Evil (1997),Top-10 未覆盖，需逐例分析
+popularity,108,290,0.0,0.0,,15,33,0,Fierce Creatures (1997),Top-10 未覆盖，需逐例分析
+item_cf,108,290,0.0,0.0,,15,33,0,Fierce Creatures (1997),Top-10 未覆盖，需逐例分析
+popularity,109,1157,0.0,0.0,,114,8,0,"Relic, The (1997)",Top-10 未覆盖，需逐例分析
+item_cf,109,1157,0.0,0.0,,114,8,0,"Relic, The (1997)",Top-10 未覆盖，需逐例分析
+popularity,110,94,0.0,0.0,,40,46,0,Home Alone (1990),Top-10 未覆盖，需逐例分析
+item_cf,110,94,0.0,0.0,,40,46,0,Home Alone (1990),Top-10 未覆盖，需逐例分析
+popularity,112,339,0.0,0.0,,30,14,0,Mad City (1997),Top-10 未覆盖，需逐例分析
+item_cf,112,339,0.0,0.0,,30,14,0,Mad City (1997),Top-10 未覆盖，需逐例分析
+popularity,113,979,0.0,0.0,,27,9,0,"Trigger Effect, The (1996)",Top-10 未覆盖，需逐例分析
+item_cf,113,979,0.0,0.0,,27,9,0,"Trigger Effect, The (1996)",Top-10 未覆盖，需逐例分析
+popularity,114,522,0.0,0.0,,22,18,0,Down by Law (1986),Top-10 未覆盖，需逐例分析
+item_cf,114,522,0.0,0.0,,22,18,0,Down by Law (1986),Top-10 未覆盖，需逐例分析
+popularity,115,178,0.0,0.0,,61,106,0,12 Angry Men (1957),Top-10 未覆盖，需逐例分析
+item_cf,115,178,0.0,0.0,,61,106,0,12 Angry Men (1957),Top-10 未覆盖，需逐例分析
+popularity,116,344,0.0,0.0,,40,33,0,"Apostle, The (1997)",Top-10 未覆盖，需逐例分析
+item_cf,116,344,0.0,0.0,,40,33,0,"Apostle, The (1997)",Top-10 未覆盖，需逐例分析
+popularity,117,298,0.0,0.0,,56,121,0,Face/Off (1997),Top-10 未覆盖，需逐例分析
+item_cf,117,298,0.0,0.0,,56,121,0,Face/Off (1997),Top-10 未覆盖，需逐例分析
+popularity,118,1079,0.0,0.0,,65,6,0,Joe's Apartment (1996),Top-10 未覆盖，需逐例分析
+item_cf,118,1079,0.0,0.0,,65,6,0,Joe's Apartment (1996),Top-10 未覆盖，需逐例分析
+popularity,119,917,0.0,0.0,,133,3,0,Mercury Rising (1998),Top-10 未覆盖，需逐例分析
+item_cf,119,917,0.0,0.0,,133,3,0,Mercury Rising (1998),Top-10 未覆盖，需逐例分析
+popularity,120,405,0.0,0.0,,15,147,0,Mission: Impossible (1996),Top-10 未覆盖，需逐例分析
+item_cf,120,405,0.0,0.0,,15,147,0,Mission: Impossible (1996),Top-10 未覆盖，需逐例分析
+popularity,121,717,0.0,0.0,,43,21,0,"Juror, The (1996)",Top-10 未覆盖，需逐例分析
+item_cf,121,717,0.0,0.0,,43,21,0,"Juror, The (1996)",Top-10 未覆盖，需逐例分析
+popularity,122,1044,0.0,0.0,,44,16,0,"Paper, The (1994)",Top-10 未覆盖，需逐例分析
+item_cf,122,1044,0.0,0.0,,44,16,0,"Paper, The (1994)",Top-10 未覆盖，需逐例分析
+popularity,123,285,0.0,0.0,,35,134,0,Secrets & Lies (1996),Top-10 未覆盖，需逐例分析
+item_cf,123,285,0.0,0.0,,35,134,0,Secrets & Lies (1996),Top-10 未覆盖，需逐例分析
+popularity,124,195,0.0,0.0,,11,215,0,"Terminator, The (1984)",Top-10 未覆盖，需逐例分析
+popularity,125,158,0.0,0.0,,85,6,0,Weekend at Bernie's (1989),Top-10 未覆盖，需逐例分析
+item_cf,125,158,0.0,0.0,,85,6,0,Weekend at Bernie's (1989),Top-10 未覆盖，需逐例分析
+popularity,126,884,0.0,0.0,,22,2,0,Year of the Horse (1997),目标物品极稀疏
+item_cf,126,884,0.0,0.0,,22,2,0,Year of the Horse (1997),目标物品极稀疏
+popularity,127,450,0.0,0.0,,18,10,0,Star Trek V: The Final Frontier (1989),Top-10 未覆盖，需逐例分析
+item_cf,127,450,0.0,0.0,,18,10,0,Star Trek V: The Final Frontier (1989),Top-10 未覆盖，需逐例分析
+popularity,128,684,0.0,0.0,,109,107,0,In the Line of Fire (1993),Top-10 未覆盖，需逐例分析
+item_cf,128,684,0.0,0.0,,109,107,0,In the Line of Fire (1993),Top-10 未覆盖，需逐例分析
+popularity,129,906,0.0,0.0,,6,6,0,Oscar & Lucinda (1997),Top-10 未覆盖，需逐例分析
+item_cf,129,906,0.0,0.0,,6,6,0,Oscar & Lucinda (1997),Top-10 未覆盖，需逐例分析
+popularity,130,669,0.0,0.0,,256,0,1,Body Parts (1991),物品冷启动
+item_cf,130,669,0.0,0.0,,256,0,1,Body Parts (1991),物品冷启动
+popularity,131,750,0.0,0.0,,22,80,0,Amistad (1997),Top-10 未覆盖，需逐例分析
+item_cf,131,750,0.0,0.0,,22,80,0,Amistad (1997),Top-10 未覆盖，需逐例分析
+popularity,132,922,0.0,0.0,,13,23,0,Dead Man (1995),Top-10 未覆盖，需逐例分析
+item_cf,132,922,0.0,0.0,,13,23,0,Dead Man (1995),Top-10 未覆盖，需逐例分析
+popularity,133,316,0.0,0.0,,9,88,0,As Good As It Gets (1997),Top-10 未覆盖，需逐例分析
+item_cf,134,1,0.0,0.0,,14,315,0,Toy Story (1995),Top-10 未覆盖，需逐例分析
+popularity,135,77,0.0,0.0,,27,60,0,"Firm, The (1993)",Top-10 未覆盖，需逐例分析
+item_cf,135,77,0.0,0.0,,27,60,0,"Firm, The (1993)",Top-10 未覆盖，需逐例分析
+popularity,136,525,0.0,0.0,,31,54,0,"Big Sleep, The (1946)",Top-10 未覆盖，需逐例分析
+item_cf,136,525,0.0,0.0,,31,54,0,"Big Sleep, The (1946)",Top-10 未覆盖，需逐例分析
+popularity,137,261,0.0,0.0,,37,8,0,Air Bud (1997),Top-10 未覆盖，需逐例分析
+item_cf,137,261,0.0,0.0,,37,8,0,Air Bud (1997),Top-10 未覆盖，需逐例分析
+popularity,138,602,0.0,0.0,,46,30,0,"American in Paris, An (1951)",Top-10 未覆盖，需逐例分析
+item_cf,138,602,0.0,0.0,,46,30,0,"American in Paris, An (1951)",Top-10 未覆盖，需逐例分析
+popularity,139,458,0.0,0.0,,17,32,0,Nixon (1995),Top-10 未覆盖，需逐例分析
+item_cf,139,458,0.0,0.0,,17,32,0,Nixon (1995),Top-10 未覆盖，需逐例分析
+popularity,140,880,0.0,0.0,,8,21,0,Soul Food (1997),Top-10 未覆盖，需逐例分析
+item_cf,140,880,0.0,0.0,,8,21,0,Soul Food (1997),Top-10 未覆盖，需逐例分析
+item_cf,141,300,0.0,0.0,,62,248,0,Air Force One (1997),Top-10 未覆盖，需逐例分析
+popularity,142,425,0.0,0.0,,19,55,0,Bob Roberts (1992),Top-10 未覆盖，需逐例分析
+item_cf,142,425,0.0,0.0,,19,55,0,Bob Roberts (1992),Top-10 未覆盖，需逐例分析
+popularity,143,347,0.0,0.0,,12,73,0,Wag the Dog (1997),Top-10 未覆盖，需逐例分析
+item_cf,143,347,0.0,0.0,,12,73,0,Wag the Dog (1997),Top-10 未覆盖，需逐例分析
+popularity,144,480,0.0,0.0,,139,151,0,North by Northwest (1959),Top-10 未覆盖，需逐例分析
+item_cf,144,480,0.0,0.0,,139,151,0,North by Northwest (1959),Top-10 未覆盖，需逐例分析
+popularity,145,354,0.0,0.0,,154,37,0,"Wedding Singer, The (1998)",Top-10 未覆盖，需逐例分析
+item_cf,145,354,0.0,0.0,,154,37,0,"Wedding Singer, The (1998)",Top-10 未覆盖，需逐例分析
+popularity,146,1022,0.0,0.0,,17,14,0,"Fast, Cheap & Out of Control (1997)",Top-10 未覆盖，需逐例分析
+item_cf,146,1022,0.0,0.0,,17,14,0,"Fast, Cheap & Out of Control (1997)",Top-10 未覆盖，需逐例分析
+popularity,147,339,0.0,0.0,,16,14,0,Mad City (1997),Top-10 未覆盖，需逐例分析
+item_cf,147,339,0.0,0.0,,16,14,0,Mad City (1997),Top-10 未覆盖，需逐例分析
+popularity,148,1012,0.0,0.0,,48,59,0,Private Parts (1997),Top-10 未覆盖，需逐例分析
+item_cf,148,1012,0.0,0.0,,48,59,0,Private Parts (1997),Top-10 未覆盖，需逐例分析
+popularity,149,340,0.0,0.0,,10,112,0,Boogie Nights (1997),Top-10 未覆盖，需逐例分析
+popularity,150,410,0.0,0.0,,25,71,0,Kingpin (1996),Top-10 未覆盖，需逐例分析
+item_cf,150,410,0.0,0.0,,25,71,0,Kingpin (1996),Top-10 未覆盖，需逐例分析
+popularity,151,966,0.0,0.0,,225,21,0,"Affair to Remember, An (1957)",Top-10 未覆盖，需逐例分析
+item_cf,151,966,0.0,0.0,,225,21,0,"Affair to Remember, An (1957)",Top-10 未覆盖，需逐例分析
+popularity,152,272,0.0,0.0,,87,155,0,Good Will Hunting (1997),Top-10 未覆盖，需逐例分析
+item_cf,152,272,0.0,0.0,,87,155,0,Good Will Hunting (1997),Top-10 未覆盖，需逐例分析
+item_cf,153,258,0.0,0.0,,7,335,0,Contact (1997),Top-10 未覆盖，需逐例分析
+popularity,154,484,0.0,0.0,,35,110,0,"Maltese Falcon, The (1941)",Top-10 未覆盖，需逐例分析
+item_cf,154,484,0.0,0.0,,35,110,0,"Maltese Falcon, The (1941)",Top-10 未覆盖，需逐例分析
+popularity,155,306,0.0,0.0,,2,70,0,"Mrs. Brown (Her Majesty, Mrs. Brown) (1997)",用户历史过短
+item_cf,155,306,0.0,0.0,,2,70,0,"Mrs. Brown (Her Majesty, Mrs. Brown) (1997)",用户历史过短
+popularity,156,510,0.0,0.0,,22,83,0,"Magnificent Seven, The (1954)",Top-10 未覆盖，需逐例分析
+item_cf,156,510,0.0,0.0,,22,83,0,"Magnificent Seven, The (1954)",Top-10 未覆盖，需逐例分析
+popularity,157,407,0.0,0.0,,30,6,0,Spy Hard (1996),Top-10 未覆盖，需逐例分析
+item_cf,157,407,0.0,0.0,,30,6,0,Spy Hard (1996),Top-10 未覆盖，需逐例分析
+popularity,158,290,0.0,0.0,,111,33,0,Fierce Creatures (1997),Top-10 未覆盖，需逐例分析
+item_cf,158,290,0.0,0.0,,111,33,0,Fierce Creatures (1997),Top-10 未覆盖，需逐例分析
+popularity,159,259,0.0,0.0,,54,39,0,George of the Jungle (1997),Top-10 未覆盖，需逐例分析
+item_cf,159,259,0.0,0.0,,54,39,0,George of the Jungle (1997),Top-10 未覆盖，需逐例分析
+popularity,160,302,0.0,0.0,,87,234,0,L.A. Confidential (1997),Top-10 未覆盖，需逐例分析
+item_cf,160,302,0.0,0.0,,87,234,0,L.A. Confidential (1997),Top-10 未覆盖，需逐例分析
+popularity,161,69,0.0,0.0,,9,224,0,Forrest Gump (1994),Top-10 未覆盖，需逐例分析
+item_cf,161,69,0.0,0.0,,9,224,0,Forrest Gump (1994),Top-10 未覆盖，需逐例分析
+popularity,162,710,0.0,0.0,,24,43,0,Better Off Dead... (1985),Top-10 未覆盖，需逐例分析
+item_cf,162,710,0.0,0.0,,24,43,0,Better Off Dead... (1985),Top-10 未覆盖，需逐例分析
+popularity,164,934,0.0,0.0,,49,17,0,"Preacher's Wife, The (1996)",Top-10 未覆盖，需逐例分析
+item_cf,164,934,0.0,0.0,,49,17,0,"Preacher's Wife, The (1996)",Top-10 未覆盖，需逐例分析
+popularity,165,432,0.0,0.0,,20,110,0,Fantasia (1940),Top-10 未覆盖，需逐例分析
+item_cf,165,432,0.0,0.0,,20,110,0,Fantasia (1940),Top-10 未覆盖，需逐例分析
+popularity,166,894,0.0,0.0,,10,3,0,Home Alone 3 (1997),Top-10 未覆盖，需逐例分析
+item_cf,166,894,0.0,0.0,,10,3,0,Home Alone 3 (1997),Top-10 未覆盖，需逐例分析
+popularity,167,530,0.0,0.0,,39,57,0,"Man Who Would Be King, The (1975)",Top-10 未覆盖，需逐例分析
+item_cf,167,530,0.0,0.0,,39,57,0,"Man Who Would Be King, The (1975)",Top-10 未覆盖，需逐例分析
+popularity,168,225,0.0,0.0,,35,27,0,101 Dalmatians (1996),Top-10 未覆盖，需逐例分析
+item_cf,168,225,0.0,0.0,,35,27,0,101 Dalmatians (1996),Top-10 未覆盖，需逐例分析
+popularity,169,443,0.0,0.0,,23,105,0,"Birds, The (1963)",Top-10 未覆盖，需逐例分析
+item_cf,169,443,0.0,0.0,,23,105,0,"Birds, The (1963)",Top-10 未覆盖，需逐例分析
+popularity,170,749,0.0,0.0,,9,19,0,"MatchMaker, The (1997)",Top-10 未覆盖，需逐例分析
+item_cf,170,749,0.0,0.0,,9,19,0,"MatchMaker, The (1997)",Top-10 未覆盖，需逐例分析
+popularity,171,887,0.0,0.0,,14,35,0,Eve's Bayou (1997),Top-10 未覆盖，需逐例分析
+item_cf,171,887,0.0,0.0,,14,35,0,Eve's Bayou (1997),Top-10 未覆盖，需逐例分析
+popularity,172,582,0.0,0.0,,8,96,0,"Piano, The (1993)",Top-10 未覆盖，需逐例分析
+item_cf,172,582,0.0,0.0,,8,96,0,"Piano, The (1993)",Top-10 未覆盖，需逐例分析
+popularity,173,292,0.0,0.0,,36,68,0,Rosewood (1997),Top-10 未覆盖，需逐例分析
+item_cf,173,292,0.0,0.0,,36,68,0,Rosewood (1997),Top-10 未覆盖，需逐例分析
+popularity,174,238,0.0,0.0,,110,176,0,Raising Arizona (1987),Top-10 未覆盖，需逐例分析
+item_cf,174,238,0.0,0.0,,110,176,0,Raising Arizona (1987),Top-10 未覆盖，需逐例分析
+popularity,175,88,0.0,0.0,,23,124,0,Sleepless in Seattle (1993),Top-10 未覆盖，需逐例分析
+item_cf,175,88,0.0,0.0,,23,124,0,Sleepless in Seattle (1993),Top-10 未覆盖，需逐例分析
+popularity,176,458,0.0,0.0,,38,32,0,Nixon (1995),Top-10 未覆盖，需逐例分析
+item_cf,176,458,0.0,0.0,,38,32,0,Nixon (1995),Top-10 未覆盖，需逐例分析
+popularity,177,92,0.0,0.0,,70,63,0,True Romance (1993),Top-10 未覆盖，需逐例分析
+item_cf,177,92,0.0,0.0,,70,63,0,True Romance (1993),Top-10 未覆盖，需逐例分析
+popularity,178,342,0.0,0.0,,177,18,0,"Man Who Knew Too Little, The (1997)",Top-10 未覆盖，需逐例分析
+item_cf,178,342,0.0,0.0,,177,18,0,"Man Who Knew Too Little, The (1997)",Top-10 未覆盖，需逐例分析
+popularity,179,895,0.0,0.0,,19,42,0,Scream 2 (1997),Top-10 未覆盖，需逐例分析
+item_cf,179,895,0.0,0.0,,19,42,0,Scream 2 (1997),Top-10 未覆盖，需逐例分析
+popularity,181,974,0.0,0.0,,19,11,0,Eye for an Eye (1996),Top-10 未覆盖，需逐例分析
+item_cf,181,974,0.0,0.0,,19,11,0,Eye for an Eye (1996),Top-10 未覆盖，需逐例分析
+popularity,182,111,0.0,0.0,,15,145,0,"Truth About Cats & Dogs, The (1996)",Top-10 未覆盖，需逐例分析
+item_cf,182,111,0.0,0.0,,15,145,0,"Truth About Cats & Dogs, The (1996)",Top-10 未覆盖，需逐例分析
+popularity,183,720,0.0,0.0,,19,29,0,First Knight (1995),Top-10 未覆盖，需逐例分析
+item_cf,183,720,0.0,0.0,,19,29,0,First Knight (1995),Top-10 未覆盖，需逐例分析
+popularity,184,1167,0.0,0.0,,145,6,0,"Sum of Us, The (1994)",Top-10 未覆盖，需逐例分析
+item_cf,184,1167,0.0,0.0,,145,6,0,"Sum of Us, The (1994)",Top-10 未覆盖，需逐例分析
+popularity,185,287,0.0,0.0,,41,43,0,Marvin's Room (1996),Top-10 未覆盖，需逐例分析
+item_cf,185,287,0.0,0.0,,41,43,0,Marvin's Room (1996),Top-10 未覆盖，需逐例分析
+item_cf,186,98,0.0,0.0,,47,341,0,"Silence of the Lambs, The (1991)",Top-10 未覆盖，需逐例分析
+popularity,187,462,0.0,0.0,,43,99,0,Like Water For Chocolate (Como agua para chocolate) (1992),Top-10 未覆盖，需逐例分析
+item_cf,187,462,0.0,0.0,,43,99,0,Like Water For Chocolate (Como agua para chocolate) (1992),Top-10 未覆盖，需逐例分析
+popularity,188,455,0.0,0.0,,69,63,0,Jackie Chan's First Strike (1996),Top-10 未覆盖，需逐例分析
+item_cf,188,455,0.0,0.0,,69,63,0,Jackie Chan's First Strike (1996),Top-10 未覆盖，需逐例分析
+popularity,189,512,0.0,0.0,,133,39,0,Wings of Desire (1987),Top-10 未覆盖，需逐例分析
+item_cf,189,512,0.0,0.0,,133,39,0,Wings of Desire (1987),Top-10 未覆盖，需逐例分析
+popularity,190,405,0.0,0.0,,26,147,0,Mission: Impossible (1996),Top-10 未覆盖，需逐例分析
+item_cf,190,405,0.0,0.0,,26,147,0,Mission: Impossible (1996),Top-10 未覆盖，需逐例分析
+popularity,191,86,0.0,0.0,,13,112,0,"Remains of the Day, The (1993)",Top-10 未覆盖，需逐例分析
+item_cf,191,86,0.0,0.0,,13,112,0,"Remains of the Day, The (1993)",Top-10 未覆盖，需逐例分析
+popularity,192,1061,0.0,0.0,,20,8,0,"Evening Star, The (1996)",Top-10 未覆盖，需逐例分析
+item_cf,192,1061,0.0,0.0,,20,8,0,"Evening Star, The (1996)",Top-10 未覆盖，需逐例分析
+popularity,193,366,0.0,0.0,,55,20,0,Dangerous Minds (1995),Top-10 未覆盖，需逐例分析
+item_cf,193,366,0.0,0.0,,55,20,0,Dangerous Minds (1995),Top-10 未覆盖，需逐例分析
+popularity,194,737,0.0,0.0,,90,20,0,Sirens (1994),Top-10 未覆盖，需逐例分析
+item_cf,194,737,0.0,0.0,,90,20,0,Sirens (1994),Top-10 未覆盖，需逐例分析
+popularity,195,421,0.0,0.0,,40,64,0,William Shakespeare's Romeo and Juliet (1996),Top-10 未覆盖，需逐例分析
+item_cf,195,421,0.0,0.0,,40,64,0,William Shakespeare's Romeo and Juliet (1996),Top-10 未覆盖，需逐例分析
+popularity,196,1118,0.0,0.0,,21,15,0,Up in Smoke (1978),Top-10 未覆盖，需逐例分析
+item_cf,196,1118,0.0,0.0,,21,15,0,Up in Smoke (1978),Top-10 未覆盖，需逐例分析
+popularity,197,554,0.0,0.0,,53,28,0,Waterworld (1995),Top-10 未覆盖，需逐例分析
+item_cf,197,554,0.0,0.0,,53,28,0,Waterworld (1995),Top-10 未覆盖，需逐例分析
+popularity,198,942,0.0,0.0,,72,25,0,What's Love Got to Do with It (1993),Top-10 未覆盖，需逐例分析
+item_cf,198,942,0.0,0.0,,72,25,0,What's Love Got to Do with It (1993),Top-10 未覆盖，需逐例分析
+popularity,199,473,0.0,0.0,,17,43,0,James and the Giant Peach (1996),Top-10 未覆盖，需逐例分析
+item_cf,199,473,0.0,0.0,,17,43,0,James and the Giant Peach (1996),Top-10 未覆盖，需逐例分析
+popularity,200,831,0.0,0.0,,163,15,0,Escape from L.A. (1996),Top-10 未覆盖，需逐例分析
+item_cf,200,831,0.0,0.0,,163,15,0,Escape from L.A. (1996),Top-10 未覆盖，需逐例分析
+popularity,201,227,0.0,0.0,,137,75,0,Star Trek VI: The Undiscovered Country (1991),Top-10 未覆盖，需逐例分析
+item_cf,201,227,0.0,0.0,,137,75,0,Star Trek VI: The Undiscovered Country (1991),Top-10 未覆盖，需逐例分析
+popularity,202,484,0.0,0.0,,6,110,0,"Maltese Falcon, The (1941)",Top-10 未覆盖，需逐例分析
+item_cf,202,484,0.0,0.0,,6,110,0,"Maltese Falcon, The (1941)",Top-10 未覆盖，需逐例分析
+popularity,203,93,0.0,0.0,,19,76,0,Welcome to the Dollhouse (1995),Top-10 未覆盖，需逐例分析
+item_cf,203,93,0.0,0.0,,19,76,0,Welcome to the Dollhouse (1995),Top-10 未覆盖，需逐例分析
+popularity,204,297,0.0,0.0,,21,35,0,Ulee's Gold (1997),Top-10 未覆盖，需逐例分析
+item_cf,204,297,0.0,0.0,,21,35,0,Ulee's Gold (1997),Top-10 未覆盖，需逐例分析
+popularity,205,748,0.0,0.0,,6,124,0,"Saint, The (1997)",Top-10 未覆盖，需逐例分析
+item_cf,205,748,0.0,0.0,,6,124,0,"Saint, The (1997)",Top-10 未覆盖，需逐例分析
+popularity,206,302,0.0,0.0,,13,234,0,L.A. Confidential (1997),Top-10 未覆盖，需逐例分析
+popularity,207,302,0.0,0.0,,81,234,0,L.A. Confidential (1997),Top-10 未覆盖，需逐例分析
+item_cf,207,302,0.0,0.0,,81,234,0,L.A. Confidential (1997),Top-10 未覆盖，需逐例分析
+popularity,208,739,0.0,0.0,,22,75,0,Pretty Woman (1990),Top-10 未覆盖，需逐例分析
+item_cf,208,739,0.0,0.0,,22,75,0,Pretty Woman (1990),Top-10 未覆盖，需逐例分析
+popularity,209,242,0.0,0.0,,14,88,0,Kolya (1996),Top-10 未覆盖，需逐例分析
+item_cf,209,242,0.0,0.0,,14,88,0,Kolya (1996),Top-10 未覆盖，需逐例分析
+popularity,210,94,0.0,0.0,,99,46,0,Home Alone (1990),Top-10 未覆盖，需逐例分析
+item_cf,210,94,0.0,0.0,,99,46,0,Home Alone (1990),Top-10 未覆盖，需逐例分析
+popularity,211,257,0.0,0.0,,13,186,0,Men in Black (1997),Top-10 未覆盖，需逐例分析
+item_cf,211,257,0.0,0.0,,13,186,0,Men in Black (1997),Top-10 未覆盖，需逐例分析
+popularity,212,511,0.0,0.0,,17,144,0,Lawrence of Arabia (1962),Top-10 未覆盖，需逐例分析
+item_cf,212,511,0.0,0.0,,17,144,0,Lawrence of Arabia (1962),Top-10 未覆盖，需逐例分析
+popularity,213,176,0.0,0.0,,105,209,0,Aliens (1986),Top-10 未覆盖，需逐例分析
+popularity,214,1129,0.0,0.0,,90,16,0,Chungking Express (1994),Top-10 未覆盖，需逐例分析
+item_cf,214,1129,0.0,0.0,,90,16,0,Chungking Express (1994),Top-10 未覆盖，需逐例分析
+popularity,215,226,0.0,0.0,,57,71,0,Die Hard 2 (1990),Top-10 未覆盖，需逐例分析
+item_cf,215,226,0.0,0.0,,57,71,0,Die Hard 2 (1990),Top-10 未覆盖，需逐例分析
+popularity,216,216,0.0,0.0,,83,207,0,When Harry Met Sally... (1989),Top-10 未覆盖，需逐例分析
+popularity,217,391,0.0,0.0,,29,11,0,Last Action Hero (1993),Top-10 未覆盖，需逐例分析
+item_cf,217,391,0.0,0.0,,29,11,0,Last Action Hero (1993),Top-10 未覆盖，需逐例分析
+popularity,218,203,0.0,0.0,,26,129,0,Unforgiven (1992),Top-10 未覆盖，需逐例分析
+item_cf,218,203,0.0,0.0,,26,129,0,Unforgiven (1992),Top-10 未覆盖，需逐例分析
+popularity,219,906,0.0,0.0,,18,6,0,Oscar & Lucinda (1997),Top-10 未覆盖，需逐例分析
+item_cf,219,906,0.0,0.0,,18,6,0,Oscar & Lucinda (1997),Top-10 未覆盖，需逐例分析
+popularity,220,298,0.0,0.0,,14,121,0,Face/Off (1997),Top-10 未覆盖，需逐例分析
+item_cf,220,298,0.0,0.0,,14,121,0,Face/Off (1997),Top-10 未覆盖，需逐例分析
+popularity,221,751,0.0,0.0,,85,86,0,Tomorrow Never Dies (1997),Top-10 未覆盖，需逐例分析
+item_cf,221,751,0.0,0.0,,85,86,0,Tomorrow Never Dies (1997),Top-10 未覆盖，需逐例分析
+popularity,222,1226,0.0,0.0,,147,16,0,Night Falls on Manhattan (1997),Top-10 未覆盖，需逐例分析
+item_cf,222,1226,0.0,0.0,,147,16,0,Night Falls on Manhattan (1997),Top-10 未覆盖，需逐例分析
+popularity,223,155,0.0,0.0,,41,35,0,Dirty Dancing (1987),Top-10 未覆盖，需逐例分析
+item_cf,223,155,0.0,0.0,,41,35,0,Dirty Dancing (1987),Top-10 未覆盖，需逐例分析
+popularity,224,239,0.0,0.0,,48,73,0,Sneakers (1992),Top-10 未覆盖，需逐例分析
+item_cf,224,239,0.0,0.0,,48,73,0,Sneakers (1992),Top-10 未覆盖，需逐例分析
+popularity,225,1443,0.0,0.0,,24,2,0,8 Seconds (1994),目标物品极稀疏
+item_cf,225,1443,0.0,0.0,,24,2,0,8 Seconds (1994),目标物品极稀疏
+popularity,226,250,0.0,0.0,,33,106,0,"Fifth Element, The (1997)",Top-10 未覆盖，需逐例分析
+item_cf,226,250,0.0,0.0,,33,106,0,"Fifth Element, The (1997)",Top-10 未覆盖，需逐例分析
+popularity,227,1008,0.0,0.0,,32,19,0,I Shot Andy Warhol (1996),Top-10 未覆盖，需逐例分析
+item_cf,227,1008,0.0,0.0,,32,19,0,I Shot Andy Warhol (1996),Top-10 未覆盖，需逐例分析
+popularity,228,812,0.0,0.0,,8,7,0,Andre (1994),Top-10 未覆盖，需逐例分析
+item_cf,228,812,0.0,0.0,,8,7,0,Andre (1994),Top-10 未覆盖，需逐例分析
+popularity,229,896,0.0,0.0,,10,26,0,"Sweet Hereafter, The (1997)",Top-10 未覆盖，需逐例分析
+item_cf,229,896,0.0,0.0,,10,26,0,"Sweet Hereafter, The (1997)",Top-10 未覆盖，需逐例分析
+item_cf,230,100,0.0,0.0,,88,402,0,Fargo (1996),Top-10 未覆盖，需逐例分析
+popularity,231,846,0.0,0.0,,12,12,0,To Gillian on Her 37th Birthday (1996),Top-10 未覆盖，需逐例分析
+item_cf,231,846,0.0,0.0,,12,12,0,To Gillian on Her 37th Birthday (1996),Top-10 未覆盖，需逐例分析
+popularity,232,52,0.0,0.0,,65,53,0,"Madness of King George, The (1994)",Top-10 未覆盖，需逐例分析
+item_cf,232,52,0.0,0.0,,65,53,0,"Madness of King George, The (1994)",Top-10 未覆盖，需逐例分析
+item_cf,233,313,0.0,0.0,,91,276,0,Titanic (1997),Top-10 未覆盖，需逐例分析
+popularity,234,152,0.0,0.0,,157,48,0,Sleeper (1973),Top-10 未覆盖，需逐例分析
+item_cf,234,152,0.0,0.0,,157,48,0,Sleeper (1973),Top-10 未覆盖，需逐例分析
+popularity,235,52,0.0,0.0,,77,53,0,"Madness of King George, The (1994)",Top-10 未覆盖，需逐例分析
+item_cf,235,52,0.0,0.0,,77,53,0,"Madness of King George, The (1994)",Top-10 未覆盖，需逐例分析
+popularity,237,603,0.0,0.0,,41,181,0,Rear Window (1954),Top-10 未覆盖，需逐例分析
+popularity,238,458,0.0,0.0,,9,32,0,Nixon (1995),Top-10 未覆盖，需逐例分析
+item_cf,238,458,0.0,0.0,,9,32,0,Nixon (1995),Top-10 未覆盖，需逐例分析
+popularity,239,272,0.0,0.0,,119,155,0,Good Will Hunting (1997),Top-10 未覆盖，需逐例分析
+item_cf,239,272,0.0,0.0,,119,155,0,Good Will Hunting (1997),Top-10 未覆盖，需逐例分析
+popularity,240,245,0.0,0.0,,13,80,0,"Devil's Own, The (1997)",Top-10 未覆盖，需逐例分析
+item_cf,240,245,0.0,0.0,,13,80,0,"Devil's Own, The (1997)",Top-10 未覆盖，需逐例分析
+popularity,241,292,0.0,0.0,,10,68,0,Rosewood (1997),Top-10 未覆盖，需逐例分析
+item_cf,241,292,0.0,0.0,,10,68,0,Rosewood (1997),Top-10 未覆盖，需逐例分析
+popularity,242,361,0.0,0.0,,16,4,0,Incognito (1997),Top-10 未覆盖，需逐例分析
+item_cf,242,361,0.0,0.0,,16,4,0,Incognito (1997),Top-10 未覆盖，需逐例分析
+popularity,243,1281,0.0,0.0,,46,4,0,Manny & Lo (1996),Top-10 未覆盖，需逐例分析
+item_cf,243,1281,0.0,0.0,,46,4,0,Manny & Lo (1996),Top-10 未覆盖，需逐例分析
+popularity,244,1057,0.0,0.0,,153,2,0,"Pallbearer, The (1996)",目标物品极稀疏
+item_cf,244,1057,0.0,0.0,,153,2,0,"Pallbearer, The (1996)",目标物品极稀疏
+item_cf,245,258,0.0,0.0,,10,335,0,Contact (1997),Top-10 未覆盖，需逐例分析
+popularity,246,816,0.0,0.0,,69,4,0,Candyman: Farewell to the Flesh (1995),Top-10 未覆盖，需逐例分析
+item_cf,246,816,0.0,0.0,,69,4,0,Candyman: Farewell to the Flesh (1995),Top-10 未覆盖，需逐例分析
+popularity,247,1022,0.0,0.0,,18,14,0,"Fast, Cheap & Out of Control (1997)",Top-10 未覆盖，需逐例分析
+item_cf,247,1022,0.0,0.0,,18,14,0,"Fast, Cheap & Out of Control (1997)",Top-10 未覆盖，需逐例分析
+popularity,248,405,0.0,0.0,,28,147,0,Mission: Impossible (1996),Top-10 未覆盖，需逐例分析
+item_cf,248,405,0.0,0.0,,28,147,0,Mission: Impossible (1996),Top-10 未覆盖，需逐例分析
+popularity,249,216,0.0,0.0,,123,207,0,When Harry Met Sally... (1989),Top-10 未覆盖，需逐例分析
+popularity,250,1014,0.0,0.0,,87,29,0,Romy and Michele's High School Reunion (1997),Top-10 未覆盖，需逐例分析
+item_cf,250,1014,0.0,0.0,,87,29,0,Romy and Michele's High School Reunion (1997),Top-10 未覆盖，需逐例分析
+popularity,251,25,0.0,0.0,,46,152,0,"Birdcage, The (1996)",Top-10 未覆盖，需逐例分析
+item_cf,251,25,0.0,0.0,,46,152,0,"Birdcage, The (1996)",Top-10 未覆盖，需逐例分析
+popularity,252,124,0.0,0.0,,18,142,0,Lone Star (1996),Top-10 未覆盖，需逐例分析
+popularity,253,4,0.0,0.0,,68,121,0,Get Shorty (1995),Top-10 未覆盖，需逐例分析
+item_cf,253,4,0.0,0.0,,68,121,0,Get Shorty (1995),Top-10 未覆盖，需逐例分析
+item_cf,254,258,0.0,0.0,,48,335,0,Contact (1997),Top-10 未覆盖，需逐例分析
+popularity,255,763,0.0,0.0,,21,72,0,Happy Gilmore (1996),Top-10 未覆盖，需逐例分析
+item_cf,255,763,0.0,0.0,,21,72,0,Happy Gilmore (1996),Top-10 未覆盖，需逐例分析
+popularity,256,1041,0.0,0.0,,149,21,0,Forget Paris (1995),Top-10 未覆盖，需逐例分析
+item_cf,256,1041,0.0,0.0,,149,21,0,Forget Paris (1995),Top-10 未覆盖，需逐例分析
+popularity,257,345,0.0,0.0,,41,36,0,Deconstructing Harry (1997),Top-10 未覆盖，需逐例分析
+item_cf,257,345,0.0,0.0,,41,36,0,Deconstructing Harry (1997),Top-10 未覆盖，需逐例分析
+popularity,258,873,0.0,0.0,,13,19,0,Picture Perfect (1997),Top-10 未覆盖，需逐例分析
+item_cf,258,873,0.0,0.0,,13,19,0,Picture Perfect (1997),Top-10 未覆盖，需逐例分析
+popularity,259,39,0.0,0.0,,32,37,0,Strange Days (1995),Top-10 未覆盖，需逐例分析
+item_cf,259,39,0.0,0.0,,32,37,0,Strange Days (1995),Top-10 未覆盖，需逐例分析
+popularity,260,322,0.0,0.0,,16,72,0,Murder at 1600 (1997),Top-10 未覆盖，需逐例分析
+item_cf,260,322,0.0,0.0,,16,72,0,Murder at 1600 (1997),Top-10 未覆盖，需逐例分析
+popularity,261,597,0.0,0.0,,19,73,0,Eraser (1996),Top-10 未覆盖，需逐例分析
+item_cf,261,597,0.0,0.0,,19,73,0,Eraser (1996),Top-10 未覆盖，需逐例分析
+popularity,262,179,0.0,0.0,,53,158,0,"Clockwork Orange, A (1971)",Top-10 未覆盖，需逐例分析
+item_cf,262,179,0.0,0.0,,53,158,0,"Clockwork Orange, A (1971)",Top-10 未覆盖，需逐例分析
+popularity,264,1355,0.0,0.0,,94,2,0,Infinity (1996),目标物品极稀疏
+item_cf,264,1355,0.0,0.0,,94,2,0,Infinity (1996),目标物品极稀疏
+popularity,265,282,0.0,0.0,,25,136,0,"Time to Kill, A (1996)",Top-10 未覆盖，需逐例分析
+popularity,266,508,0.0,0.0,,10,129,0,"People vs. Larry Flynt, The (1996)",Top-10 未覆盖，需逐例分析
+item_cf,266,508,0.0,0.0,,10,129,0,"People vs. Larry Flynt, The (1996)",Top-10 未覆盖，需逐例分析
+popularity,267,1240,0.0,0.0,,124,12,0,Ghost in the Shell (Kokaku kidotai) (1995),Top-10 未覆盖，需逐例分析
+item_cf,267,1240,0.0,0.0,,124,12,0,Ghost in the Shell (Kokaku kidotai) (1995),Top-10 未覆盖，需逐例分析
+popularity,268,178,0.0,0.0,,103,106,0,12 Angry Men (1957),Top-10 未覆盖，需逐例分析
+item_cf,268,178,0.0,0.0,,103,106,0,12 Angry Men (1957),Top-10 未覆盖，需逐例分析
+popularity,269,1017,0.0,0.0,,138,18,0,Trees Lounge (1996),Top-10 未覆盖，需逐例分析
+item_cf,269,1017,0.0,0.0,,138,18,0,Trees Lounge (1996),Top-10 未覆盖，需逐例分析
+popularity,270,860,0.0,0.0,,115,1,0,"Believers, The (1987)",目标物品极稀疏
+item_cf,270,860,0.0,0.0,,115,1,0,"Believers, The (1987)",目标物品极稀疏
+popularity,271,248,0.0,0.0,,160,101,0,Grosse Pointe Blank (1997),Top-10 未覆盖，需逐例分析
+item_cf,271,248,0.0,0.0,,160,101,0,Grosse Pointe Blank (1997),Top-10 未覆盖，需逐例分析
+popularity,272,514,0.0,0.0,,45,126,0,Annie Hall (1977),Top-10 未覆盖，需逐例分析
+item_cf,272,514,0.0,0.0,,45,126,0,Annie Hall (1977),Top-10 未覆盖，需逐例分析
+popularity,273,316,0.0,0.0,,12,88,0,As Good As It Gets (1997),Top-10 未覆盖，需逐例分析
+popularity,274,88,0.0,0.0,,53,124,0,Sleepless in Seattle (1993),Top-10 未覆盖，需逐例分析
+item_cf,274,88,0.0,0.0,,53,124,0,Sleepless in Seattle (1993),Top-10 未覆盖，需逐例分析
+popularity,275,423,0.0,0.0,,22,198,0,E.T. the Extra-Terrestrial (1982),Top-10 未覆盖，需逐例分析
+item_cf,275,423,0.0,0.0,,22,198,0,E.T. the Extra-Terrestrial (1982),Top-10 未覆盖，需逐例分析
+popularity,276,915,0.0,0.0,,273,6,0,Primary Colors (1998),Top-10 未覆盖，需逐例分析
+item_cf,276,915,0.0,0.0,,273,6,0,Primary Colors (1998),Top-10 未覆盖，需逐例分析
+popularity,277,302,0.0,0.0,,32,234,0,L.A. Confidential (1997),Top-10 未覆盖，需逐例分析
+item_cf,277,302,0.0,0.0,,32,234,0,L.A. Confidential (1997),Top-10 未覆盖，需逐例分析
+popularity,278,173,0.0,0.0,,17,246,0,"Princess Bride, The (1987)",Top-10 未覆盖，需逐例分析
+item_cf,278,173,0.0,0.0,,17,246,0,"Princess Bride, The (1987)",Top-10 未覆盖，需逐例分析
+popularity,279,269,0.0,0.0,,208,216,0,"Full Monty, The (1997)",Top-10 未覆盖，需逐例分析
+item_cf,279,269,0.0,0.0,,208,216,0,"Full Monty, The (1997)",Top-10 未覆盖，需逐例分析
+popularity,280,1217,0.0,0.0,,128,9,0,Assassins (1995),Top-10 未覆盖，需逐例分析
+item_cf,280,1217,0.0,0.0,,128,9,0,Assassins (1995),Top-10 未覆盖，需逐例分析
+popularity,281,322,0.0,0.0,,10,72,0,Murder at 1600 (1997),Top-10 未覆盖，需逐例分析
+item_cf,281,322,0.0,0.0,,10,72,0,Murder at 1600 (1997),Top-10 未覆盖，需逐例分析
+popularity,282,343,0.0,0.0,,11,45,0,Alien: Resurrection (1997),Top-10 未覆盖，需逐例分析
+item_cf,282,343,0.0,0.0,,11,45,0,Alien: Resurrection (1997),Top-10 未覆盖，需逐例分析
+popularity,283,433,0.0,0.0,,43,101,0,Heathers (1989),Top-10 未覆盖，需逐例分析
+item_cf,283,433,0.0,0.0,,43,101,0,Heathers (1989),Top-10 未覆盖，需逐例分析
+popularity,284,344,0.0,0.0,,22,33,0,"Apostle, The (1997)",Top-10 未覆盖，需逐例分析
+item_cf,284,344,0.0,0.0,,22,33,0,"Apostle, The (1997)",Top-10 未覆盖，需逐例分析
+popularity,285,205,0.0,0.0,,23,90,0,Patton (1970),Top-10 未覆盖，需逐例分析
+item_cf,285,205,0.0,0.0,,23,90,0,Patton (1970),Top-10 未覆盖，需逐例分析
+popularity,286,1060,0.0,0.0,,180,11,0,"Adventures of Pinocchio, The (1996)",Top-10 未覆盖，需逐例分析
+item_cf,286,1060,0.0,0.0,,180,11,0,"Adventures of Pinocchio, The (1996)",Top-10 未覆盖，需逐例分析
+popularity,287,291,0.0,0.0,,48,57,0,Absolute Power (1997),Top-10 未覆盖，需逐例分析
+item_cf,287,291,0.0,0.0,,48,57,0,Absolute Power (1997),Top-10 未覆盖，需逐例分析
+popularity,288,435,0.0,0.0,,54,149,0,Butch Cassidy and the Sundance Kid (1969),Top-10 未覆盖，需逐例分析
+item_cf,288,435,0.0,0.0,,54,149,0,Butch Cassidy and the Sundance Kid (1969),Top-10 未覆盖，需逐例分析
+popularity,289,455,0.0,0.0,,8,63,0,Jackie Chan's First Strike (1996),Top-10 未覆盖，需逐例分析
+item_cf,289,455,0.0,0.0,,8,63,0,Jackie Chan's First Strike (1996),Top-10 未覆盖，需逐例分析
+popularity,290,120,0.0,0.0,,64,9,0,Striptease (1996),Top-10 未覆盖，需逐例分析
+item_cf,290,120,0.0,0.0,,64,9,0,Striptease (1996),Top-10 未覆盖，需逐例分析
+popularity,291,496,0.0,0.0,,194,174,0,It's a Wonderful Life (1946),Top-10 未覆盖，需逐例分析
+item_cf,291,496,0.0,0.0,,194,174,0,It's a Wonderful Life (1946),Top-10 未覆盖，需逐例分析
+popularity,292,1050,0.0,0.0,,100,23,0,"Ghost and Mrs. Muir, The (1947)",Top-10 未覆盖，需逐例分析
+item_cf,292,1050,0.0,0.0,,100,23,0,"Ghost and Mrs. Muir, The (1947)",Top-10 未覆盖，需逐例分析
+popularity,293,416,0.0,0.0,,122,31,0,Old Yeller (1957),Top-10 未覆盖，需逐例分析
+item_cf,293,416,0.0,0.0,,122,31,0,Old Yeller (1957),Top-10 未覆盖，需逐例分析
+popularity,294,902,0.0,0.0,,71,24,0,"Big Lebowski, The (1998)",Top-10 未覆盖，需逐例分析
+item_cf,294,902,0.0,0.0,,71,24,0,"Big Lebowski, The (1998)",Top-10 未覆盖，需逐例分析
+popularity,295,1401,0.0,0.0,,177,7,0,M. Butterfly (1993),Top-10 未覆盖，需逐例分析
+item_cf,295,1401,0.0,0.0,,177,7,0,M. Butterfly (1993),Top-10 未覆盖，需逐例分析
+popularity,296,209,0.0,0.0,,118,131,0,This Is Spinal Tap (1984),Top-10 未覆盖，需逐例分析
+item_cf,296,209,0.0,0.0,,118,131,0,This Is Spinal Tap (1984),Top-10 未覆盖，需逐例分析
+popularity,297,752,0.0,0.0,,92,16,0,"Replacement Killers, The (1998)",Top-10 未覆盖，需逐例分析
+item_cf,297,752,0.0,0.0,,92,16,0,"Replacement Killers, The (1998)",Top-10 未覆盖，需逐例分析
+popularity,298,820,0.0,0.0,,90,20,0,Space Jam (1996),Top-10 未覆盖，需逐例分析
+item_cf,298,820,0.0,0.0,,90,20,0,Space Jam (1996),Top-10 未覆盖，需逐例分析
+popularity,299,915,0.0,0.0,,148,6,0,Primary Colors (1998),Top-10 未覆盖，需逐例分析
+item_cf,299,915,0.0,0.0,,148,6,0,Primary Colors (1998),Top-10 未覆盖，需逐例分析
+popularity,300,1012,0.0,0.0,,13,59,0,Private Parts (1997),Top-10 未覆盖，需逐例分析
+item_cf,300,1012,0.0,0.0,,13,59,0,Private Parts (1997),Top-10 未覆盖，需逐例分析
+popularity,301,719,0.0,0.0,,163,3,0,Canadian Bacon (1994),Top-10 未覆盖，需逐例分析
+item_cf,301,719,0.0,0.0,,163,3,0,Canadian Bacon (1994),Top-10 未覆盖，需逐例分析
+popularity,302,271,0.0,0.0,,2,94,0,Starship Troopers (1997),用户历史过短
+item_cf,302,271,0.0,0.0,,2,94,0,Starship Troopers (1997),用户历史过短
+popularity,303,249,0.0,0.0,,250,52,0,Austin Powers: International Man of Mystery (1997),Top-10 未覆盖，需逐例分析
+item_cf,303,249,0.0,0.0,,250,52,0,Austin Powers: International Man of Mystery (1997),Top-10 未覆盖，需逐例分析
+popularity,304,763,0.0,0.0,,10,72,0,Happy Gilmore (1996),Top-10 未覆盖，需逐例分析
+item_cf,304,763,0.0,0.0,,10,72,0,Happy Gilmore (1996),Top-10 未覆盖，需逐例分析
+popularity,305,778,0.0,0.0,,103,41,0,Don Juan DeMarco (1995),Top-10 未覆盖，需逐例分析
+item_cf,305,778,0.0,0.0,,103,41,0,Don Juan DeMarco (1995),Top-10 未覆盖，需逐例分析
+popularity,306,1514,0.0,0.0,,20,2,0,Dream With the Fishes (1997),目标物品极稀疏
+item_cf,306,1514,0.0,0.0,,20,2,0,Dream With the Fishes (1997),目标物品极稀疏
+item_cf,307,313,0.0,0.0,,68,276,0,Titanic (1997),Top-10 未覆盖，需逐例分析
+popularity,308,122,0.0,0.0,,256,13,0,"Cable Guy, The (1996)",Top-10 未覆盖，需逐例分析
+item_cf,308,122,0.0,0.0,,256,13,0,"Cable Guy, The (1996)",Top-10 未覆盖，需逐例分析
+popularity,309,319,0.0,0.0,,9,72,0,Everyone Says I Love You (1996),Top-10 未覆盖，需逐例分析
+item_cf,309,319,0.0,0.0,,9,72,0,Everyone Says I Love You (1996),Top-10 未覆盖，需逐例分析
+popularity,310,257,0.0,0.0,,13,186,0,Men in Black (1997),Top-10 未覆盖，需逐例分析
+item_cf,310,257,0.0,0.0,,13,186,0,Men in Black (1997),Top-10 未覆盖，需逐例分析
+item_cf,311,9,0.0,0.0,,196,210,0,Dead Man Walking (1995),Top-10 未覆盖，需逐例分析
+popularity,312,835,0.0,0.0,,178,7,0,"Gay Divorcee, The (1934)",Top-10 未覆盖，需逐例分析
+item_cf,312,835,0.0,0.0,,178,7,0,"Gay Divorcee, The (1934)",Top-10 未覆盖，需逐例分析
+popularity,313,1210,0.0,0.0,,140,10,0,Virtuosity (1995),Top-10 未覆盖，需逐例分析
+item_cf,313,1210,0.0,0.0,,140,10,0,Virtuosity (1995),Top-10 未覆盖，需逐例分析
+popularity,314,1145,0.0,0.0,,157,0,1,Blue Chips (1994),物品冷启动
+item_cf,314,1145,0.0,0.0,,157,0,1,Blue Chips (1994),物品冷启动
+popularity,315,305,0.0,0.0,,65,55,0,"Ice Storm, The (1997)",Top-10 未覆盖，需逐例分析
+item_cf,315,305,0.0,0.0,,65,55,0,"Ice Storm, The (1997)",Top-10 未覆盖，需逐例分析
+popularity,316,582,0.0,0.0,,41,96,0,"Piano, The (1993)",Top-10 未覆盖，需逐例分析
+item_cf,316,582,0.0,0.0,,41,96,0,"Piano, The (1993)",Top-10 未覆盖，需逐例分析
+popularity,317,260,0.0,0.0,,12,33,0,Event Horizon (1997),Top-10 未覆盖，需逐例分析
+item_cf,317,260,0.0,0.0,,12,33,0,Event Horizon (1997),Top-10 未覆盖，需逐例分析
+popularity,318,158,0.0,0.0,,113,6,0,Weekend at Bernie's (1989),Top-10 未覆盖，需逐例分析
+item_cf,318,158,0.0,0.0,,113,6,0,Weekend at Bernie's (1989),Top-10 未覆盖，需逐例分析
+popularity,319,880,0.0,0.0,,10,21,0,Soul Food (1997),Top-10 未覆盖，需逐例分析
+item_cf,319,880,0.0,0.0,,10,21,0,Soul Food (1997),Top-10 未覆盖，需逐例分析
+popularity,320,250,0.0,0.0,,103,106,0,"Fifth Element, The (1997)",Top-10 未覆盖，需逐例分析
+item_cf,320,250,0.0,0.0,,103,106,0,"Fifth Element, The (1997)",Top-10 未覆盖，需逐例分析
+popularity,321,519,0.0,0.0,,75,66,0,"Treasure of the Sierra Madre, The (1948)",Top-10 未覆盖，需逐例分析
+item_cf,321,519,0.0,0.0,,75,66,0,"Treasure of the Sierra Madre, The (1948)",Top-10 未覆盖，需逐例分析
+popularity,322,528,0.0,0.0,,40,92,0,"Killing Fields, The (1984)",Top-10 未覆盖，需逐例分析
+item_cf,322,528,0.0,0.0,,40,92,0,"Killing Fields, The (1984)",Top-10 未覆盖，需逐例分析
+popularity,323,467,0.0,0.0,,49,30,0,"Bronx Tale, A (1993)",Top-10 未覆盖，需逐例分析
+item_cf,323,467,0.0,0.0,,49,30,0,"Bronx Tale, A (1993)",Top-10 未覆盖，需逐例分析
+popularity,324,1094,0.0,0.0,,56,2,0,"Thin Line Between Love and Hate, A (1996)",目标物品极稀疏
+item_cf,324,1094,0.0,0.0,,56,2,0,"Thin Line Between Love and Hate, A (1996)",目标物品极稀疏
+popularity,325,386,0.0,0.0,,69,17,0,Addams Family Values (1993),Top-10 未覆盖，需逐例分析
+item_cf,325,386,0.0,0.0,,69,17,0,Addams Family Values (1993),Top-10 未覆盖，需逐例分析
+popularity,326,445,0.0,0.0,,84,10,0,"Body Snatcher, The (1945)",Top-10 未覆盖，需逐例分析
+item_cf,326,445,0.0,0.0,,84,10,0,"Body Snatcher, The (1945)",Top-10 未覆盖，需逐例分析
+popularity,327,435,0.0,0.0,,144,149,0,Butch Cassidy and the Sundance Kid (1969),Top-10 未覆盖，需逐例分析
+item_cf,327,435,0.0,0.0,,144,149,0,Butch Cassidy and the Sundance Kid (1969),Top-10 未覆盖，需逐例分析
+popularity,328,1483,0.0,0.0,,124,5,0,"Man in the Iron Mask, The (1998)",Top-10 未覆盖，需逐例分析
+item_cf,328,1483,0.0,0.0,,124,5,0,"Man in the Iron Mask, The (1998)",Top-10 未覆盖，需逐例分析
+popularity,329,651,0.0,0.0,,31,130,0,Glory (1989),Top-10 未覆盖，需逐例分析
+item_cf,329,651,0.0,0.0,,31,130,0,Glory (1989),Top-10 未覆盖，需逐例分析
+popularity,330,215,0.0,0.0,,129,126,0,Field of Dreams (1989),Top-10 未覆盖，需逐例分析
+popularity,331,1296,0.0,0.0,,39,6,0,Indian Summer (1996),Top-10 未覆盖，需逐例分析
+item_cf,331,1296,0.0,0.0,,39,6,0,Indian Summer (1996),Top-10 未覆盖，需逐例分析
+popularity,332,728,0.0,0.0,,140,12,0,Junior (1994),Top-10 未覆盖，需逐例分析
+item_cf,332,728,0.0,0.0,,140,12,0,Junior (1994),Top-10 未覆盖，需逐例分析
+item_cf,333,100,0.0,0.0,,18,402,0,Fargo (1996),Top-10 未覆盖，需逐例分析
+popularity,334,1525,0.0,0.0,,188,0,1,"Object of My Affection, The (1998)",物品冷启动
+item_cf,334,1525,0.0,0.0,,188,0,1,"Object of My Affection, The (1998)",物品冷启动
+popularity,335,323,0.0,0.0,,12,71,0,Dante's Peak (1997),Top-10 未覆盖，需逐例分析
+item_cf,335,323,0.0,0.0,,12,71,0,Dante's Peak (1997),Top-10 未覆盖，需逐例分析
+popularity,336,121,0.0,0.0,,40,225,0,Independence Day (ID4) (1996),Top-10 未覆盖，需逐例分析
+item_cf,336,121,0.0,0.0,,40,225,0,Independence Day (ID4) (1996),Top-10 未覆盖，需逐例分析
+popularity,337,631,0.0,0.0,,22,68,0,"Crying Game, The (1992)",Top-10 未覆盖，需逐例分析
+item_cf,337,631,0.0,0.0,,22,68,0,"Crying Game, The (1992)",Top-10 未覆盖，需逐例分析
+popularity,338,945,0.0,0.0,,54,27,0,Charade (1963),Top-10 未覆盖，需逐例分析
+item_cf,338,945,0.0,0.0,,54,27,0,Charade (1963),Top-10 未覆盖，需逐例分析
+popularity,339,194,0.0,0.0,,186,180,0,"Sting, The (1973)",Top-10 未覆盖，需逐例分析
+popularity,340,405,0.0,0.0,,35,147,0,Mission: Impossible (1996),Top-10 未覆盖，需逐例分析
+item_cf,340,405,0.0,0.0,,35,147,0,Mission: Impossible (1996),Top-10 未覆盖，需逐例分析
+popularity,341,330,0.0,0.0,,12,14,0,187 (1997),Top-10 未覆盖，需逐例分析
+item_cf,341,330,0.0,0.0,,12,14,0,187 (1997),Top-10 未覆盖，需逐例分析
+popularity,342,428,0.0,0.0,,99,85,0,Harold and Maude (1971),Top-10 未覆盖，需逐例分析
+item_cf,342,428,0.0,0.0,,99,85,0,Harold and Maude (1971),Top-10 未覆盖，需逐例分析
+popularity,343,510,0.0,0.0,,175,83,0,"Magnificent Seven, The (1954)",Top-10 未覆盖，需逐例分析
+item_cf,343,510,0.0,0.0,,175,83,0,"Magnificent Seven, The (1954)",Top-10 未覆盖，需逐例分析
+popularity,344,1014,0.0,0.0,,111,29,0,Romy and Michele's High School Reunion (1997),Top-10 未覆盖，需逐例分析
+item_cf,344,1014,0.0,0.0,,111,29,0,Romy and Michele's High School Reunion (1997),Top-10 未覆盖，需逐例分析
+popularity,345,534,0.0,0.0,,129,5,0,Traveller (1997),Top-10 未覆盖，需逐例分析
+item_cf,345,534,0.0,0.0,,129,5,0,Traveller (1997),Top-10 未覆盖，需逐例分析
+popularity,346,1217,0.0,0.0,,86,9,0,Assassins (1995),Top-10 未覆盖，需逐例分析
+item_cf,346,1217,0.0,0.0,,86,9,0,Assassins (1995),Top-10 未覆盖，需逐例分析
+popularity,347,85,0.0,0.0,,116,17,0,"Ref, The (1994)",Top-10 未覆盖，需逐例分析
+item_cf,347,85,0.0,0.0,,116,17,0,"Ref, The (1994)",Top-10 未覆盖，需逐例分析
+popularity,348,834,0.0,0.0,,42,3,0,Halloween: The Curse of Michael Myers (1995),Top-10 未覆盖，需逐例分析
+item_cf,348,834,0.0,0.0,,42,3,0,Halloween: The Curse of Michael Myers (1995),Top-10 未覆盖，需逐例分析
+popularity,349,125,0.0,0.0,,16,121,0,Phenomenon (1996),Top-10 未覆盖，需逐例分析
+item_cf,349,125,0.0,0.0,,16,121,0,Phenomenon (1996),Top-10 未覆盖，需逐例分析
+popularity,350,195,0.0,0.0,,42,215,0,"Terminator, The (1984)",Top-10 未覆盖，需逐例分析
+popularity,351,1316,0.0,0.0,,34,2,0,"Horse Whisperer, The (1998)",目标物品极稀疏
+item_cf,351,1316,0.0,0.0,,34,2,0,"Horse Whisperer, The (1998)",目标物品极稀疏
+popularity,352,234,0.0,0.0,,26,182,0,Jaws (1975),Top-10 未覆盖，需逐例分析
+item_cf,352,234,0.0,0.0,,26,182,0,Jaws (1975),Top-10 未覆盖，需逐例分析
+popularity,353,750,0.0,0.0,,13,80,0,Amistad (1997),Top-10 未覆盖，需逐例分析
+popularity,354,737,0.0,0.0,,140,20,0,Sirens (1994),Top-10 未覆盖，需逐例分析
+item_cf,354,737,0.0,0.0,,140,20,0,Sirens (1994),Top-10 未覆盖，需逐例分析
+popularity,355,872,0.0,0.0,,23,13,0,Love Jones (1997),Top-10 未覆盖，需逐例分析
+item_cf,355,872,0.0,0.0,,23,13,0,Love Jones (1997),Top-10 未覆盖，需逐例分析
+popularity,356,748,0.0,0.0,,13,124,0,"Saint, The (1997)",Top-10 未覆盖，需逐例分析
+item_cf,356,748,0.0,0.0,,13,124,0,"Saint, The (1997)",Top-10 未覆盖，需逐例分析
+popularity,357,105,0.0,0.0,,55,11,0,Sgt. Bilko (1996),Top-10 未覆盖，需逐例分析
+item_cf,357,105,0.0,0.0,,55,11,0,Sgt. Bilko (1996),Top-10 未覆盖，需逐例分析
+popularity,358,469,0.0,0.0,,26,46,0,Short Cuts (1993),Top-10 未覆盖，需逐例分析
+item_cf,358,469,0.0,0.0,,26,46,0,Short Cuts (1993),Top-10 未覆盖，需逐例分析
+popularity,359,268,0.0,0.0,,17,173,0,Chasing Amy (1997),Top-10 未覆盖，需逐例分析
+item_cf,359,268,0.0,0.0,,17,173,0,Chasing Amy (1997),Top-10 未覆盖，需逐例分析
+popularity,360,205,0.0,0.0,,72,90,0,Patton (1970),Top-10 未覆盖，需逐例分析
+item_cf,360,205,0.0,0.0,,72,90,0,Patton (1970),Top-10 未覆盖，需逐例分析
+popularity,361,269,0.0,0.0,,80,216,0,"Full Monty, The (1997)",Top-10 未覆盖，需逐例分析
+item_cf,361,269,0.0,0.0,,80,216,0,"Full Monty, The (1997)",Top-10 未覆盖，需逐例分析
+popularity,362,350,0.0,0.0,,12,18,0,Fallen (1998),Top-10 未覆盖，需逐例分析
+item_cf,362,350,0.0,0.0,,12,18,0,Fallen (1998),Top-10 未覆盖，需逐例分析
+popularity,363,859,0.0,0.0,,125,1,0,April Fool's Day (1986),目标物品极稀疏
+item_cf,363,859,0.0,0.0,,125,1,0,April Fool's Day (1986),目标物品极稀疏
+popularity,364,1048,0.0,0.0,,10,25,0,She's the One (1996),Top-10 未覆盖，需逐例分析
+item_cf,364,1048,0.0,0.0,,10,25,0,She's the One (1996),Top-10 未覆盖，需逐例分析
+popularity,365,287,0.0,0.0,,31,43,0,Marvin's Room (1996),Top-10 未覆盖，需逐例分析
+item_cf,365,287,0.0,0.0,,31,43,0,Marvin's Room (1996),Top-10 未覆盖，需逐例分析
+popularity,366,672,0.0,0.0,,26,13,0,Candyman (1992),Top-10 未覆盖，需逐例分析
+item_cf,366,672,0.0,0.0,,26,13,0,Candyman (1992),Top-10 未覆盖，需逐例分析
+popularity,367,452,0.0,0.0,,49,11,0,Jaws 2 (1978),Top-10 未覆盖，需逐例分析
+item_cf,367,452,0.0,0.0,,49,11,0,Jaws 2 (1978),Top-10 未覆盖，需逐例分析
+popularity,368,183,0.0,0.0,,18,220,0,Alien (1979),Top-10 未覆盖，需逐例分析
+popularity,369,919,0.0,0.0,,14,60,0,"City of Lost Children, The (1995)",Top-10 未覆盖，需逐例分析
+item_cf,369,919,0.0,0.0,,14,60,0,"City of Lost Children, The (1995)",Top-10 未覆盖，需逐例分析
+popularity,370,209,0.0,0.0,,46,131,0,This Is Spinal Tap (1984),Top-10 未覆盖，需逐例分析
+item_cf,370,209,0.0,0.0,,46,131,0,This Is Spinal Tap (1984),Top-10 未覆盖，需逐例分析
+popularity,371,431,0.0,0.0,,39,84,0,Highlander (1986),Top-10 未覆盖，需逐例分析
+item_cf,371,431,0.0,0.0,,39,84,0,Highlander (1986),Top-10 未覆盖，需逐例分析
+popularity,372,1273,0.0,0.0,,58,2,0,Color of Night (1994),目标物品极稀疏
+item_cf,372,1273,0.0,0.0,,58,2,0,Color of Night (1994),目标物品极稀疏
+popularity,373,380,0.0,0.0,,146,50,0,Star Trek: Generations (1994),Top-10 未覆盖，需逐例分析
+item_cf,373,380,0.0,0.0,,146,50,0,Star Trek: Generations (1994),Top-10 未覆盖，需逐例分析
+popularity,374,288,0.0,0.0,,134,241,0,Scream (1996),Top-10 未覆盖，需逐例分析
+item_cf,374,288,0.0,0.0,,134,241,0,Scream (1996),Top-10 未覆盖，需逐例分析
+popularity,375,1217,0.0,0.0,,17,9,0,Assassins (1995),Top-10 未覆盖，需逐例分析
+item_cf,375,1217,0.0,0.0,,17,9,0,Assassins (1995),Top-10 未覆盖，需逐例分析
+popularity,376,762,0.0,0.0,,17,50,0,Beautiful Girls (1996),Top-10 未覆盖，需逐例分析
+item_cf,376,762,0.0,0.0,,17,50,0,Beautiful Girls (1996),Top-10 未覆盖，需逐例分析
+popularity,377,443,0.0,0.0,,20,105,0,"Birds, The (1963)",Top-10 未覆盖，需逐例分析
+item_cf,377,443,0.0,0.0,,20,105,0,"Birds, The (1963)",Top-10 未覆盖，需逐例分析
+popularity,378,703,0.0,0.0,,175,10,0,Widows' Peak (1994),Top-10 未覆盖，需逐例分析
+item_cf,378,703,0.0,0.0,,175,10,0,Widows' Peak (1994),Top-10 未覆盖，需逐例分析
+popularity,379,701,0.0,0.0,,147,7,0,"Wonderful, Horrible Life of Leni Riefenstahl, The (1993)",Top-10 未覆盖，需逐例分析
+item_cf,379,701,0.0,0.0,,147,7,0,"Wonderful, Horrible Life of Leni Riefenstahl, The (1993)",Top-10 未覆盖，需逐例分析
+popularity,380,443,0.0,0.0,,67,105,0,"Birds, The (1963)",Top-10 未覆盖，需逐例分析
+item_cf,380,443,0.0,0.0,,67,105,0,"Birds, The (1963)",Top-10 未覆盖，需逐例分析
+popularity,381,294,0.0,0.0,,83,194,0,Liar Liar (1997),Top-10 未覆盖，需逐例分析
+item_cf,381,294,0.0,0.0,,83,194,0,Liar Liar (1997),Top-10 未覆盖，需逐例分析
+popularity,382,334,0.0,0.0,,23,28,0,U Turn (1997),Top-10 未覆盖，需逐例分析
+item_cf,382,334,0.0,0.0,,23,28,0,U Turn (1997),Top-10 未覆盖，需逐例分析
+popularity,383,603,0.0,0.0,,61,181,0,Rear Window (1954),Top-10 未覆盖，需逐例分析
+popularity,384,289,0.0,0.0,,19,92,0,Evita (1996),Top-10 未覆盖，需逐例分析
+item_cf,384,289,0.0,0.0,,19,92,0,Evita (1996),Top-10 未覆盖，需逐例分析
+popularity,385,487,0.0,0.0,,131,50,0,Roman Holiday (1953),Top-10 未覆盖，需逐例分析
+item_cf,385,487,0.0,0.0,,131,50,0,Roman Holiday (1953),Top-10 未覆盖，需逐例分析
+popularity,386,825,0.0,0.0,,11,31,0,"Arrival, The (1996)",Top-10 未覆盖，需逐例分析
+item_cf,386,825,0.0,0.0,,11,31,0,"Arrival, The (1996)",Top-10 未覆盖，需逐例分析
+popularity,387,201,0.0,0.0,,148,46,0,Evil Dead II (1987),Top-10 未覆盖，需逐例分析
+item_cf,387,201,0.0,0.0,,148,46,0,Evil Dead II (1987),Top-10 未覆盖，需逐例分析
+popularity,388,678,0.0,0.0,,40,51,0,Volcano (1997),Top-10 未覆盖，需逐例分析
+item_cf,388,678,0.0,0.0,,40,51,0,Volcano (1997),Top-10 未覆盖，需逐例分析
+popularity,389,1298,0.0,0.0,,161,3,0,"Band Wagon, The (1953)",Top-10 未覆盖，需逐例分析
+item_cf,389,1298,0.0,0.0,,161,3,0,"Band Wagon, The (1953)",Top-10 未覆盖，需逐例分析
+popularity,390,283,0.0,0.0,,21,109,0,Emma (1996),Top-10 未覆盖，需逐例分析
+item_cf,390,283,0.0,0.0,,21,109,0,Emma (1996),Top-10 未覆盖，需逐例分析
+popularity,391,696,0.0,0.0,,78,24,0,City Hall (1996),Top-10 未覆盖，需逐例分析
+item_cf,391,696,0.0,0.0,,78,24,0,City Hall (1996),Top-10 未覆盖，需逐例分析
+popularity,392,173,0.0,0.0,,85,246,0,"Princess Bride, The (1987)",Top-10 未覆盖，需逐例分析
+item_cf,392,173,0.0,0.0,,85,246,0,"Princess Bride, The (1987)",Top-10 未覆盖，需逐例分析
+popularity,393,303,0.0,0.0,,197,87,0,Ulee's Gold (1997),Top-10 未覆盖，需逐例分析
+item_cf,393,303,0.0,0.0,,197,87,0,Ulee's Gold (1997),Top-10 未覆盖，需逐例分析
+item_cf,394,313,0.0,0.0,,100,276,0,Titanic (1997),Top-10 未覆盖，需逐例分析
+popularity,395,315,0.0,0.0,,34,120,0,Apt Pupil (1998),Top-10 未覆盖，需逐例分析
+item_cf,395,315,0.0,0.0,,34,120,0,Apt Pupil (1998),Top-10 未覆盖，需逐例分析
+popularity,396,841,0.0,0.0,,25,12,0,"Glimmer Man, The (1996)",Top-10 未覆盖，需逐例分析
+item_cf,396,841,0.0,0.0,,25,12,0,"Glimmer Man, The (1996)",Top-10 未覆盖，需逐例分析
+popularity,397,346,0.0,0.0,,68,74,0,Jackie Brown (1997),Top-10 未覆盖，需逐例分析
+item_cf,397,346,0.0,0.0,,68,74,0,Jackie Brown (1997),Top-10 未覆盖，需逐例分析
+popularity,398,684,0.0,0.0,,99,107,0,In the Line of Fire (1993),Top-10 未覆盖，需逐例分析
+item_cf,398,684,0.0,0.0,,99,107,0,In the Line of Fire (1993),Top-10 未覆盖，需逐例分析
+popularity,399,817,0.0,0.0,,56,0,1,Frisk (1995),物品冷启动
+item_cf,399,817,0.0,0.0,,56,0,1,Frisk (1995),物品冷启动
+popularity,400,323,0.0,0.0,,12,71,0,Dante's Peak (1997),Top-10 未覆盖，需逐例分析
+item_cf,400,323,0.0,0.0,,12,71,0,Dante's Peak (1997),Top-10 未覆盖，需逐例分析
+popularity,401,566,0.0,0.0,,66,96,0,Clear and Present Danger (1994),Top-10 未覆盖，需逐例分析
+item_cf,401,566,0.0,0.0,,66,96,0,Clear and Present Danger (1994),Top-10 未覆盖，需逐例分析
+popularity,402,510,0.0,0.0,,46,83,0,"Magnificent Seven, The (1954)",Top-10 未覆盖，需逐例分析
+item_cf,402,510,0.0,0.0,,46,83,0,"Magnificent Seven, The (1954)",Top-10 未覆盖，需逐例分析
+popularity,403,925,0.0,0.0,,33,14,0,Unforgettable (1996),Top-10 未覆盖，需逐例分析
+item_cf,403,925,0.0,0.0,,33,14,0,Unforgettable (1996),Top-10 未覆盖，需逐例分析
+popularity,404,22,0.0,0.0,,20,230,0,Braveheart (1995),Top-10 未覆盖，需逐例分析
+item_cf,404,22,0.0,0.0,,20,230,0,Braveheart (1995),Top-10 未覆盖，需逐例分析
+popularity,405,794,0.0,0.0,,115,27,0,It Could Happen to You (1994),Top-10 未覆盖，需逐例分析
+item_cf,405,794,0.0,0.0,,115,27,0,It Could Happen to You (1994),Top-10 未覆盖，需逐例分析
+popularity,406,543,0.0,0.0,,180,11,0,"Misérables, Les (1995)",Top-10 未覆盖，需逐例分析
+item_cf,406,543,0.0,0.0,,180,11,0,"Misérables, Les (1995)",Top-10 未覆盖，需逐例分析
+item_cf,407,7,0.0,0.0,,123,261,0,Twelve Monkeys (1995),Top-10 未覆盖，需逐例分析
+popularity,408,748,0.0,0.0,,15,124,0,"Saint, The (1997)",Top-10 未覆盖，需逐例分析
+item_cf,408,748,0.0,0.0,,15,124,0,"Saint, The (1997)",Top-10 未覆盖，需逐例分析
+popularity,409,1099,0.0,0.0,,127,6,0,"Red Firecracker, Green Firecracker (1994)",Top-10 未覆盖，需逐例分析
+item_cf,409,1099,0.0,0.0,,127,6,0,"Red Firecracker, Green Firecracker (1994)",Top-10 未覆盖，需逐例分析
+popularity,410,905,0.0,0.0,,8,11,0,Great Expectations (1998),Top-10 未覆盖，需逐例分析
+item_cf,410,905,0.0,0.0,,8,11,0,Great Expectations (1998),Top-10 未覆盖，需逐例分析
+popularity,411,1197,0.0,0.0,,36,21,0,"Family Thing, A (1996)",Top-10 未覆盖，需逐例分析
+item_cf,411,1197,0.0,0.0,,36,21,0,"Family Thing, A (1996)",Top-10 未覆盖，需逐例分析
+popularity,412,436,0.0,0.0,,39,51,0,"American Werewolf in London, An (1981)",Top-10 未覆盖，需逐例分析
+item_cf,412,436,0.0,0.0,,39,51,0,"American Werewolf in London, An (1981)",Top-10 未覆盖，需逐例分析
+popularity,413,628,0.0,0.0,,30,90,0,Sleepers (1996),Top-10 未覆盖，需逐例分析
+item_cf,413,628,0.0,0.0,,30,90,0,Sleepers (1996),Top-10 未覆盖，需逐例分析
+popularity,415,480,0.0,0.0,,19,151,0,North by Northwest (1959),Top-10 未覆盖，需逐例分析
+item_cf,415,480,0.0,0.0,,19,151,0,North by Northwest (1959),Top-10 未覆盖，需逐例分析
+popularity,416,1483,0.0,0.0,,321,5,0,"Man in the Iron Mask, The (1998)",Top-10 未覆盖，需逐例分析
+item_cf,416,1483,0.0,0.0,,321,5,0,"Man in the Iron Mask, The (1998)",Top-10 未覆盖，需逐例分析
+popularity,417,1016,0.0,0.0,,140,65,0,Con Air (1997),Top-10 未覆盖，需逐例分析
+item_cf,417,1016,0.0,0.0,,140,65,0,Con Air (1997),Top-10 未覆盖，需逐例分析
+popularity,418,288,0.0,0.0,,6,241,0,Scream (1996),Top-10 未覆盖，需逐例分析
+popularity,419,14,0.0,0.0,,26,130,0,"Postino, Il (1994)",Top-10 未覆盖，需逐例分析
+item_cf,419,14,0.0,0.0,,26,130,0,"Postino, Il (1994)",Top-10 未覆盖，需逐例分析
+popularity,420,690,0.0,0.0,,25,81,0,Seven Years in Tibet (1997),Top-10 未覆盖，需逐例分析
+item_cf,420,690,0.0,0.0,,25,81,0,Seven Years in Tibet (1997),Top-10 未覆盖，需逐例分析
+popularity,421,87,0.0,0.0,,42,93,0,Searching for Bobby Fischer (1993),Top-10 未覆盖，需逐例分析
+item_cf,421,87,0.0,0.0,,42,93,0,Searching for Bobby Fischer (1993),Top-10 未覆盖，需逐例分析
+popularity,422,441,0.0,0.0,,48,7,0,"Amityville Horror, The (1979)",Top-10 未覆盖，需逐例分析
+item_cf,422,441,0.0,0.0,,48,7,0,"Amityville Horror, The (1979)",Top-10 未覆盖，需逐例分析
+popularity,423,10,0.0,0.0,,35,58,0,Richard III (1995),Top-10 未覆盖，需逐例分析
+item_cf,423,10,0.0,0.0,,35,58,0,Richard III (1995),Top-10 未覆盖，需逐例分析
+popularity,424,25,0.0,0.0,,21,152,0,"Birdcage, The (1996)",Top-10 未覆盖，需逐例分析
+item_cf,424,25,0.0,0.0,,21,152,0,"Birdcage, The (1996)",Top-10 未覆盖，需逐例分析
+popularity,425,198,0.0,0.0,,66,97,0,Nikita (La Femme Nikita) (1990),Top-10 未覆盖，需逐例分析
+item_cf,425,198,0.0,0.0,,66,97,0,Nikita (La Femme Nikita) (1990),Top-10 未覆盖，需逐例分析
+popularity,426,505,0.0,0.0,,70,50,0,Dial M for Murder (1954),Top-10 未覆盖，需逐例分析
+item_cf,426,505,0.0,0.0,,70,50,0,Dial M for Murder (1954),Top-10 未覆盖，需逐例分析
+popularity,427,990,0.0,0.0,,27,12,0,Anna Karenina (1997),Top-10 未覆盖，需逐例分析
+item_cf,427,990,0.0,0.0,,27,12,0,Anna Karenina (1997),Top-10 未覆盖，需逐例分析
+popularity,428,316,0.0,0.0,,43,88,0,As Good As It Gets (1997),Top-10 未覆盖，需逐例分析
+popularity,429,537,0.0,0.0,,185,19,0,My Own Private Idaho (1991),Top-10 未覆盖，需逐例分析
+item_cf,429,537,0.0,0.0,,185,19,0,My Own Private Idaho (1991),Top-10 未覆盖，需逐例分析
+popularity,430,152,0.0,0.0,,38,48,0,Sleeper (1973),Top-10 未覆盖，需逐例分析
+item_cf,430,152,0.0,0.0,,38,48,0,Sleeper (1973),Top-10 未覆盖，需逐例分析
+popularity,431,538,0.0,0.0,,8,35,0,Anastasia (1997),Top-10 未覆盖，需逐例分析
+item_cf,431,538,0.0,0.0,,8,35,0,Anastasia (1997),Top-10 未覆盖，需逐例分析
+popularity,433,919,0.0,0.0,,19,60,0,"City of Lost Children, The (1995)",Top-10 未覆盖，需逐例分析
+item_cf,433,919,0.0,0.0,,19,60,0,"City of Lost Children, The (1995)",Top-10 未覆盖，需逐例分析
+popularity,434,546,0.0,0.0,,25,91,0,Broken Arrow (1996),Top-10 未覆盖，需逐例分析
+item_cf,434,546,0.0,0.0,,25,91,0,Broken Arrow (1996),Top-10 未覆盖，需逐例分析
+item_cf,435,313,0.0,0.0,,165,276,0,Titanic (1997),Top-10 未覆盖，需逐例分析
+popularity,436,581,0.0,0.0,,91,26,0,Kalifornia (1993),Top-10 未覆盖，需逐例分析
+item_cf,436,581,0.0,0.0,,91,26,0,Kalifornia (1993),Top-10 未覆盖，需逐例分析
+popularity,437,955,0.0,0.0,,151,25,0,Before Sunrise (1995),Top-10 未覆盖，需逐例分析
+item_cf,437,955,0.0,0.0,,151,25,0,Before Sunrise (1995),Top-10 未覆盖，需逐例分析
+popularity,438,476,0.0,0.0,,27,50,0,"First Wives Club, The (1996)",Top-10 未覆盖，需逐例分析
+item_cf,438,476,0.0,0.0,,27,50,0,"First Wives Club, The (1996)",Top-10 未覆盖，需逐例分析
+popularity,439,290,0.0,0.0,,17,33,0,Fierce Creatures (1997),Top-10 未覆盖，需逐例分析
+item_cf,439,290,0.0,0.0,,17,33,0,Fierce Creatures (1997),Top-10 未覆盖，需逐例分析
+popularity,440,515,0.0,0.0,,38,167,0,"Boot, Das (1981)",Top-10 未覆盖，需逐例分析
+item_cf,440,515,0.0,0.0,,38,167,0,"Boot, Das (1981)",Top-10 未覆盖，需逐例分析
+popularity,441,282,0.0,0.0,,10,136,0,"Time to Kill, A (1996)",Top-10 未覆盖，需逐例分析
+item_cf,441,282,0.0,0.0,,10,136,0,"Time to Kill, A (1996)",Top-10 未覆盖，需逐例分析
+popularity,442,159,0.0,0.0,,46,38,0,Basic Instinct (1992),Top-10 未覆盖，需逐例分析
+item_cf,442,159,0.0,0.0,,46,38,0,Basic Instinct (1992),Top-10 未覆盖，需逐例分析
+popularity,443,12,0.0,0.0,,11,230,0,"Usual Suspects, The (1995)",Top-10 未覆盖，需逐例分析
+item_cf,443,12,0.0,0.0,,11,230,0,"Usual Suspects, The (1995)",Top-10 未覆盖，需逐例分析
+popularity,444,906,0.0,0.0,,15,6,0,Oscar & Lucinda (1997),Top-10 未覆盖，需逐例分析
+item_cf,444,906,0.0,0.0,,15,6,0,Oscar & Lucinda (1997),Top-10 未覆盖，需逐例分析
+popularity,445,1143,0.0,0.0,,15,10,0,Hard Eight (1996),Top-10 未覆盖，需逐例分析
+item_cf,445,1143,0.0,0.0,,15,10,0,Hard Eight (1996),Top-10 未覆盖，需逐例分析
+popularity,446,302,0.0,0.0,,6,234,0,L.A. Confidential (1997),Top-10 未覆盖，需逐例分析
+popularity,447,156,0.0,0.0,,79,110,0,Reservoir Dogs (1992),Top-10 未覆盖，需逐例分析
+item_cf,447,156,0.0,0.0,,79,110,0,Reservoir Dogs (1992),Top-10 未覆盖，需逐例分析
+popularity,448,884,0.0,0.0,,21,2,0,Year of the Horse (1997),目标物品极稀疏
+item_cf,448,884,0.0,0.0,,21,2,0,Year of the Horse (1997),目标物品极稀疏
+popularity,449,337,0.0,0.0,,49,7,0,"House of Yes, The (1997)",Top-10 未覆盖，需逐例分析
+item_cf,449,337,0.0,0.0,,49,7,0,"House of Yes, The (1997)",Top-10 未覆盖，需逐例分析
+popularity,450,245,0.0,0.0,,377,80,0,"Devil's Own, The (1997)",Top-10 未覆盖，需逐例分析
+item_cf,450,245,0.0,0.0,,377,80,0,"Devil's Own, The (1997)",Top-10 未覆盖，需逐例分析
+popularity,451,1022,0.0,0.0,,37,14,0,"Fast, Cheap & Out of Control (1997)",Top-10 未覆盖，需逐例分析
+item_cf,451,1022,0.0,0.0,,37,14,0,"Fast, Cheap & Out of Control (1997)",Top-10 未覆盖，需逐例分析
+popularity,452,631,0.0,0.0,,109,68,0,"Crying Game, The (1992)",Top-10 未覆盖，需逐例分析
+item_cf,452,631,0.0,0.0,,109,68,0,"Crying Game, The (1992)",Top-10 未覆盖，需逐例分析
+popularity,453,73,0.0,0.0,,72,58,0,Maverick (1994),Top-10 未覆盖，需逐例分析
+item_cf,453,73,0.0,0.0,,72,58,0,Maverick (1994),Top-10 未覆盖，需逐例分析
+popularity,454,1107,0.0,0.0,,78,6,0,Beyond Rangoon (1995),Top-10 未覆盖，需逐例分析
+item_cf,454,1107,0.0,0.0,,78,6,0,Beyond Rangoon (1995),Top-10 未覆盖，需逐例分析
+popularity,455,307,0.0,0.0,,94,105,0,"Devil's Advocate, The (1997)",Top-10 未覆盖，需逐例分析
+item_cf,455,307,0.0,0.0,,94,105,0,"Devil's Advocate, The (1997)",Top-10 未覆盖，需逐例分析
+item_cf,456,258,0.0,0.0,,111,335,0,Contact (1997),Top-10 未覆盖，需逐例分析
+popularity,457,527,0.0,0.0,,215,144,0,Gandhi (1982),Top-10 未覆盖，需逐例分析
+popularity,458,847,0.0,0.0,,129,35,0,Looking for Richard (1996),Top-10 未覆盖，需逐例分析
+item_cf,458,847,0.0,0.0,,129,35,0,Looking for Richard (1996),Top-10 未覆盖，需逐例分析
+popularity,459,186,0.0,0.0,,57,166,0,"Blues Brothers, The (1980)",Top-10 未覆盖，需逐例分析
+item_cf,459,186,0.0,0.0,,57,166,0,"Blues Brothers, The (1980)",Top-10 未覆盖，需逐例分析
+popularity,460,713,0.0,0.0,,31,40,0,Othello (1995),Top-10 未覆盖，需逐例分析
+item_cf,460,713,0.0,0.0,,31,40,0,Othello (1995),Top-10 未覆盖，需逐例分析
+popularity,461,285,0.0,0.0,,7,134,0,Secrets & Lies (1996),Top-10 未覆盖，需逐例分析
+item_cf,461,285,0.0,0.0,,7,134,0,Secrets & Lies (1996),Top-10 未覆盖，需逐例分析
+popularity,462,315,0.0,0.0,,23,120,0,Apt Pupil (1998),Top-10 未覆盖，需逐例分析
+item_cf,462,315,0.0,0.0,,23,120,0,Apt Pupil (1998),Top-10 未覆盖，需逐例分析
+popularity,464,603,0.0,0.0,,41,181,0,Rear Window (1954),Top-10 未覆盖，需逐例分析
+item_cf,464,603,0.0,0.0,,41,181,0,Rear Window (1954),Top-10 未覆盖，需逐例分析
+popularity,466,357,0.0,0.0,,49,228,0,One Flew Over the Cuckoo's Nest (1975),Top-10 未覆盖，需逐例分析
+item_cf,466,357,0.0,0.0,,49,228,0,One Flew Over the Cuckoo's Nest (1975),Top-10 未覆盖，需逐例分析
+popularity,467,288,0.0,0.0,,27,241,0,Scream (1996),Top-10 未覆盖，需逐例分析
+item_cf,467,288,0.0,0.0,,27,241,0,Scream (1996),Top-10 未覆盖，需逐例分析
+popularity,468,44,0.0,0.0,,102,37,0,Dolores Claiborne (1994),Top-10 未覆盖，需逐例分析
+item_cf,468,44,0.0,0.0,,102,37,0,Dolores Claiborne (1994),Top-10 未覆盖，需逐例分析
+item_cf,469,127,0.0,0.0,,41,349,0,"Godfather, The (1972)",Top-10 未覆盖，需逐例分析
+popularity,471,102,0.0,0.0,,15,21,0,"Aristocats, The (1970)",Top-10 未覆盖，需逐例分析
+item_cf,471,102,0.0,0.0,,15,21,0,"Aristocats, The (1970)",Top-10 未覆盖，需逐例分析
+popularity,472,549,0.0,0.0,,213,51,0,Rob Roy (1995),Top-10 未覆盖，需逐例分析
+item_cf,472,549,0.0,0.0,,213,51,0,Rob Roy (1995),Top-10 未覆盖，需逐例分析
+popularity,473,256,0.0,0.0,,24,7,0,When the Cats Away (Chacun cherche son chat) (1996),Top-10 未覆盖，需逐例分析
+item_cf,473,256,0.0,0.0,,24,7,0,When the Cats Away (Chacun cherche son chat) (1996),Top-10 未覆盖，需逐例分析
+popularity,474,285,0.0,0.0,,256,134,0,Secrets & Lies (1996),Top-10 未覆盖，需逐例分析
+item_cf,474,285,0.0,0.0,,256,134,0,Secrets & Lies (1996),Top-10 未覆盖，需逐例分析
+popularity,475,259,0.0,0.0,,12,39,0,George of the Jungle (1997),Top-10 未覆盖，需逐例分析
+item_cf,475,259,0.0,0.0,,12,39,0,George of the Jungle (1997),Top-10 未覆盖，需逐例分析
+popularity,476,245,0.0,0.0,,42,80,0,"Devil's Own, The (1997)",Top-10 未覆盖，需逐例分析
+item_cf,476,245,0.0,0.0,,42,80,0,"Devil's Own, The (1997)",Top-10 未覆盖，需逐例分析
+popularity,477,846,0.0,0.0,,34,12,0,To Gillian on Her 37th Birthday (1996),Top-10 未覆盖，需逐例分析
+item_cf,477,846,0.0,0.0,,34,12,0,To Gillian on Her 37th Birthday (1996),Top-10 未覆盖，需逐例分析
+popularity,478,739,0.0,0.0,,57,75,0,Pretty Woman (1990),Top-10 未覆盖，需逐例分析
+item_cf,478,739,0.0,0.0,,57,75,0,Pretty Woman (1990),Top-10 未覆盖，需逐例分析
+popularity,479,915,0.0,0.0,,115,6,0,Primary Colors (1998),Top-10 未覆盖，需逐例分析
+item_cf,479,915,0.0,0.0,,115,6,0,Primary Colors (1998),Top-10 未覆盖，需逐例分析
+popularity,480,642,0.0,0.0,,43,46,0,"Grifters, The (1990)",Top-10 未覆盖，需逐例分析
+item_cf,480,642,0.0,0.0,,43,46,0,"Grifters, The (1990)",Top-10 未覆盖，需逐例分析
+popularity,481,202,0.0,0.0,,42,177,0,Groundhog Day (1993),Top-10 未覆盖，需逐例分析
+item_cf,481,202,0.0,0.0,,42,177,0,Groundhog Day (1993),Top-10 未覆盖，需逐例分析
+popularity,482,298,0.0,0.0,,12,121,0,Face/Off (1997),Top-10 未覆盖，需逐例分析
+item_cf,482,298,0.0,0.0,,12,121,0,Face/Off (1997),Top-10 未覆盖，需逐例分析
+popularity,483,1152,0.0,0.0,,14,14,0,In Love and War (1996),Top-10 未覆盖，需逐例分析
+item_cf,483,1152,0.0,0.0,,14,14,0,In Love and War (1996),Top-10 未覆盖，需逐例分析
+popularity,484,197,0.0,0.0,,109,184,0,"Graduate, The (1967)",Top-10 未覆盖，需逐例分析
+item_cf,484,197,0.0,0.0,,109,184,0,"Graduate, The (1967)",Top-10 未覆盖，需逐例分析
+popularity,485,341,0.0,0.0,,7,4,0,Critical Care (1997),Top-10 未覆盖，需逐例分析
+item_cf,485,341,0.0,0.0,,7,4,0,Critical Care (1997),Top-10 未覆盖，需逐例分析
+popularity,487,833,0.0,0.0,,136,22,0,Bulletproof (1996),Top-10 未覆盖，需逐例分析
+item_cf,487,833,0.0,0.0,,136,22,0,Bulletproof (1996),Top-10 未覆盖，需逐例分析
+popularity,488,185,0.0,0.0,,79,183,0,Psycho (1960),Top-10 未覆盖，需逐例分析
+item_cf,488,185,0.0,0.0,,79,183,0,Psycho (1960),Top-10 未覆盖，需逐例分析
+popularity,489,353,0.0,0.0,,65,3,0,Deep Rising (1998),Top-10 未覆盖，需逐例分析
+item_cf,489,353,0.0,0.0,,65,3,0,Deep Rising (1998),Top-10 未覆盖，需逐例分析
+popularity,490,1128,0.0,0.0,,17,3,0,Heidi Fleiss: Hollywood Madam (1995) ,Top-10 未覆盖，需逐例分析
+item_cf,490,1128,0.0,0.0,,17,3,0,Heidi Fleiss: Hollywood Madam (1995) ,Top-10 未覆盖，需逐例分析
+item_cf,491,258,0.0,0.0,,21,335,0,Contact (1997),Top-10 未覆盖，需逐例分析
+popularity,492,527,0.0,0.0,,26,144,0,Gandhi (1982),Top-10 未覆盖，需逐例分析
+item_cf,492,527,0.0,0.0,,26,144,0,Gandhi (1982),Top-10 未覆盖，需逐例分析
+popularity,493,333,0.0,0.0,,86,144,0,"Game, The (1997)",Top-10 未覆盖，需逐例分析
+item_cf,493,333,0.0,0.0,,86,144,0,"Game, The (1997)",Top-10 未覆盖，需逐例分析
+popularity,494,126,0.0,0.0,,31,61,0,"Spitfire Grill, The (1996)",Top-10 未覆盖，需逐例分析
+item_cf,494,126,0.0,0.0,,31,61,0,"Spitfire Grill, The (1996)",Top-10 未覆盖，需逐例分析
+popularity,495,944,0.0,0.0,,143,13,0,Renaissance Man (1994),Top-10 未覆盖，需逐例分析
+item_cf,495,944,0.0,0.0,,143,13,0,Renaissance Man (1994),Top-10 未覆盖，需逐例分析
+popularity,496,87,0.0,0.0,,42,93,0,Searching for Bobby Fischer (1993),Top-10 未覆盖，需逐例分析
+item_cf,496,87,0.0,0.0,,42,93,0,Searching for Bobby Fischer (1993),Top-10 未覆盖，需逐例分析
+popularity,497,584,0.0,0.0,,105,42,0,"Secret Garden, The (1993)",Top-10 未覆盖，需逐例分析
+item_cf,497,584,0.0,0.0,,105,42,0,"Secret Garden, The (1993)",Top-10 未覆盖，需逐例分析
+popularity,498,558,0.0,0.0,,58,45,0,Heavenly Creatures (1994),Top-10 未覆盖，需逐例分析
+item_cf,498,558,0.0,0.0,,58,45,0,Heavenly Creatures (1994),Top-10 未覆盖，需逐例分析
+popularity,499,902,0.0,0.0,,69,24,0,"Big Lebowski, The (1998)",Top-10 未覆盖，需逐例分析
+item_cf,499,902,0.0,0.0,,69,24,0,"Big Lebowski, The (1998)",Top-10 未覆盖，需逐例分析
+popularity,500,298,0.0,0.0,,110,121,0,Face/Off (1997),Top-10 未覆盖，需逐例分析
+item_cf,500,298,0.0,0.0,,110,121,0,Face/Off (1997),Top-10 未覆盖，需逐例分析
+popularity,501,1007,0.0,0.0,,49,38,0,Waiting for Guffman (1996),Top-10 未覆盖，需逐例分析
+item_cf,501,1007,0.0,0.0,,49,38,0,Waiting for Guffman (1996),Top-10 未覆盖，需逐例分析
+popularity,502,687,0.0,0.0,,13,7,0,McHale's Navy (1997),Top-10 未覆盖，需逐例分析
+item_cf,502,687,0.0,0.0,,13,7,0,McHale's Navy (1997),Top-10 未覆盖，需逐例分析
+popularity,503,778,0.0,0.0,,110,41,0,Don Juan DeMarco (1995),Top-10 未覆盖，需逐例分析
+item_cf,503,778,0.0,0.0,,110,41,0,Don Juan DeMarco (1995),Top-10 未覆盖，需逐例分析
+popularity,504,409,0.0,0.0,,156,26,0,Jack (1996),Top-10 未覆盖，需逐例分析
+item_cf,504,409,0.0,0.0,,156,26,0,Jack (1996),Top-10 未覆盖，需逐例分析
+popularity,505,648,0.0,0.0,,51,48,0,"Quiet Man, The (1952)",Top-10 未覆盖，需逐例分析
+item_cf,505,648,0.0,0.0,,51,48,0,"Quiet Man, The (1952)",Top-10 未覆盖，需逐例分析
+popularity,506,568,0.0,0.0,,154,141,0,Speed (1994),Top-10 未覆盖，需逐例分析
+popularity,507,1034,0.0,0.0,,53,4,0,"Quest, The (1996)",Top-10 未覆盖，需逐例分析
+item_cf,507,1034,0.0,0.0,,53,4,0,"Quest, The (1996)",Top-10 未覆盖，需逐例分析
+popularity,508,528,0.0,0.0,,55,92,0,"Killing Fields, The (1984)",Top-10 未覆盖，需逐例分析
+item_cf,508,528,0.0,0.0,,55,92,0,"Killing Fields, The (1984)",Top-10 未覆盖，需逐例分析
+popularity,510,678,0.0,0.0,,6,51,0,Volcano (1997),Top-10 未覆盖，需逐例分析
+item_cf,510,678,0.0,0.0,,6,51,0,Volcano (1997),Top-10 未覆盖，需逐例分析
+popularity,511,294,0.0,0.0,,16,194,0,Liar Liar (1997),Top-10 未覆盖，需逐例分析
+item_cf,511,294,0.0,0.0,,16,194,0,Liar Liar (1997),Top-10 未覆盖，需逐例分析
+item_cf,512,1,0.0,0.0,,17,315,0,Toy Story (1995),Top-10 未覆盖，需逐例分析
+popularity,513,252,0.0,0.0,,18,46,0,"Lost World: Jurassic Park, The (1997)",Top-10 未覆盖，需逐例分析
+item_cf,513,252,0.0,0.0,,18,46,0,"Lost World: Jurassic Park, The (1997)",Top-10 未覆盖，需逐例分析
+item_cf,514,313,0.0,0.0,,137,276,0,Titanic (1997),Top-10 未覆盖，需逐例分析
+popularity,515,1399,0.0,0.0,,12,0,1,Stranger in the House (1997),物品冷启动
+item_cf,515,1399,0.0,0.0,,12,0,1,Stranger in the House (1997),物品冷启动
+popularity,516,191,0.0,0.0,,15,220,0,Amadeus (1984),Top-10 未覆盖，需逐例分析
+popularity,517,1177,0.0,0.0,,16,0,1,Dunston Checks In (1996),物品冷启动
+item_cf,517,1177,0.0,0.0,,16,0,1,Dunston Checks In (1996),物品冷启动
+popularity,518,280,0.0,0.0,,37,32,0,Up Close and Personal (1996),Top-10 未覆盖，需逐例分析
+item_cf,518,280,0.0,0.0,,37,32,0,Up Close and Personal (1996),Top-10 未覆盖，需逐例分析
+popularity,519,346,0.0,0.0,,36,74,0,Jackie Brown (1997),Top-10 未覆盖，需逐例分析
+popularity,520,283,0.0,0.0,,12,109,0,Emma (1996),Top-10 未覆盖，需逐例分析
+item_cf,520,283,0.0,0.0,,12,109,0,Emma (1996),Top-10 未覆盖，需逐例分析
+popularity,521,68,0.0,0.0,,47,67,0,"Crow, The (1994)",Top-10 未覆盖，需逐例分析
+item_cf,521,68,0.0,0.0,,47,67,0,"Crow, The (1994)",Top-10 未覆盖，需逐例分析
+popularity,522,530,0.0,0.0,,25,57,0,"Man Who Would Be King, The (1975)",Top-10 未覆盖，需逐例分析
+item_cf,522,530,0.0,0.0,,25,57,0,"Man Who Would Be King, The (1975)",Top-10 未覆盖，需逐例分析
+popularity,523,727,0.0,0.0,,87,32,0,Immortal Beloved (1994),Top-10 未覆盖，需逐例分析
+item_cf,523,727,0.0,0.0,,87,32,0,Immortal Beloved (1994),Top-10 未覆盖，需逐例分析
+popularity,524,898,0.0,0.0,,171,26,0,"Postman, The (1997)",Top-10 未覆盖，需逐例分析
+item_cf,524,898,0.0,0.0,,171,26,0,"Postman, The (1997)",Top-10 未覆盖，需逐例分析
+popularity,525,269,0.0,0.0,,22,216,0,"Full Monty, The (1997)",Top-10 未覆盖，需逐例分析
+item_cf,525,269,0.0,0.0,,22,216,0,"Full Monty, The (1997)",Top-10 未覆盖，需逐例分析
+popularity,526,475,0.0,0.0,,26,178,0,Trainspotting (1996),Top-10 未覆盖，需逐例分析
+item_cf,526,475,0.0,0.0,,26,178,0,Trainspotting (1996),Top-10 未覆盖，需逐例分析
+popularity,527,1101,0.0,0.0,,90,48,0,Six Degrees of Separation (1993),Top-10 未覆盖，需逐例分析
+item_cf,527,1101,0.0,0.0,,90,48,0,Six Degrees of Separation (1993),Top-10 未覆盖，需逐例分析
+popularity,528,168,0.0,0.0,,32,240,0,Monty Python and the Holy Grail (1974),Top-10 未覆盖，需逐例分析
+popularity,529,875,0.0,0.0,,30,16,0,She's So Lovely (1997),Top-10 未覆盖，需逐例分析
+item_cf,529,875,0.0,0.0,,30,16,0,She's So Lovely (1997),Top-10 未覆盖，需逐例分析
+popularity,530,1136,0.0,0.0,,32,14,0,Ghosts of Mississippi (1996),Top-10 未覆盖，需逐例分析
+item_cf,530,1136,0.0,0.0,,32,14,0,Ghosts of Mississippi (1996),Top-10 未覆盖，需逐例分析
+popularity,531,313,0.0,0.0,,16,276,0,Titanic (1997),Top-10 未覆盖，需逐例分析
+popularity,532,1011,0.0,0.0,,207,37,0,2 Days in the Valley (1996),Top-10 未覆盖，需逐例分析
+item_cf,532,1011,0.0,0.0,,207,37,0,2 Days in the Valley (1996),Top-10 未覆盖，需逐例分析
+popularity,533,303,0.0,0.0,,144,87,0,Ulee's Gold (1997),Top-10 未覆盖，需逐例分析
+item_cf,533,303,0.0,0.0,,144,87,0,Ulee's Gold (1997),Top-10 未覆盖，需逐例分析
+popularity,534,1047,0.0,0.0,,64,32,0,Multiplicity (1996),Top-10 未覆盖，需逐例分析
+item_cf,534,1047,0.0,0.0,,64,32,0,Multiplicity (1996),Top-10 未覆盖，需逐例分析
+item_cf,535,258,0.0,0.0,,155,335,0,Contact (1997),Top-10 未覆盖，需逐例分析
+popularity,536,94,0.0,0.0,,108,46,0,Home Alone (1990),Top-10 未覆盖，需逐例分析
+item_cf,536,94,0.0,0.0,,108,46,0,Home Alone (1990),Top-10 未覆盖，需逐例分析
+popularity,537,715,0.0,0.0,,130,41,0,To Die For (1995),Top-10 未覆盖，需逐例分析
+item_cf,537,715,0.0,0.0,,130,41,0,To Die For (1995),Top-10 未覆盖，需逐例分析
+popularity,538,216,0.0,0.0,,42,207,0,When Harry Met Sally... (1989),Top-10 未覆盖，需逐例分析
+popularity,539,285,0.0,0.0,,40,134,0,Secrets & Lies (1996),Top-10 未覆盖，需逐例分析
+item_cf,539,285,0.0,0.0,,40,134,0,Secrets & Lies (1996),Top-10 未覆盖，需逐例分析
+popularity,540,1226,0.0,0.0,,41,16,0,Night Falls on Manhattan (1997),Top-10 未覆盖，需逐例分析
+item_cf,540,1226,0.0,0.0,,41,16,0,Night Falls on Manhattan (1997),Top-10 未覆盖，需逐例分析
+popularity,541,225,0.0,0.0,,79,27,0,101 Dalmatians (1996),Top-10 未覆盖，需逐例分析
+item_cf,541,225,0.0,0.0,,79,27,0,101 Dalmatians (1996),Top-10 未覆盖，需逐例分析
+popularity,542,230,0.0,0.0,,69,97,0,Star Trek IV: The Voyage Home (1986),Top-10 未覆盖，需逐例分析
+item_cf,542,230,0.0,0.0,,69,97,0,Star Trek IV: The Voyage Home (1986),Top-10 未覆盖，需逐例分析
+popularity,543,936,0.0,0.0,,109,22,0,Brassed Off (1996),Top-10 未覆盖，需逐例分析
+item_cf,543,936,0.0,0.0,,109,22,0,Brassed Off (1996),Top-10 未覆盖，需逐例分析
+popularity,544,300,0.0,0.0,,6,248,0,Air Force One (1997),Top-10 未覆盖，需逐例分析
+popularity,545,578,0.0,0.0,,79,32,0,Demolition Man (1993),Top-10 未覆盖，需逐例分析
+item_cf,545,578,0.0,0.0,,79,32,0,Demolition Man (1993),Top-10 未覆盖，需逐例分析
+popularity,546,590,0.0,0.0,,42,1,0,Hellraiser: Bloodline (1996),目标物品极稀疏
+item_cf,546,590,0.0,0.0,,42,1,0,Hellraiser: Bloodline (1996),目标物品极稀疏
+popularity,547,319,0.0,0.0,,14,72,0,Everyone Says I Love You (1996),Top-10 未覆盖，需逐例分析
+item_cf,547,319,0.0,0.0,,14,72,0,Everyone Says I Love You (1996),Top-10 未覆盖，需逐例分析
+popularity,548,1278,0.0,0.0,,101,8,0,Selena (1997),Top-10 未覆盖，需逐例分析
+item_cf,548,1278,0.0,0.0,,101,8,0,Selena (1997),Top-10 未覆盖，需逐例分析
+popularity,549,288,0.0,0.0,,13,241,0,Scream (1996),Top-10 未覆盖，需逐例分析
+item_cf,549,288,0.0,0.0,,13,241,0,Scream (1996),Top-10 未覆盖，需逐例分析
+popularity,550,924,0.0,0.0,,24,39,0,White Squall (1996),Top-10 未覆盖，需逐例分析
+item_cf,550,924,0.0,0.0,,24,39,0,White Squall (1996),Top-10 未覆盖，需逐例分析
+popularity,551,780,0.0,0.0,,231,25,0,Dumb & Dumber (1994),Top-10 未覆盖，需逐例分析
+item_cf,551,780,0.0,0.0,,231,25,0,Dumb & Dumber (1994),Top-10 未覆盖，需逐例分析
+popularity,552,121,0.0,0.0,,16,225,0,Independence Day (ID4) (1996),Top-10 未覆盖，需逐例分析
+popularity,553,661,0.0,0.0,,78,66,0,High Noon (1952),Top-10 未覆盖，需逐例分析
+item_cf,553,661,0.0,0.0,,78,66,0,High Noon (1952),Top-10 未覆盖，需逐例分析
+popularity,554,328,0.0,0.0,,61,146,0,Conspiracy Theory (1997),Top-10 未覆盖，需逐例分析
+item_cf,554,328,0.0,0.0,,61,146,0,Conspiracy Theory (1997),Top-10 未覆盖，需逐例分析
+popularity,555,129,0.0,0.0,,41,85,0,Bound (1996),Top-10 未覆盖，需逐例分析
+item_cf,555,129,0.0,0.0,,41,85,0,Bound (1996),Top-10 未覆盖，需逐例分析
+popularity,556,520,0.0,0.0,,34,92,0,"Great Escape, The (1963)",Top-10 未覆盖，需逐例分析
+item_cf,556,520,0.0,0.0,,34,92,0,"Great Escape, The (1963)",Top-10 未覆盖，需逐例分析
+popularity,557,750,0.0,0.0,,31,80,0,Amistad (1997),Top-10 未覆盖，需逐例分析
+item_cf,557,750,0.0,0.0,,31,80,0,Amistad (1997),Top-10 未覆盖，需逐例分析
+popularity,558,936,0.0,0.0,,16,22,0,Brassed Off (1996),Top-10 未覆盖，需逐例分析
+item_cf,558,936,0.0,0.0,,16,22,0,Brassed Off (1996),Top-10 未覆盖，需逐例分析
+popularity,559,502,0.0,0.0,,42,35,0,Bananas (1971),Top-10 未覆盖，需逐例分析
+item_cf,559,502,0.0,0.0,,42,35,0,Bananas (1971),Top-10 未覆盖，需逐例分析
+popularity,560,405,0.0,0.0,,42,147,0,Mission: Impossible (1996),Top-10 未覆盖，需逐例分析
+item_cf,560,405,0.0,0.0,,42,147,0,Mission: Impossible (1996),Top-10 未覆盖，需逐例分析
+popularity,561,1009,0.0,0.0,,115,33,0,Stealing Beauty (1996),Top-10 未覆盖，需逐例分析
+item_cf,561,1009,0.0,0.0,,115,33,0,Stealing Beauty (1996),Top-10 未覆盖，需逐例分析
+popularity,562,504,0.0,0.0,,47,77,0,Bonnie and Clyde (1967),Top-10 未覆盖，需逐例分析
+item_cf,562,504,0.0,0.0,,47,77,0,Bonnie and Clyde (1967),Top-10 未覆盖，需逐例分析
+popularity,563,153,0.0,0.0,,21,159,0,"Fish Called Wanda, A (1988)",Top-10 未覆盖，需逐例分析
+item_cf,563,153,0.0,0.0,,21,159,0,"Fish Called Wanda, A (1988)",Top-10 未覆盖，需逐例分析
+popularity,564,257,0.0,0.0,,16,186,0,Men in Black (1997),Top-10 未覆盖，需逐例分析
+item_cf,564,257,0.0,0.0,,16,186,0,Men in Black (1997),Top-10 未覆盖，需逐例分析
+popularity,565,1018,0.0,0.0,,32,9,0,Tie Me Up! Tie Me Down! (1990),Top-10 未覆盖，需逐例分析
+item_cf,565,1018,0.0,0.0,,32,9,0,Tie Me Up! Tie Me Down! (1990),Top-10 未覆盖，需逐例分析
+popularity,566,387,0.0,0.0,,82,30,0,"Age of Innocence, The (1993)",Top-10 未覆盖，需逐例分析
+item_cf,566,387,0.0,0.0,,82,30,0,"Age of Innocence, The (1993)",Top-10 未覆盖，需逐例分析
+popularity,567,248,0.0,0.0,,114,101,0,Grosse Pointe Blank (1997),Top-10 未覆盖，需逐例分析
+item_cf,567,248,0.0,0.0,,114,101,0,Grosse Pointe Blank (1997),Top-10 未覆盖，需逐例分析
+popularity,568,653,0.0,0.0,,43,24,0,Touch of Evil (1958),Top-10 未覆盖，需逐例分析
+item_cf,568,653,0.0,0.0,,43,24,0,Touch of Evil (1958),Top-10 未覆盖，需逐例分析
+popularity,569,287,0.0,0.0,,33,43,0,Marvin's Room (1996),Top-10 未覆盖，需逐例分析
+item_cf,569,287,0.0,0.0,,33,43,0,Marvin's Room (1996),Top-10 未覆盖，需逐例分析
+popularity,570,327,0.0,0.0,,5,79,0,Cop Land (1997),Top-10 未覆盖，需逐例分析
+item_cf,570,327,0.0,0.0,,5,79,0,Cop Land (1997),Top-10 未覆盖，需逐例分析
+popularity,571,964,0.0,0.0,,11,4,0,"Month by the Lake, A (1995)",Top-10 未覆盖，需逐例分析
+item_cf,571,964,0.0,0.0,,11,4,0,"Month by the Lake, A (1995)",Top-10 未覆盖，需逐例分析
+popularity,572,13,0.0,0.0,,9,93,0,Mighty Aphrodite (1995),Top-10 未覆盖，需逐例分析
+item_cf,572,13,0.0,0.0,,9,93,0,Mighty Aphrodite (1995),Top-10 未覆盖，需逐例分析
+popularity,573,478,0.0,0.0,,38,82,0,"Philadelphia Story, The (1940)",Top-10 未覆盖，需逐例分析
+item_cf,573,478,0.0,0.0,,38,82,0,"Philadelphia Story, The (1940)",Top-10 未覆盖，需逐例分析
+popularity,574,213,0.0,0.0,,25,97,0,"Room with a View, A (1986)",Top-10 未覆盖，需逐例分析
+item_cf,574,213,0.0,0.0,,25,97,0,"Room with a View, A (1986)",Top-10 未覆盖，需逐例分析
+popularity,575,357,0.0,0.0,,10,228,0,One Flew Over the Cuckoo's Nest (1975),Top-10 未覆盖，需逐例分析
+item_cf,575,357,0.0,0.0,,10,228,0,One Flew Over the Cuckoo's Nest (1975),Top-10 未覆盖，需逐例分析
+popularity,576,248,0.0,0.0,,18,101,0,Grosse Pointe Blank (1997),Top-10 未覆盖，需逐例分析
+item_cf,576,248,0.0,0.0,,18,101,0,Grosse Pointe Blank (1997),Top-10 未覆盖，需逐例分析
+popularity,577,531,0.0,0.0,,121,91,0,Shine (1996),Top-10 未覆盖，需逐例分析
+item_cf,577,531,0.0,0.0,,121,91,0,Shine (1996),Top-10 未覆盖，需逐例分析
+popularity,578,222,0.0,0.0,,4,219,0,Star Trek: First Contact (1996),Top-10 未覆盖，需逐例分析
+item_cf,578,222,0.0,0.0,,4,219,0,Star Trek: First Contact (1996),Top-10 未覆盖，需逐例分析
+popularity,579,845,0.0,0.0,,33,82,0,That Thing You Do! (1996),Top-10 未覆盖，需逐例分析
+item_cf,579,845,0.0,0.0,,33,82,0,That Thing You Do! (1996),Top-10 未覆盖，需逐例分析
+popularity,580,3,0.0,0.0,,22,32,0,Four Rooms (1995),Top-10 未覆盖，需逐例分析
+item_cf,580,3,0.0,0.0,,22,32,0,Four Rooms (1995),Top-10 未覆盖，需逐例分析
+popularity,581,919,0.0,0.0,,18,60,0,"City of Lost Children, The (1995)",Top-10 未覆盖，需逐例分析
+item_cf,581,919,0.0,0.0,,18,60,0,"City of Lost Children, The (1995)",Top-10 未覆盖，需逐例分析
+popularity,582,1215,0.0,0.0,,26,1,0,Barb Wire (1996),目标物品极稀疏
+item_cf,582,1215,0.0,0.0,,26,1,0,Barb Wire (1996),目标物品极稀疏
+popularity,583,425,0.0,0.0,,25,55,0,Bob Roberts (1992),Top-10 未覆盖，需逐例分析
+item_cf,583,425,0.0,0.0,,25,55,0,Bob Roberts (1992),Top-10 未覆盖，需逐例分析
+popularity,584,40,0.0,0.0,,14,18,0,"To Wong Foo, Thanks for Everything! Julie Newmar (1995)",Top-10 未覆盖，需逐例分析
+item_cf,584,40,0.0,0.0,,14,18,0,"To Wong Foo, Thanks for Everything! Julie Newmar (1995)",Top-10 未覆盖，需逐例分析
+popularity,585,70,0.0,0.0,,47,158,0,Four Weddings and a Funeral (1994),Top-10 未覆盖，需逐例分析
+item_cf,585,70,0.0,0.0,,47,158,0,Four Weddings and a Funeral (1994),Top-10 未覆盖，需逐例分析
+popularity,586,358,0.0,0.0,,64,30,0,Spawn (1997),Top-10 未覆盖，需逐例分析
+item_cf,586,358,0.0,0.0,,64,30,0,Spawn (1997),Top-10 未覆盖，需逐例分析
+popularity,587,1625,0.0,0.0,,32,0,1,Nightwatch (1997),物品冷启动
+item_cf,587,1625,0.0,0.0,,32,0,1,Nightwatch (1997),物品冷启动
+popularity,588,570,0.0,0.0,,139,19,0,Wyatt Earp (1994),Top-10 未覆盖，需逐例分析
+item_cf,588,570,0.0,0.0,,139,19,0,Wyatt Earp (1994),Top-10 未覆盖，需逐例分析
+popularity,589,689,0.0,0.0,,23,33,0,"Jackal, The (1997)",Top-10 未覆盖，需逐例分析
+item_cf,589,689,0.0,0.0,,23,33,0,"Jackal, The (1997)",Top-10 未覆盖，需逐例分析
+popularity,590,1331,0.0,0.0,,24,1,0,"Last Klezmer: Leopold Kozlowski, His Life and Music, The (1995)",目标物品极稀疏
+item_cf,590,1331,0.0,0.0,,24,1,0,"Last Klezmer: Leopold Kozlowski, His Life and Music, The (1995)",目标物品极稀疏
+popularity,591,856,0.0,0.0,,48,23,0,Night on Earth (1991),Top-10 未覆盖，需逐例分析
+item_cf,591,856,0.0,0.0,,48,23,0,Night on Earth (1991),Top-10 未覆盖，需逐例分析
+popularity,592,345,0.0,0.0,,256,36,0,Deconstructing Harry (1997),Top-10 未覆盖，需逐例分析
+item_cf,592,345,0.0,0.0,,256,36,0,Deconstructing Harry (1997),Top-10 未覆盖，需逐例分析
+popularity,593,1016,0.0,0.0,,88,65,0,Con Air (1997),Top-10 未覆盖，需逐例分析
+item_cf,593,1016,0.0,0.0,,88,65,0,Con Air (1997),Top-10 未覆盖，需逐例分析
+popularity,594,199,0.0,0.0,,11,133,0,"Bridge on the River Kwai, The (1957)",Top-10 未覆盖，需逐例分析
+item_cf,594,199,0.0,0.0,,11,133,0,"Bridge on the River Kwai, The (1957)",Top-10 未覆盖，需逐例分析
+popularity,595,1067,0.0,0.0,,39,24,0,Bottle Rocket (1996),Top-10 未覆盖，需逐例分析
+item_cf,595,1067,0.0,0.0,,39,24,0,Bottle Rocket (1996),Top-10 未覆盖，需逐例分析
+popularity,597,825,0.0,0.0,,25,31,0,"Arrival, The (1996)",Top-10 未覆盖，需逐例分析
+item_cf,597,825,0.0,0.0,,25,31,0,"Arrival, The (1996)",Top-10 未覆盖，需逐例分析
+popularity,598,22,0.0,0.0,,14,230,0,Braveheart (1995),Top-10 未覆盖，需逐例分析
+item_cf,598,22,0.0,0.0,,14,230,0,Braveheart (1995),Top-10 未覆盖，需逐例分析
+popularity,599,928,0.0,0.0,,33,33,0,"Craft, The (1996)",Top-10 未覆盖，需逐例分析
+item_cf,599,928,0.0,0.0,,33,33,0,"Craft, The (1996)",Top-10 未覆盖，需逐例分析
+popularity,600,450,0.0,0.0,,48,10,0,Star Trek V: The Final Frontier (1989),Top-10 未覆盖，需逐例分析
+item_cf,600,450,0.0,0.0,,48,10,0,Star Trek V: The Final Frontier (1989),Top-10 未覆盖，需逐例分析
+popularity,601,382,0.0,0.0,,73,59,0,"Adventures of Priscilla, Queen of the Desert, The (1994)",Top-10 未覆盖，需逐例分析
+item_cf,601,382,0.0,0.0,,73,59,0,"Adventures of Priscilla, Queen of the Desert, The (1994)",Top-10 未覆盖，需逐例分析
+popularity,602,125,0.0,0.0,,18,121,0,Phenomenon (1996),Top-10 未覆盖，需逐例分析
+item_cf,602,125,0.0,0.0,,18,121,0,Phenomenon (1996),Top-10 未覆盖，需逐例分析
+popularity,603,923,0.0,0.0,,32,39,0,Raise the Red Lantern (1991),Top-10 未覆盖，需逐例分析
+item_cf,603,923,0.0,0.0,,32,39,0,Raise the Red Lantern (1991),Top-10 未覆盖，需逐例分析
+popularity,604,670,0.0,0.0,,11,10,0,Body Snatchers (1993),Top-10 未覆盖，需逐例分析
+item_cf,604,670,0.0,0.0,,11,10,0,Body Snatchers (1993),Top-10 未覆盖，需逐例分析
+popularity,605,462,0.0,0.0,,55,99,0,Like Water For Chocolate (Como agua para chocolate) (1992),Top-10 未覆盖，需逐例分析
+item_cf,605,462,0.0,0.0,,55,99,0,Like Water For Chocolate (Como agua para chocolate) (1992),Top-10 未覆盖，需逐例分析
+popularity,606,326,0.0,0.0,,173,85,0,G.I. Jane (1997),Top-10 未覆盖，需逐例分析
+item_cf,606,326,0.0,0.0,,173,85,0,G.I. Jane (1997),Top-10 未覆盖，需逐例分析
+popularity,607,30,0.0,0.0,,26,29,0,Belle de jour (1967),Top-10 未覆盖，需逐例分析
+item_cf,607,30,0.0,0.0,,26,29,0,Belle de jour (1967),Top-10 未覆盖，需逐例分析
+popularity,608,76,0.0,0.0,,106,26,0,Carlito's Way (1993),Top-10 未覆盖，需逐例分析
+item_cf,608,76,0.0,0.0,,106,26,0,Carlito's Way (1993),Top-10 未覆盖，需逐例分析
+popularity,609,408,0.0,0.0,,8,97,0,"Close Shave, A (1995)",Top-10 未覆盖，需逐例分析
+item_cf,609,408,0.0,0.0,,8,97,0,"Close Shave, A (1995)",Top-10 未覆盖，需逐例分析
+popularity,610,673,0.0,0.0,,47,45,0,Cape Fear (1962),Top-10 未覆盖，需逐例分析
+item_cf,610,673,0.0,0.0,,47,45,0,Cape Fear (1962),Top-10 未覆盖，需逐例分析
+popularity,611,886,0.0,0.0,,26,18,0,"Life Less Ordinary, A (1997)",Top-10 未覆盖，需逐例分析
+item_cf,611,886,0.0,0.0,,26,18,0,"Life Less Ordinary, A (1997)",Top-10 未覆盖，需逐例分析
+popularity,612,604,0.0,0.0,,12,60,0,It Happened One Night (1934),Top-10 未覆盖，需逐例分析
+item_cf,612,604,0.0,0.0,,12,60,0,It Happened One Night (1934),Top-10 未覆盖，需逐例分析
+popularity,613,279,0.0,0.0,,22,13,0,Once Upon a Time... When We Were Colored (1995),Top-10 未覆盖，需逐例分析
+item_cf,613,279,0.0,0.0,,22,13,0,Once Upon a Time... When We Were Colored (1995),Top-10 未覆盖，需逐例分析
+popularity,614,717,0.0,0.0,,13,21,0,"Juror, The (1996)",Top-10 未覆盖，需逐例分析
+item_cf,614,717,0.0,0.0,,13,21,0,"Juror, The (1996)",Top-10 未覆盖，需逐例分析
+popularity,615,732,0.0,0.0,,76,105,0,Dave (1993),Top-10 未覆盖，需逐例分析
+item_cf,615,732,0.0,0.0,,76,105,0,Dave (1993),Top-10 未覆盖，需逐例分析
+popularity,616,937,0.0,0.0,,24,17,0,"Thousand Acres, A (1997)",Top-10 未覆盖，需逐例分析
+item_cf,616,937,0.0,0.0,,24,17,0,"Thousand Acres, A (1997)",Top-10 未覆盖，需逐例分析
+popularity,617,668,0.0,0.0,,35,1,0,Blood Beach (1981),目标物品极稀疏
+item_cf,617,668,0.0,0.0,,35,1,0,Blood Beach (1981),目标物品极稀疏
+popularity,618,1039,0.0,0.0,,90,68,0,Hamlet (1996),Top-10 未覆盖，需逐例分析
+item_cf,618,1039,0.0,0.0,,90,68,0,Hamlet (1996),Top-10 未覆盖，需逐例分析
+popularity,619,665,0.0,0.0,,48,27,0,Alien 3 (1992),Top-10 未覆盖，需逐例分析
+item_cf,619,665,0.0,0.0,,48,27,0,Alien 3 (1992),Top-10 未覆盖，需逐例分析
+popularity,620,112,0.0,0.0,,70,3,0,Flipper (1996),Top-10 未覆盖，需逐例分析
+item_cf,620,112,0.0,0.0,,70,3,0,Flipper (1996),Top-10 未覆盖，需逐例分析
+popularity,621,333,0.0,0.0,,96,144,0,"Game, The (1997)",Top-10 未覆盖，需逐例分析
+item_cf,621,333,0.0,0.0,,96,144,0,"Game, The (1997)",Top-10 未覆盖，需逐例分析
+popularity,622,1411,0.0,0.0,,114,6,0,Barbarella (1968),Top-10 未覆盖，需逐例分析
+item_cf,622,1411,0.0,0.0,,114,6,0,Barbarella (1968),Top-10 未覆盖，需逐例分析
+popularity,623,659,0.0,0.0,,28,88,0,Arsenic and Old Lace (1944),Top-10 未覆盖，需逐例分析
+item_cf,623,659,0.0,0.0,,28,88,0,Arsenic and Old Lace (1944),Top-10 未覆盖，需逐例分析
+popularity,624,312,0.0,0.0,,76,27,0,Midnight in the Garden of Good and Evil (1997),Top-10 未覆盖，需逐例分析
+item_cf,624,312,0.0,0.0,,76,27,0,Midnight in the Garden of Good and Evil (1997),Top-10 未覆盖，需逐例分析
+popularity,625,385,0.0,0.0,,46,116,0,True Lies (1994),Top-10 未覆盖，需逐例分析
+item_cf,625,385,0.0,0.0,,46,116,0,True Lies (1994),Top-10 未覆盖，需逐例分析
+popularity,626,923,0.0,0.0,,8,39,0,Raise the Red Lantern (1991),Top-10 未覆盖，需逐例分析
+item_cf,626,923,0.0,0.0,,8,39,0,Raise the Red Lantern (1991),Top-10 未覆盖，需逐例分析
+popularity,627,1004,0.0,0.0,,78,3,0,Geronimo: An American Legend (1993),Top-10 未覆盖，需逐例分析
+item_cf,627,1004,0.0,0.0,,78,3,0,Geronimo: An American Legend (1993),Top-10 未覆盖，需逐例分析
+popularity,628,845,0.0,0.0,,24,82,0,That Thing You Do! (1996),Top-10 未覆盖，需逐例分析
+item_cf,628,845,0.0,0.0,,24,82,0,That Thing You Do! (1996),Top-10 未覆盖，需逐例分析
+popularity,629,729,0.0,0.0,,87,44,0,Nell (1994),Top-10 未覆盖，需逐例分析
+item_cf,629,729,0.0,0.0,,87,44,0,Nell (1994),Top-10 未覆盖，需逐例分析
+popularity,630,272,0.0,0.0,,48,155,0,Good Will Hunting (1997),Top-10 未覆盖，需逐例分析
+item_cf,630,272,0.0,0.0,,48,155,0,Good Will Hunting (1997),Top-10 未覆盖，需逐例分析
+popularity,631,886,0.0,0.0,,8,18,0,"Life Less Ordinary, A (1997)",Top-10 未覆盖，需逐例分析
+item_cf,631,886,0.0,0.0,,8,18,0,"Life Less Ordinary, A (1997)",Top-10 未覆盖，需逐例分析
+item_cf,632,258,0.0,0.0,,66,335,0,Contact (1997),Top-10 未覆盖，需逐例分析
+popularity,633,234,0.0,0.0,,24,182,0,Jaws (1975),Top-10 未覆盖，需逐例分析
+item_cf,633,234,0.0,0.0,,24,182,0,Jaws (1975),Top-10 未覆盖，需逐例分析
+popularity,634,269,0.0,0.0,,61,216,0,"Full Monty, The (1997)",Top-10 未覆盖，需逐例分析
+item_cf,634,269,0.0,0.0,,61,216,0,"Full Monty, The (1997)",Top-10 未覆盖，需逐例分析
+item_cf,635,1,0.0,0.0,,11,315,0,Toy Story (1995),Top-10 未覆盖，需逐例分析
+popularity,636,235,0.0,0.0,,15,57,0,Mars Attacks! (1996),Top-10 未覆盖，需逐例分析
+item_cf,636,235,0.0,0.0,,15,57,0,Mars Attacks! (1996),Top-10 未覆盖，需逐例分析
+popularity,637,291,0.0,0.0,,21,57,0,Absolute Power (1997),Top-10 未覆盖，需逐例分析
+item_cf,637,291,0.0,0.0,,21,57,0,Absolute Power (1997),Top-10 未覆盖，需逐例分析
+popularity,638,523,0.0,0.0,,34,124,0,Cool Hand Luke (1967),Top-10 未覆盖，需逐例分析
+item_cf,638,523,0.0,0.0,,34,124,0,Cool Hand Luke (1967),Top-10 未覆盖，需逐例分析
+popularity,639,958,0.0,0.0,,50,8,0,To Live (Huozhe) (1994),Top-10 未覆盖，需逐例分析
+item_cf,639,958,0.0,0.0,,50,8,0,To Live (Huozhe) (1994),Top-10 未覆盖，需逐例分析
+popularity,640,691,0.0,0.0,,89,8,0,Dark City (1998),Top-10 未覆盖，需逐例分析
+item_cf,640,691,0.0,0.0,,89,8,0,Dark City (1998),Top-10 未覆盖，需逐例分析
+popularity,641,209,0.0,0.0,,31,131,0,This Is Spinal Tap (1984),Top-10 未覆盖，需逐例分析
+item_cf,641,209,0.0,0.0,,31,131,0,This Is Spinal Tap (1984),Top-10 未覆盖，需逐例分析
+popularity,642,815,0.0,0.0,,180,40,0,One Fine Day (1996),Top-10 未覆盖，需逐例分析
+item_cf,642,815,0.0,0.0,,180,40,0,One Fine Day (1996),Top-10 未覆盖，需逐例分析
+popularity,643,255,0.0,0.0,,128,80,0,My Best Friend's Wedding (1997),Top-10 未覆盖，需逐例分析
+item_cf,643,255,0.0,0.0,,128,80,0,My Best Friend's Wedding (1997),Top-10 未覆盖，需逐例分析
+popularity,644,871,0.0,0.0,,38,9,0,Vegas Vacation (1997),Top-10 未覆盖，需逐例分析
+item_cf,644,871,0.0,0.0,,38,9,0,Vegas Vacation (1997),Top-10 未覆盖，需逐例分析
+popularity,645,87,0.0,0.0,,88,93,0,Searching for Bobby Fischer (1993),Top-10 未覆盖，需逐例分析
+item_cf,645,87,0.0,0.0,,88,93,0,Searching for Bobby Fischer (1993),Top-10 未覆盖，需逐例分析
+popularity,646,1176,0.0,0.0,,4,11,0,Welcome To Sarajevo (1997),Top-10 未覆盖，需逐例分析
+item_cf,646,1176,0.0,0.0,,4,11,0,Welcome To Sarajevo (1997),Top-10 未覆盖，需逐例分析
+popularity,647,73,0.0,0.0,,41,58,0,Maverick (1994),Top-10 未覆盖，需逐例分析
+item_cf,647,73,0.0,0.0,,41,58,0,Maverick (1994),Top-10 未覆盖，需逐例分析
+popularity,648,563,0.0,0.0,,136,2,0,Stephen King's The Langoliers (1995),目标物品极稀疏
+item_cf,648,563,0.0,0.0,,136,2,0,Stephen King's The Langoliers (1995),目标物品极稀疏
+popularity,649,254,0.0,0.0,,15,10,0,Batman & Robin (1997),Top-10 未覆盖，需逐例分析
+item_cf,649,254,0.0,0.0,,15,10,0,Batman & Robin (1997),Top-10 未覆盖，需逐例分析
+popularity,650,1110,0.0,0.0,,95,10,0,Tank Girl (1995),Top-10 未覆盖，需逐例分析
+item_cf,650,1110,0.0,0.0,,95,10,0,Tank Girl (1995),Top-10 未覆盖，需逐例分析
+popularity,651,327,0.0,0.0,,9,79,0,Cop Land (1997),Top-10 未覆盖，需逐例分析
+item_cf,651,327,0.0,0.0,,9,79,0,Cop Land (1997),Top-10 未覆盖，需逐例分析
+popularity,652,699,0.0,0.0,,9,63,0,Little Women (1994),Top-10 未覆盖，需逐例分析
+item_cf,652,699,0.0,0.0,,9,63,0,Little Women (1994),Top-10 未覆盖，需逐例分析
+popularity,653,245,0.0,0.0,,73,80,0,"Devil's Own, The (1997)",Top-10 未覆盖，需逐例分析
+item_cf,653,245,0.0,0.0,,73,80,0,"Devil's Own, The (1997)",Top-10 未覆盖，需逐例分析
+popularity,654,269,0.0,0.0,,97,216,0,"Full Monty, The (1997)",Top-10 未覆盖，需逐例分析
+item_cf,654,269,0.0,0.0,,97,216,0,"Full Monty, The (1997)",Top-10 未覆盖，需逐例分析
+popularity,655,1650,0.0,0.0,,113,0,1,"Butcher Boy, The (1998)",物品冷启动
+item_cf,655,1650,0.0,0.0,,113,0,1,"Butcher Boy, The (1998)",物品冷启动
+popularity,656,896,0.0,0.0,,3,26,0,"Sweet Hereafter, The (1997)",用户历史过短
+item_cf,656,896,0.0,0.0,,3,26,0,"Sweet Hereafter, The (1997)",用户历史过短
+popularity,657,1009,0.0,0.0,,14,33,0,Stealing Beauty (1996),Top-10 未覆盖，需逐例分析
+item_cf,657,1009,0.0,0.0,,14,33,0,Stealing Beauty (1996),Top-10 未覆盖，需逐例分析
+popularity,658,151,0.0,0.0,,43,187,0,Willy Wonka and the Chocolate Factory (1971),Top-10 未覆盖，需逐例分析
+item_cf,658,151,0.0,0.0,,43,187,0,Willy Wonka and the Chocolate Factory (1971),Top-10 未覆盖，需逐例分析
+popularity,659,387,0.0,0.0,,126,30,0,"Age of Innocence, The (1993)",Top-10 未覆盖，需逐例分析
+item_cf,659,387,0.0,0.0,,126,30,0,"Age of Innocence, The (1993)",Top-10 未覆盖，需逐例分析
+popularity,660,209,0.0,0.0,,46,131,0,This Is Spinal Tap (1984),Top-10 未覆盖，需逐例分析
+item_cf,660,209,0.0,0.0,,46,131,0,This Is Spinal Tap (1984),Top-10 未覆盖，需逐例分析
+popularity,661,272,0.0,0.0,,86,155,0,Good Will Hunting (1997),Top-10 未覆盖，需逐例分析
+item_cf,661,272,0.0,0.0,,86,155,0,Good Will Hunting (1997),Top-10 未覆盖，需逐例分析
+popularity,662,985,0.0,0.0,,14,5,0,Blood & Wine (1997),Top-10 未覆盖，需逐例分析
+item_cf,662,985,0.0,0.0,,14,5,0,Blood & Wine (1997),Top-10 未覆盖，需逐例分析
+popularity,663,655,0.0,0.0,,82,153,0,Stand by Me (1986),Top-10 未覆盖，需逐例分析
+item_cf,663,655,0.0,0.0,,82,153,0,Stand by Me (1986),Top-10 未覆盖，需逐例分析
+popularity,664,408,0.0,0.0,,104,97,0,"Close Shave, A (1995)",Top-10 未覆盖，需逐例分析
+item_cf,664,408,0.0,0.0,,104,97,0,"Close Shave, A (1995)",Top-10 未覆盖，需逐例分析
+popularity,665,315,0.0,0.0,,79,120,0,Apt Pupil (1998),Top-10 未覆盖，需逐例分析
+item_cf,665,315,0.0,0.0,,79,120,0,Apt Pupil (1998),Top-10 未覆盖，需逐例分析
+popularity,666,792,0.0,0.0,,143,58,0,Bullets Over Broadway (1994),Top-10 未覆盖，需逐例分析
+item_cf,666,792,0.0,0.0,,143,58,0,Bullets Over Broadway (1994),Top-10 未覆盖，需逐例分析
+popularity,667,660,0.0,0.0,,30,92,0,Fried Green Tomatoes (1991),Top-10 未覆盖，需逐例分析
+item_cf,667,660,0.0,0.0,,30,92,0,Fried Green Tomatoes (1991),Top-10 未覆盖，需逐例分析
+popularity,668,354,0.0,0.0,,25,37,0,"Wedding Singer, The (1998)",Top-10 未覆盖，需逐例分析
+item_cf,668,354,0.0,0.0,,25,37,0,"Wedding Singer, The (1998)",Top-10 未覆盖，需逐例分析
+popularity,669,82,0.0,0.0,,46,161,0,Jurassic Park (1993),Top-10 未覆盖，需逐例分析
+item_cf,669,82,0.0,0.0,,46,161,0,Jurassic Park (1993),Top-10 未覆盖，需逐例分析
+popularity,670,191,0.0,0.0,,31,220,0,Amadeus (1984),Top-10 未覆盖，需逐例分析
+popularity,671,255,0.0,0.0,,60,80,0,My Best Friend's Wedding (1997),Top-10 未覆盖，需逐例分析
+item_cf,671,255,0.0,0.0,,60,80,0,My Best Friend's Wedding (1997),Top-10 未覆盖，需逐例分析
+popularity,672,1061,0.0,0.0,,12,8,0,"Evening Star, The (1996)",Top-10 未覆盖，需逐例分析
+item_cf,672,1061,0.0,0.0,,12,8,0,"Evening Star, The (1996)",Top-10 未覆盖，需逐例分析
+popularity,673,528,0.0,0.0,,24,92,0,"Killing Fields, The (1984)",Top-10 未覆盖，需逐例分析
+item_cf,673,528,0.0,0.0,,24,92,0,"Killing Fields, The (1984)",Top-10 未覆盖，需逐例分析
+popularity,674,111,0.0,0.0,,22,145,0,"Truth About Cats & Dogs, The (1996)",Top-10 未覆盖，需逐例分析
+item_cf,674,111,0.0,0.0,,22,145,0,"Truth About Cats & Dogs, The (1996)",Top-10 未覆盖，需逐例分析
+popularity,675,1101,0.0,0.0,,22,48,0,Six Degrees of Separation (1993),Top-10 未覆盖，需逐例分析
+item_cf,675,1101,0.0,0.0,,22,48,0,Six Degrees of Separation (1993),Top-10 未覆盖，需逐例分析
+popularity,676,520,0.0,0.0,,52,92,0,"Great Escape, The (1963)",Top-10 未覆盖，需逐例分析
+item_cf,676,520,0.0,0.0,,52,92,0,"Great Escape, The (1963)",Top-10 未覆盖，需逐例分析
+popularity,677,1240,0.0,0.0,,32,12,0,Ghost in the Shell (Kokaku kidotai) (1995),Top-10 未覆盖，需逐例分析
+item_cf,677,1240,0.0,0.0,,32,12,0,Ghost in the Shell (Kokaku kidotai) (1995),Top-10 未覆盖，需逐例分析
+popularity,678,117,0.0,0.0,,12,239,0,"Rock, The (1996)",Top-10 未覆盖，需逐例分析
+popularity,679,73,0.0,0.0,,35,58,0,Maverick (1994),Top-10 未覆盖，需逐例分析
+item_cf,679,73,0.0,0.0,,35,58,0,Maverick (1994),Top-10 未覆盖，需逐例分析
+popularity,680,248,0.0,0.0,,28,101,0,Grosse Pointe Blank (1997),Top-10 未覆盖，需逐例分析
+item_cf,680,248,0.0,0.0,,28,101,0,Grosse Pointe Blank (1997),Top-10 未覆盖，需逐例分析
+popularity,681,289,0.0,0.0,,10,92,0,Evita (1996),Top-10 未覆盖，需逐例分析
+item_cf,681,289,0.0,0.0,,10,92,0,Evita (1996),Top-10 未覆盖，需逐例分析
+popularity,682,250,0.0,0.0,,146,106,0,"Fifth Element, The (1997)",Top-10 未覆盖，需逐例分析
+item_cf,682,250,0.0,0.0,,146,106,0,"Fifth Element, The (1997)",Top-10 未覆盖，需逐例分析
+popularity,683,248,0.0,0.0,,27,101,0,Grosse Pointe Blank (1997),Top-10 未覆盖，需逐例分析
+item_cf,683,248,0.0,0.0,,27,101,0,Grosse Pointe Blank (1997),Top-10 未覆盖，需逐例分析
+popularity,684,49,0.0,0.0,,44,31,0,I.Q. (1994),Top-10 未覆盖，需逐例分析
+item_cf,684,49,0.0,0.0,,44,31,0,I.Q. (1994),Top-10 未覆盖，需逐例分析
+item_cf,686,181,0.0,0.0,,64,373,0,Return of the Jedi (1983),Top-10 未覆盖，需逐例分析
+popularity,687,678,0.0,0.0,,10,51,0,Volcano (1997),Top-10 未覆盖，需逐例分析
+item_cf,687,678,0.0,0.0,,10,51,0,Volcano (1997),Top-10 未覆盖，需逐例分析
+popularity,688,877,0.0,0.0,,22,8,0,Excess Baggage (1997),Top-10 未覆盖，需逐例分析
+item_cf,688,877,0.0,0.0,,22,8,0,Excess Baggage (1997),Top-10 未覆盖，需逐例分析
+popularity,689,328,0.0,0.0,,22,146,0,Conspiracy Theory (1997),Top-10 未覆盖，需逐例分析
+item_cf,689,328,0.0,0.0,,22,146,0,Conspiracy Theory (1997),Top-10 未覆盖，需逐例分析
+popularity,690,197,0.0,0.0,,45,184,0,"Graduate, The (1967)",Top-10 未覆盖，需逐例分析
+item_cf,690,197,0.0,0.0,,45,184,0,"Graduate, The (1967)",Top-10 未覆盖，需逐例分析
+popularity,691,205,0.0,0.0,,25,90,0,Patton (1970),Top-10 未覆盖，需逐例分析
+item_cf,691,205,0.0,0.0,,25,90,0,Patton (1970),Top-10 未覆盖，需逐例分析
+popularity,692,412,0.0,0.0,,16,14,0,"Very Brady Sequel, A (1996)",Top-10 未覆盖，需逐例分析
+item_cf,692,412,0.0,0.0,,16,14,0,"Very Brady Sequel, A (1996)",Top-10 未覆盖，需逐例分析
+item_cf,693,313,0.0,0.0,,58,276,0,Titanic (1997),Top-10 未覆盖，需逐例分析
+popularity,694,179,0.0,0.0,,134,158,0,"Clockwork Orange, A (1971)",Top-10 未覆盖，需逐例分析
+item_cf,694,179,0.0,0.0,,134,158,0,"Clockwork Orange, A (1971)",Top-10 未覆盖，需逐例分析
+popularity,695,678,0.0,0.0,,19,51,0,Volcano (1997),Top-10 未覆盖，需逐例分析
+item_cf,695,678,0.0,0.0,,19,51,0,Volcano (1997),Top-10 未覆盖，需逐例分析
+popularity,696,520,0.0,0.0,,21,92,0,"Great Escape, The (1963)",Top-10 未覆盖，需逐例分析
+item_cf,696,520,0.0,0.0,,21,92,0,"Great Escape, The (1963)",Top-10 未覆盖，需逐例分析
+popularity,697,246,0.0,0.0,,64,90,0,Chasing Amy (1997),Top-10 未覆盖，需逐例分析
+item_cf,697,246,0.0,0.0,,64,90,0,Chasing Amy (1997),Top-10 未覆盖，需逐例分析
+popularity,698,512,0.0,0.0,,40,39,0,Wings of Desire (1987),Top-10 未覆盖，需逐例分析
+item_cf,698,512,0.0,0.0,,40,39,0,Wings of Desire (1987),Top-10 未覆盖，需逐例分析
+popularity,699,270,0.0,0.0,,42,77,0,Gattaca (1997),Top-10 未覆盖，需逐例分析
+item_cf,699,270,0.0,0.0,,42,77,0,Gattaca (1997),Top-10 未覆盖，需逐例分析
+item_cf,700,318,0.0,0.0,,10,263,0,Schindler's List (1993),Top-10 未覆盖，需逐例分析
+popularity,701,275,0.0,0.0,,26,207,0,Sense and Sensibility (1995),Top-10 未覆盖，需逐例分析
+popularity,702,229,0.0,0.0,,9,52,0,Star Trek III: The Search for Spock (1984),Top-10 未覆盖，需逐例分析
+popularity,703,591,0.0,0.0,,26,97,0,Primal Fear (1996),Top-10 未覆盖，需逐例分析
+item_cf,703,591,0.0,0.0,,26,97,0,Primal Fear (1996),Top-10 未覆盖，需逐例分析
+popularity,704,211,0.0,0.0,,52,151,0,M*A*S*H (1970),Top-10 未覆盖，需逐例分析
+item_cf,704,211,0.0,0.0,,52,151,0,M*A*S*H (1970),Top-10 未覆盖，需逐例分析
+popularity,705,196,0.0,0.0,,64,183,0,Dead Poets Society (1989),Top-10 未覆盖，需逐例分析
+popularity,706,237,0.0,0.0,,15,241,0,Jerry Maguire (1996),Top-10 未覆盖，需逐例分析
+popularity,707,902,0.0,0.0,,118,24,0,"Big Lebowski, The (1998)",Top-10 未覆盖，需逐例分析
+item_cf,707,902,0.0,0.0,,118,24,0,"Big Lebowski, The (1998)",Top-10 未覆盖，需逐例分析
+popularity,708,284,0.0,0.0,,47,77,0,Tin Cup (1996),Top-10 未覆盖，需逐例分析
+item_cf,708,284,0.0,0.0,,47,77,0,Tin Cup (1996),Top-10 未覆盖，需逐例分析
+popularity,709,203,0.0,0.0,,73,129,0,Unforgiven (1992),Top-10 未覆盖，需逐例分析
+item_cf,709,203,0.0,0.0,,73,129,0,Unforgiven (1992),Top-10 未覆盖，需逐例分析
+popularity,710,346,0.0,0.0,,55,74,0,Jackie Brown (1997),Top-10 未覆盖，需逐例分析
+item_cf,710,346,0.0,0.0,,55,74,0,Jackie Brown (1997),Top-10 未覆盖，需逐例分析
+popularity,711,316,0.0,0.0,,154,88,0,As Good As It Gets (1997),Top-10 未覆盖，需逐例分析
+item_cf,711,316,0.0,0.0,,154,88,0,As Good As It Gets (1997),Top-10 未覆盖，需逐例分析
+popularity,712,142,0.0,0.0,,102,19,0,Bedknobs and Broomsticks (1971),Top-10 未覆盖，需逐例分析
+item_cf,712,142,0.0,0.0,,102,19,0,Bedknobs and Broomsticks (1971),Top-10 未覆盖，需逐例分析
+popularity,713,347,0.0,0.0,,6,73,0,Wag the Dog (1997),Top-10 未覆盖，需逐例分析
+popularity,714,300,0.0,0.0,,19,248,0,Air Force One (1997),Top-10 未覆盖，需逐例分析
+item_cf,714,300,0.0,0.0,,19,248,0,Air Force One (1997),Top-10 未覆盖，需逐例分析
+popularity,715,193,0.0,0.0,,84,113,0,"Right Stuff, The (1983)",Top-10 未覆盖，需逐例分析
+item_cf,715,193,0.0,0.0,,84,113,0,"Right Stuff, The (1983)",Top-10 未覆盖，需逐例分析
+popularity,716,141,0.0,0.0,,180,37,0,"20,000 Leagues Under the Sea (1954)",Top-10 未覆盖，需逐例分析
+item_cf,716,141,0.0,0.0,,180,37,0,"20,000 Leagues Under the Sea (1954)",Top-10 未覆盖，需逐例分析
+popularity,718,751,0.0,0.0,,24,86,0,Tomorrow Never Dies (1997),Top-10 未覆盖，需逐例分析
+item_cf,718,751,0.0,0.0,,24,86,0,Tomorrow Never Dies (1997),Top-10 未覆盖，需逐例分析
+popularity,719,220,0.0,0.0,,26,28,0,"Mirror Has Two Faces, The (1996)",Top-10 未覆盖，需逐例分析
+item_cf,719,220,0.0,0.0,,26,28,0,"Mirror Has Two Faces, The (1996)",Top-10 未覆盖，需逐例分析
+popularity,720,902,0.0,0.0,,22,24,0,"Big Lebowski, The (1998)",Top-10 未覆盖，需逐例分析
+item_cf,720,902,0.0,0.0,,22,24,0,"Big Lebowski, The (1998)",Top-10 未覆盖，需逐例分析
+popularity,721,204,0.0,0.0,,74,234,0,Back to the Future (1985),Top-10 未覆盖，需逐例分析
+popularity,722,130,0.0,0.0,,24,4,0,Kansas City (1996),Top-10 未覆盖，需逐例分析
+item_cf,722,130,0.0,0.0,,24,4,0,Kansas City (1996),Top-10 未覆盖，需逐例分析
+popularity,723,164,0.0,0.0,,7,84,0,"Abyss, The (1989)",Top-10 未覆盖，需逐例分析
+item_cf,723,164,0.0,0.0,,7,84,0,"Abyss, The (1989)",Top-10 未覆盖，需逐例分析
+popularity,724,895,0.0,0.0,,18,42,0,Scream 2 (1997),Top-10 未覆盖，需逐例分析
+item_cf,724,895,0.0,0.0,,18,42,0,Scream 2 (1997),Top-10 未覆盖，需逐例分析
+popularity,725,881,0.0,0.0,,17,12,0,Money Talks (1997),Top-10 未覆盖，需逐例分析
+item_cf,725,881,0.0,0.0,,17,12,0,Money Talks (1997),Top-10 未覆盖，需逐例分析
+popularity,727,982,0.0,0.0,,105,5,0,Maximum Risk (1996),Top-10 未覆盖，需逐例分析
+item_cf,727,982,0.0,0.0,,105,5,0,Maximum Risk (1996),Top-10 未覆盖，需逐例分析
+popularity,728,285,0.0,0.0,,16,134,0,Secrets & Lies (1996),Top-10 未覆盖，需逐例分析
+item_cf,728,285,0.0,0.0,,16,134,0,Secrets & Lies (1996),Top-10 未覆盖，需逐例分析
+popularity,729,748,0.0,0.0,,7,124,0,"Saint, The (1997)",Top-10 未覆盖，需逐例分析
+item_cf,729,748,0.0,0.0,,7,124,0,"Saint, The (1997)",Top-10 未覆盖，需逐例分析
+popularity,730,257,0.0,0.0,,17,186,0,Men in Black (1997),Top-10 未覆盖，需逐例分析
+item_cf,730,257,0.0,0.0,,17,186,0,Men in Black (1997),Top-10 未覆盖，需逐例分析
+popularity,731,480,0.0,0.0,,43,151,0,North by Northwest (1959),Top-10 未覆盖，需逐例分析
+item_cf,731,480,0.0,0.0,,43,151,0,North by Northwest (1959),Top-10 未覆盖，需逐例分析
+popularity,732,288,0.0,0.0,,11,241,0,Scream (1996),Top-10 未覆盖，需逐例分析
+item_cf,732,288,0.0,0.0,,11,241,0,Scream (1996),Top-10 未覆盖，需逐例分析
+popularity,733,1338,0.0,0.0,,35,0,1,Two Deaths (1995),物品冷启动
+item_cf,733,1338,0.0,0.0,,35,0,1,Two Deaths (1995),物品冷启动
+popularity,734,121,0.0,0.0,,43,225,0,Independence Day (ID4) (1996),Top-10 未覆盖，需逐例分析
+item_cf,734,121,0.0,0.0,,43,225,0,Independence Day (ID4) (1996),Top-10 未覆盖，需逐例分析
+popularity,735,298,0.0,0.0,,24,121,0,Face/Off (1997),Top-10 未覆盖，需逐例分析
+item_cf,735,298,0.0,0.0,,24,121,0,Face/Off (1997),Top-10 未覆盖，需逐例分析
+popularity,736,1388,0.0,0.0,,10,2,0,Gabbeh (1996),目标物品极稀疏
+item_cf,736,1388,0.0,0.0,,10,2,0,Gabbeh (1996),目标物品极稀疏
+popularity,737,175,0.0,0.0,,24,138,0,Brazil (1985),Top-10 未覆盖，需逐例分析
+item_cf,737,175,0.0,0.0,,24,138,0,Brazil (1985),Top-10 未覆盖，需逐例分析
+popularity,738,136,0.0,0.0,,84,85,0,Mr. Smith Goes to Washington (1939),Top-10 未覆盖，需逐例分析
+item_cf,738,136,0.0,0.0,,84,85,0,Mr. Smith Goes to Washington (1939),Top-10 未覆盖，需逐例分析
+popularity,739,187,0.0,0.0,,23,165,0,"Godfather: Part II, The (1974)",Top-10 未覆盖，需逐例分析
+item_cf,739,187,0.0,0.0,,23,165,0,"Godfather: Part II, The (1974)",Top-10 未覆盖，需逐例分析
+popularity,740,1038,0.0,0.0,,9,5,0,Switchback (1997),Top-10 未覆盖，需逐例分析
+item_cf,740,1038,0.0,0.0,,9,5,0,Switchback (1997),Top-10 未覆盖，需逐例分析
+popularity,741,283,0.0,0.0,,50,109,0,Emma (1996),Top-10 未覆盖，需逐例分析
+item_cf,741,283,0.0,0.0,,50,109,0,Emma (1996),Top-10 未覆盖，需逐例分析
+popularity,742,237,0.0,0.0,,13,241,0,Jerry Maguire (1996),Top-10 未覆盖，需逐例分析
+popularity,743,298,0.0,0.0,,19,121,0,Face/Off (1997),Top-10 未覆盖，需逐例分析
+item_cf,743,298,0.0,0.0,,19,121,0,Face/Off (1997),Top-10 未覆盖，需逐例分析
+item_cf,744,1,0.0,0.0,,16,315,0,Toy Story (1995),Top-10 未覆盖，需逐例分析
+popularity,745,190,0.0,0.0,,22,99,0,Henry V (1989),Top-10 未覆盖，需逐例分析
+item_cf,745,190,0.0,0.0,,22,99,0,Henry V (1989),Top-10 未覆盖，需逐例分析
+popularity,747,672,0.0,0.0,,211,13,0,Candyman (1992),Top-10 未覆盖，需逐例分析
+item_cf,747,672,0.0,0.0,,211,13,0,Candyman (1992),Top-10 未覆盖，需逐例分析
+popularity,748,199,0.0,0.0,,71,133,0,"Bridge on the River Kwai, The (1957)",Top-10 未覆盖，需逐例分析
+item_cf,748,199,0.0,0.0,,71,133,0,"Bridge on the River Kwai, The (1957)",Top-10 未覆盖，需逐例分析
+popularity,749,620,0.0,0.0,,176,13,0,"Chamber, The (1996)",Top-10 未覆盖，需逐例分析
+item_cf,749,620,0.0,0.0,,176,13,0,"Chamber, The (1996)",Top-10 未覆盖，需逐例分析
+popularity,750,331,0.0,0.0,,14,58,0,"Edge, The (1997)",Top-10 未覆盖，需逐例分析
+item_cf,750,331,0.0,0.0,,14,58,0,"Edge, The (1997)",Top-10 未覆盖，需逐例分析
+popularity,751,738,0.0,0.0,,99,7,0,Threesome (1994),Top-10 未覆盖，需逐例分析
+item_cf,751,738,0.0,0.0,,99,7,0,Threesome (1994),Top-10 未覆盖，需逐例分析
+popularity,752,589,0.0,0.0,,33,27,0,"Wild Bunch, The (1969)",Top-10 未覆盖，需逐例分析
+item_cf,752,589,0.0,0.0,,33,27,0,"Wild Bunch, The (1969)",Top-10 未覆盖，需逐例分析
+popularity,753,64,0.0,0.0,,35,253,0,"Shawshank Redemption, The (1994)",Top-10 未覆盖，需逐例分析
+popularity,754,291,0.0,0.0,,14,57,0,Absolute Power (1997),Top-10 未覆盖，需逐例分析
+item_cf,754,291,0.0,0.0,,14,57,0,Absolute Power (1997),Top-10 未覆盖，需逐例分析
+popularity,755,748,0.0,0.0,,16,124,0,"Saint, The (1997)",Top-10 未覆盖，需逐例分析
+item_cf,755,748,0.0,0.0,,16,124,0,"Saint, The (1997)",Top-10 未覆盖，需逐例分析
+popularity,756,55,0.0,0.0,,43,96,0,"Professional, The (1994)",Top-10 未覆盖，需逐例分析
+item_cf,756,55,0.0,0.0,,43,96,0,"Professional, The (1994)",Top-10 未覆盖，需逐例分析
+popularity,758,902,0.0,0.0,,243,24,0,"Big Lebowski, The (1998)",Top-10 未覆盖，需逐例分析
+item_cf,758,902,0.0,0.0,,243,24,0,"Big Lebowski, The (1998)",Top-10 未覆盖，需逐例分析
+popularity,759,281,0.0,0.0,,24,46,0,"River Wild, The (1994)",Top-10 未覆盖，需逐例分析
+item_cf,759,281,0.0,0.0,,24,46,0,"River Wild, The (1994)",Top-10 未覆盖，需逐例分析
+popularity,760,375,0.0,0.0,,18,2,0,Showgirls (1995),目标物品极稀疏
+item_cf,760,375,0.0,0.0,,18,2,0,Showgirls (1995),目标物品极稀疏
+popularity,761,125,0.0,0.0,,26,121,0,Phenomenon (1996),Top-10 未覆盖，需逐例分析
+item_cf,761,125,0.0,0.0,,26,121,0,Phenomenon (1996),Top-10 未覆盖，需逐例分析
+popularity,762,421,0.0,0.0,,9,64,0,William Shakespeare's Romeo and Juliet (1996),Top-10 未覆盖，需逐例分析
+item_cf,762,421,0.0,0.0,,9,64,0,William Shakespeare's Romeo and Juliet (1996),Top-10 未覆盖，需逐例分析
+popularity,763,1039,0.0,0.0,,85,68,0,Hamlet (1996),Top-10 未覆盖，需逐例分析
+item_cf,763,1039,0.0,0.0,,85,68,0,Hamlet (1996),Top-10 未覆盖，需逐例分析
+popularity,764,14,0.0,0.0,,67,130,0,"Postino, Il (1994)",Top-10 未覆盖，需逐例分析
+item_cf,764,14,0.0,0.0,,67,130,0,"Postino, Il (1994)",Top-10 未覆盖，需逐例分析
+popularity,765,507,0.0,0.0,,17,67,0,"Streetcar Named Desire, A (1951)",Top-10 未覆盖，需逐例分析
+item_cf,765,507,0.0,0.0,,17,67,0,"Streetcar Named Desire, A (1951)",Top-10 未覆盖，需逐例分析
+popularity,766,559,0.0,0.0,,66,48,0,Interview with the Vampire (1994),Top-10 未覆盖，需逐例分析
+item_cf,766,559,0.0,0.0,,66,48,0,Interview with the Vampire (1994),Top-10 未覆盖，需逐例分析
+popularity,767,615,0.0,0.0,,35,44,0,"39 Steps, The (1935)",Top-10 未覆盖，需逐例分析
+item_cf,767,615,0.0,0.0,,35,44,0,"39 Steps, The (1935)",Top-10 未覆盖，需逐例分析
+popularity,768,255,0.0,0.0,,28,80,0,My Best Friend's Wedding (1997),Top-10 未覆盖，需逐例分析
+item_cf,768,255,0.0,0.0,,28,80,0,My Best Friend's Wedding (1997),Top-10 未覆盖，需逐例分析
+popularity,769,934,0.0,0.0,,9,17,0,"Preacher's Wife, The (1996)",Top-10 未覆盖，需逐例分析
+item_cf,769,934,0.0,0.0,,9,17,0,"Preacher's Wife, The (1996)",Top-10 未覆盖，需逐例分析
+popularity,770,937,0.0,0.0,,52,17,0,"Thousand Acres, A (1997)",Top-10 未覆盖，需逐例分析
+item_cf,770,937,0.0,0.0,,52,17,0,"Thousand Acres, A (1997)",Top-10 未覆盖，需逐例分析
+popularity,771,892,0.0,0.0,,48,10,0,Flubber (1997),Top-10 未覆盖，需逐例分析
+item_cf,771,892,0.0,0.0,,48,10,0,Flubber (1997),Top-10 未覆盖，需逐例分析
+popularity,772,312,0.0,0.0,,25,27,0,Midnight in the Garden of Good and Evil (1997),Top-10 未覆盖，需逐例分析
+item_cf,772,312,0.0,0.0,,25,27,0,Midnight in the Garden of Good and Evil (1997),Top-10 未覆盖，需逐例分析
+popularity,773,1555,0.0,0.0,,73,0,1,"Secret Adventures of Tom Thumb, The (1993)",物品冷启动
+item_cf,773,1555,0.0,0.0,,73,0,1,"Secret Adventures of Tom Thumb, The (1993)",物品冷启动
+popularity,774,219,0.0,0.0,,28,48,0,"Nightmare on Elm Street, A (1984)",Top-10 未覆盖，需逐例分析
+item_cf,774,219,0.0,0.0,,28,48,0,"Nightmare on Elm Street, A (1984)",Top-10 未覆盖，需逐例分析
+popularity,775,264,0.0,0.0,,17,19,0,Mimic (1997),Top-10 未覆盖，需逐例分析
+item_cf,775,264,0.0,0.0,,17,19,0,Mimic (1997),Top-10 未覆盖，需逐例分析
+popularity,776,661,0.0,0.0,,53,66,0,High Noon (1952),Top-10 未覆盖，需逐例分析
+item_cf,776,661,0.0,0.0,,53,66,0,High Noon (1952),Top-10 未覆盖，需逐例分析
+popularity,777,692,0.0,0.0,,28,97,0,"American President, The (1995)",Top-10 未覆盖，需逐例分析
+item_cf,777,692,0.0,0.0,,28,97,0,"American President, The (1995)",Top-10 未覆盖，需逐例分析
+popularity,778,262,0.0,0.0,,23,43,0,In the Company of Men (1997),Top-10 未覆盖，需逐例分析
+item_cf,778,262,0.0,0.0,,23,43,0,In the Company of Men (1997),Top-10 未覆盖，需逐例分析
+popularity,779,225,0.0,0.0,,26,27,0,101 Dalmatians (1996),Top-10 未覆盖，需逐例分析
+item_cf,779,225,0.0,0.0,,26,27,0,101 Dalmatians (1996),Top-10 未覆盖，需逐例分析
+popularity,780,526,0.0,0.0,,36,81,0,Ben-Hur (1959),Top-10 未覆盖，需逐例分析
+item_cf,780,526,0.0,0.0,,36,81,0,Ben-Hur (1959),Top-10 未覆盖，需逐例分析
+popularity,781,135,0.0,0.0,,27,185,0,2001: A Space Odyssey (1968),Top-10 未覆盖，需逐例分析
+item_cf,781,135,0.0,0.0,,27,185,0,2001: A Space Odyssey (1968),Top-10 未覆盖，需逐例分析
+popularity,782,1662,0.0,0.0,,48,0,1,Rough Magic (1995),物品冷启动
+item_cf,782,1662,0.0,0.0,,48,0,1,Rough Magic (1995),物品冷启动
+popularity,783,895,0.0,0.0,,21,42,0,Scream 2 (1997),Top-10 未覆盖，需逐例分析
+item_cf,783,895,0.0,0.0,,21,42,0,Scream 2 (1997),Top-10 未覆盖，需逐例分析
+popularity,784,898,0.0,0.0,,26,26,0,"Postman, The (1997)",Top-10 未覆盖，需逐例分析
+item_cf,784,898,0.0,0.0,,26,26,0,"Postman, The (1997)",Top-10 未覆盖，需逐例分析
+popularity,785,152,0.0,0.0,,16,48,0,Sleeper (1973),Top-10 未覆盖，需逐例分析
+item_cf,785,152,0.0,0.0,,16,48,0,Sleeper (1973),Top-10 未覆盖，需逐例分析
+popularity,786,289,0.0,0.0,,94,92,0,Evita (1996),Top-10 未覆盖，需逐例分析
+item_cf,786,289,0.0,0.0,,94,92,0,Evita (1996),Top-10 未覆盖，需逐例分析
+popularity,787,329,0.0,0.0,,19,19,0,Desperate Measures (1998),Top-10 未覆盖，需逐例分析
+item_cf,787,329,0.0,0.0,,19,19,0,Desperate Measures (1998),Top-10 未覆盖，需逐例分析
+popularity,788,662,0.0,0.0,,96,35,0,Somewhere in Time (1980),Top-10 未覆盖，需逐例分析
+item_cf,788,662,0.0,0.0,,96,35,0,Somewhere in Time (1980),Top-10 未覆盖，需逐例分析
+popularity,790,250,0.0,0.0,,73,106,0,"Fifth Element, The (1997)",Top-10 未覆盖，需逐例分析
+item_cf,790,250,0.0,0.0,,73,106,0,"Fifth Element, The (1997)",Top-10 未覆盖，需逐例分析
+popularity,792,1197,0.0,0.0,,15,21,0,"Family Thing, A (1996)",Top-10 未覆盖，需逐例分析
+item_cf,792,1197,0.0,0.0,,15,21,0,"Family Thing, A (1996)",Top-10 未覆盖，需逐例分析
+popularity,793,591,0.0,0.0,,26,97,0,Primal Fear (1996),Top-10 未覆盖，需逐例分析
+item_cf,793,591,0.0,0.0,,26,97,0,Primal Fear (1996),Top-10 未覆盖，需逐例分析
+popularity,794,248,0.0,0.0,,34,101,0,Grosse Pointe Blank (1997),Top-10 未覆盖，需逐例分析
+item_cf,794,248,0.0,0.0,,34,101,0,Grosse Pointe Blank (1997),Top-10 未覆盖，需逐例分析
+item_cf,795,1,0.0,0.0,,47,315,0,Toy Story (1995),Top-10 未覆盖，需逐例分析
+popularity,796,485,0.0,0.0,,193,77,0,My Fair Lady (1964),Top-10 未覆盖，需逐例分析
+item_cf,796,485,0.0,0.0,,193,77,0,My Fair Lady (1964),Top-10 未覆盖，需逐例分析
+popularity,797,781,0.0,0.0,,4,33,0,French Kiss (1995),Top-10 未覆盖，需逐例分析
+item_cf,797,781,0.0,0.0,,4,33,0,French Kiss (1995),Top-10 未覆盖，需逐例分析
+popularity,798,270,0.0,0.0,,96,77,0,Gattaca (1997),Top-10 未覆盖，需逐例分析
+item_cf,798,270,0.0,0.0,,96,77,0,Gattaca (1997),Top-10 未覆盖，需逐例分析
+popularity,799,427,0.0,0.0,,17,192,0,To Kill a Mockingbird (1962),Top-10 未覆盖，需逐例分析
+item_cf,799,427,0.0,0.0,,17,192,0,To Kill a Mockingbird (1962),Top-10 未覆盖，需逐例分析
+popularity,800,864,0.0,0.0,,19,28,0,My Fellow Americans (1996),Top-10 未覆盖，需逐例分析
+item_cf,800,864,0.0,0.0,,19,28,0,My Fellow Americans (1996),Top-10 未覆盖，需逐例分析
+popularity,801,358,0.0,0.0,,18,30,0,Spawn (1997),Top-10 未覆盖，需逐例分析
+item_cf,801,358,0.0,0.0,,18,30,0,Spawn (1997),Top-10 未覆盖，需逐例分析
+popularity,802,413,0.0,0.0,,39,12,0,Tales from the Crypt Presents: Bordello of Blood (1996),Top-10 未覆盖，需逐例分析
+item_cf,802,413,0.0,0.0,,39,12,0,Tales from the Crypt Presents: Bordello of Blood (1996),Top-10 未覆盖，需逐例分析
+popularity,803,307,0.0,0.0,,14,105,0,"Devil's Advocate, The (1997)",Top-10 未覆盖，需逐例分析
+item_cf,803,307,0.0,0.0,,14,105,0,"Devil's Advocate, The (1997)",Top-10 未覆盖，需逐例分析
+popularity,804,363,0.0,0.0,,201,10,0,Sudden Death (1995),Top-10 未覆盖，需逐例分析
+item_cf,804,363,0.0,0.0,,201,10,0,Sudden Death (1995),Top-10 未覆盖，需逐例分析
+popularity,805,352,0.0,0.0,,127,5,0,Spice World (1997),Top-10 未覆盖，需逐例分析
+item_cf,805,352,0.0,0.0,,127,5,0,Spice World (1997),Top-10 未覆盖，需逐例分析
+popularity,806,131,0.0,0.0,,76,60,0,Breakfast at Tiffany's (1961),Top-10 未覆盖，需逐例分析
+item_cf,806,131,0.0,0.0,,76,60,0,Breakfast at Tiffany's (1961),Top-10 未覆盖，需逐例分析
+popularity,807,254,0.0,0.0,,147,10,0,Batman & Robin (1997),Top-10 未覆盖，需逐例分析
+item_cf,807,254,0.0,0.0,,147,10,0,Batman & Robin (1997),Top-10 未覆盖，需逐例分析
+popularity,808,872,0.0,0.0,,17,13,0,Love Jones (1997),Top-10 未覆盖，需逐例分析
+item_cf,808,872,0.0,0.0,,17,13,0,Love Jones (1997),Top-10 未覆盖，需逐例分析
+popularity,809,299,0.0,0.0,,9,25,0,Hoodlum (1997),Top-10 未覆盖，需逐例分析
+item_cf,809,299,0.0,0.0,,9,25,0,Hoodlum (1997),Top-10 未覆盖，需逐例分析
+popularity,810,326,0.0,0.0,,22,85,0,G.I. Jane (1997),Top-10 未覆盖，需逐例分析
+popularity,811,901,0.0,0.0,,15,2,0,Mr. Magoo (1997),目标物品极稀疏
+item_cf,811,901,0.0,0.0,,15,2,0,Mr. Magoo (1997),目标物品极稀疏
+popularity,812,881,0.0,0.0,,11,12,0,Money Talks (1997),Top-10 未覆盖，需逐例分析
+item_cf,812,881,0.0,0.0,,11,12,0,Money Talks (1997),Top-10 未覆盖，需逐例分析
+popularity,813,890,0.0,0.0,,9,5,0,Mortal Kombat: Annihilation (1997),Top-10 未覆盖，需逐例分析
+item_cf,813,890,0.0,0.0,,9,5,0,Mortal Kombat: Annihilation (1997),Top-10 未覆盖，需逐例分析
+popularity,814,665,0.0,0.0,,7,27,0,Alien 3 (1992),Top-10 未覆盖，需逐例分析
+item_cf,814,665,0.0,0.0,,7,27,0,Alien 3 (1992),Top-10 未覆盖，需逐例分析
+popularity,815,528,0.0,0.0,,111,92,0,"Killing Fields, The (1984)",Top-10 未覆盖，需逐例分析
+item_cf,815,528,0.0,0.0,,111,92,0,"Killing Fields, The (1984)",Top-10 未覆盖，需逐例分析
+popularity,816,309,0.0,0.0,,19,7,0,Deceiver (1997),Top-10 未覆盖，需逐例分析
+item_cf,816,309,0.0,0.0,,19,7,0,Deceiver (1997),Top-10 未覆盖，需逐例分析
+popularity,817,281,0.0,0.0,,17,46,0,"River Wild, The (1994)",Top-10 未覆盖，需逐例分析
+item_cf,817,281,0.0,0.0,,17,46,0,"River Wild, The (1994)",Top-10 未覆盖，需逐例分析
+popularity,818,887,0.0,0.0,,12,35,0,Eve's Bayou (1997),Top-10 未覆盖，需逐例分析
+item_cf,818,887,0.0,0.0,,12,35,0,Eve's Bayou (1997),Top-10 未覆盖，需逐例分析
+popularity,819,315,0.0,0.0,,23,120,0,Apt Pupil (1998),Top-10 未覆盖，需逐例分析
+item_cf,819,315,0.0,0.0,,23,120,0,Apt Pupil (1998),Top-10 未覆盖，需逐例分析
+popularity,820,343,0.0,0.0,,6,45,0,Alien: Resurrection (1997),Top-10 未覆盖，需逐例分析
+item_cf,820,343,0.0,0.0,,6,45,0,Alien: Resurrection (1997),Top-10 未覆盖，需逐例分析
+popularity,821,71,0.0,0.0,,49,133,0,"Lion King, The (1994)",Top-10 未覆盖，需逐例分析
+item_cf,821,71,0.0,0.0,,49,133,0,"Lion King, The (1994)",Top-10 未覆盖，需逐例分析
+popularity,822,111,0.0,0.0,,9,145,0,"Truth About Cats & Dogs, The (1996)",Top-10 未覆盖，需逐例分析
+item_cf,822,111,0.0,0.0,,9,145,0,"Truth About Cats & Dogs, The (1996)",Top-10 未覆盖，需逐例分析
+popularity,823,17,0.0,0.0,,138,40,0,From Dusk Till Dawn (1996),Top-10 未覆盖，需逐例分析
+item_cf,823,17,0.0,0.0,,138,40,0,From Dusk Till Dawn (1996),Top-10 未覆盖，需逐例分析
+popularity,824,325,0.0,0.0,,3,33,0,Crash (1996),用户历史过短
+item_cf,824,325,0.0,0.0,,3,33,0,Crash (1996),用户历史过短
+item_cf,825,286,0.0,0.0,,79,295,0,"English Patient, The (1996)",Top-10 未覆盖，需逐例分析
+popularity,826,1110,0.0,0.0,,71,10,0,Tank Girl (1995),Top-10 未覆盖，需逐例分析
+item_cf,826,1110,0.0,0.0,,71,10,0,Tank Girl (1995),Top-10 未覆盖，需逐例分析
+popularity,827,272,0.0,0.0,,7,155,0,Good Will Hunting (1997),Top-10 未覆盖，需逐例分析
+popularity,828,1646,0.0,0.0,,38,0,1,Men With Guns (1997),物品冷启动
+item_cf,828,1646,0.0,0.0,,38,0,1,Men With Guns (1997),物品冷启动
+popularity,829,124,0.0,0.0,,40,142,0,Lone Star (1996),Top-10 未覆盖，需逐例分析
+item_cf,829,124,0.0,0.0,,40,142,0,Lone Star (1996),Top-10 未覆盖，需逐例分析
+popularity,830,739,0.0,0.0,,66,75,0,Pretty Woman (1990),Top-10 未覆盖，需逐例分析
+item_cf,830,739,0.0,0.0,,66,75,0,Pretty Woman (1990),Top-10 未覆盖，需逐例分析
+popularity,831,591,0.0,0.0,,39,97,0,Primal Fear (1996),Top-10 未覆盖，需逐例分析
+item_cf,831,591,0.0,0.0,,39,97,0,Primal Fear (1996),Top-10 未覆盖，需逐例分析
+popularity,832,471,0.0,0.0,,4,128,0,Courage Under Fire (1996),Top-10 未覆盖，需逐例分析
+item_cf,832,471,0.0,0.0,,4,128,0,Courage Under Fire (1996),Top-10 未覆盖，需逐例分析
+popularity,833,344,0.0,0.0,,103,33,0,"Apostle, The (1997)",Top-10 未覆盖，需逐例分析
+item_cf,833,344,0.0,0.0,,103,33,0,"Apostle, The (1997)",Top-10 未覆盖，需逐例分析
+popularity,834,762,0.0,0.0,,38,50,0,Beautiful Girls (1996),Top-10 未覆盖，需逐例分析
+item_cf,834,762,0.0,0.0,,38,50,0,Beautiful Girls (1996),Top-10 未覆盖，需逐例分析
+popularity,835,237,0.0,0.0,,79,241,0,Jerry Maguire (1996),Top-10 未覆盖，需逐例分析
+item_cf,835,237,0.0,0.0,,79,241,0,Jerry Maguire (1996),Top-10 未覆盖，需逐例分析
+popularity,836,663,0.0,0.0,,33,81,0,Being There (1979),Top-10 未覆盖，需逐例分析
+item_cf,836,663,0.0,0.0,,33,81,0,Being There (1979),Top-10 未覆盖，需逐例分析
+popularity,837,845,0.0,0.0,,18,82,0,That Thing You Do! (1996),Top-10 未覆盖，需逐例分析
+item_cf,837,845,0.0,0.0,,18,82,0,That Thing You Do! (1996),Top-10 未覆盖，需逐例分析
+popularity,838,354,0.0,0.0,,79,37,0,"Wedding Singer, The (1998)",Top-10 未覆盖，需逐例分析
+item_cf,838,354,0.0,0.0,,79,37,0,"Wedding Singer, The (1998)",Top-10 未覆盖，需逐例分析
+popularity,839,1085,0.0,0.0,,22,4,0,Carried Away (1996),Top-10 未覆盖，需逐例分析
+item_cf,839,1085,0.0,0.0,,22,4,0,Carried Away (1996),Top-10 未覆盖，需逐例分析
+popularity,840,1674,0.0,0.0,,151,0,1,Mamma Roma (1962),物品冷启动
+item_cf,840,1674,0.0,0.0,,151,0,1,Mamma Roma (1962),物品冷启动
+popularity,841,1294,0.0,0.0,,22,3,0,Ayn Rand: A Sense of Life (1997),Top-10 未覆盖，需逐例分析
+item_cf,841,1294,0.0,0.0,,22,3,0,Ayn Rand: A Sense of Life (1997),Top-10 未覆盖，需逐例分析
+popularity,842,902,0.0,0.0,,17,24,0,"Big Lebowski, The (1998)",Top-10 未覆盖，需逐例分析
+item_cf,842,902,0.0,0.0,,17,24,0,"Big Lebowski, The (1998)",Top-10 未覆盖，需逐例分析
+popularity,843,135,0.0,0.0,,30,185,0,2001: A Space Odyssey (1968),Top-10 未覆盖，需逐例分析
+item_cf,843,135,0.0,0.0,,30,185,0,2001: A Space Odyssey (1968),Top-10 未覆盖，需逐例分析
+popularity,844,921,0.0,0.0,,37,32,0,Farewell My Concubine (1993),Top-10 未覆盖，需逐例分析
+item_cf,844,921,0.0,0.0,,37,32,0,Farewell My Concubine (1993),Top-10 未覆盖，需逐例分析
+popularity,845,909,0.0,0.0,,12,6,0,Dangerous Beauty (1998),Top-10 未覆盖，需逐例分析
+item_cf,845,909,0.0,0.0,,12,6,0,Dangerous Beauty (1998),Top-10 未覆盖，需逐例分析
+popularity,846,1044,0.0,0.0,,259,16,0,"Paper, The (1994)",Top-10 未覆盖，需逐例分析
+item_cf,846,1044,0.0,0.0,,259,16,0,"Paper, The (1994)",Top-10 未覆盖，需逐例分析
+popularity,848,1118,0.0,0.0,,115,15,0,Up in Smoke (1978),Top-10 未覆盖，需逐例分析
+item_cf,848,1118,0.0,0.0,,115,15,0,Up in Smoke (1978),Top-10 未覆盖，需逐例分析
+popularity,849,133,0.0,0.0,,22,115,0,Gone with the Wind (1939),Top-10 未覆盖，需逐例分析
+item_cf,849,133,0.0,0.0,,22,115,0,Gone with the Wind (1939),Top-10 未覆盖，需逐例分析
+popularity,850,648,0.0,0.0,,44,48,0,"Quiet Man, The (1952)",Top-10 未覆盖，需逐例分析
+item_cf,850,648,0.0,0.0,,44,48,0,"Quiet Man, The (1952)",Top-10 未覆盖，需逐例分析
+popularity,851,915,0.0,0.0,,106,6,0,Primary Colors (1998),Top-10 未覆盖，需逐例分析
+item_cf,851,915,0.0,0.0,,106,6,0,Primary Colors (1998),Top-10 未覆盖，需逐例分析
+popularity,852,568,0.0,0.0,,23,141,0,Speed (1994),Top-10 未覆盖，需逐例分析
+item_cf,852,568,0.0,0.0,,23,141,0,Speed (1994),Top-10 未覆盖，需逐例分析
+popularity,853,1025,0.0,0.0,,13,14,0,Fire Down Below (1997),Top-10 未覆盖，需逐例分析
+item_cf,853,1025,0.0,0.0,,13,14,0,Fire Down Below (1997),Top-10 未覆盖，需逐例分析
+popularity,854,49,0.0,0.0,,92,31,0,I.Q. (1994),Top-10 未覆盖，需逐例分析
+item_cf,854,49,0.0,0.0,,92,31,0,I.Q. (1994),Top-10 未覆盖，需逐例分析
+popularity,855,529,0.0,0.0,,9,69,0,My Life as a Dog (Mitt liv som hund) (1985),Top-10 未覆盖，需逐例分析
+popularity,856,322,0.0,0.0,,12,72,0,Murder at 1600 (1997),Top-10 未覆盖，需逐例分析
+item_cf,856,322,0.0,0.0,,12,72,0,Murder at 1600 (1997),Top-10 未覆盖，需逐例分析
+popularity,857,475,0.0,0.0,,9,178,0,Trainspotting (1996),Top-10 未覆盖，需逐例分析
+item_cf,857,475,0.0,0.0,,9,178,0,Trainspotting (1996),Top-10 未覆盖，需逐例分析
+popularity,858,334,0.0,0.0,,9,28,0,U Turn (1997),Top-10 未覆盖，需逐例分析
+item_cf,858,334,0.0,0.0,,9,28,0,U Turn (1997),Top-10 未覆盖，需逐例分析
+popularity,859,421,0.0,0.0,,25,64,0,William Shakespeare's Romeo and Juliet (1996),Top-10 未覆盖，需逐例分析
+item_cf,859,421,0.0,0.0,,25,64,0,William Shakespeare's Romeo and Juliet (1996),Top-10 未覆盖，需逐例分析
+popularity,860,312,0.0,0.0,,27,27,0,Midnight in the Garden of Good and Evil (1997),Top-10 未覆盖，需逐例分析
+item_cf,860,312,0.0,0.0,,27,27,0,Midnight in the Garden of Good and Evil (1997),Top-10 未覆盖，需逐例分析
+popularity,861,949,0.0,0.0,,32,27,0,How to Make an American Quilt (1995),Top-10 未覆盖，需逐例分析
+item_cf,861,949,0.0,0.0,,32,27,0,How to Make an American Quilt (1995),Top-10 未覆盖，需逐例分析
+popularity,862,1110,0.0,0.0,,141,10,0,Tank Girl (1995),Top-10 未覆盖，需逐例分析
+item_cf,862,1110,0.0,0.0,,141,10,0,Tank Girl (1995),Top-10 未覆盖，需逐例分析
+popularity,863,1431,0.0,0.0,,47,2,0,Legal Deceit (1997),目标物品极稀疏
+item_cf,863,1431,0.0,0.0,,47,2,0,Legal Deceit (1997),目标物品极稀疏
+item_cf,864,257,0.0,0.0,,197,186,0,Men in Black (1997),Top-10 未覆盖，需逐例分析
+popularity,865,294,0.0,0.0,,17,194,0,Liar Liar (1997),Top-10 未覆盖，需逐例分析
+item_cf,865,294,0.0,0.0,,17,194,0,Liar Liar (1997),Top-10 未覆盖，需逐例分析
+popularity,866,319,0.0,0.0,,5,72,0,Everyone Says I Love You (1996),Top-10 未覆盖，需逐例分析
+item_cf,866,319,0.0,0.0,,5,72,0,Everyone Says I Love You (1996),Top-10 未覆盖，需逐例分析
+popularity,867,956,0.0,0.0,,72,29,0,Nobody's Fool (1994),Top-10 未覆盖，需逐例分析
+item_cf,867,956,0.0,0.0,,72,29,0,Nobody's Fool (1994),Top-10 未覆盖，需逐例分析
+popularity,868,550,0.0,0.0,,74,65,0,Die Hard: With a Vengeance (1995),Top-10 未覆盖，需逐例分析
+item_cf,868,550,0.0,0.0,,74,65,0,Die Hard: With a Vengeance (1995),Top-10 未覆盖，需逐例分析
+popularity,869,1014,0.0,0.0,,16,29,0,Romy and Michele's High School Reunion (1997),Top-10 未覆盖，需逐例分析
+item_cf,869,1014,0.0,0.0,,16,29,0,Romy and Michele's High School Reunion (1997),Top-10 未覆盖，需逐例分析
+popularity,870,272,0.0,0.0,,145,155,0,Good Will Hunting (1997),Top-10 未覆盖，需逐例分析
+item_cf,870,272,0.0,0.0,,145,155,0,Good Will Hunting (1997),Top-10 未覆盖，需逐例分析
+popularity,871,781,0.0,0.0,,36,33,0,French Kiss (1995),Top-10 未覆盖，需逐例分析
+item_cf,871,781,0.0,0.0,,36,33,0,French Kiss (1995),Top-10 未覆盖，需逐例分析
+popularity,872,476,0.0,0.0,,34,50,0,"First Wives Club, The (1996)",Top-10 未覆盖，需逐例分析
+item_cf,872,476,0.0,0.0,,34,50,0,"First Wives Club, The (1996)",Top-10 未覆盖，需逐例分析
+popularity,873,328,0.0,0.0,,6,146,0,Conspiracy Theory (1997),Top-10 未覆盖，需逐例分析
+popularity,874,654,0.0,0.0,,22,110,0,Chinatown (1974),Top-10 未覆盖，需逐例分析
+item_cf,874,654,0.0,0.0,,22,110,0,Chinatown (1974),Top-10 未覆盖，需逐例分析
+popularity,875,651,0.0,0.0,,73,130,0,Glory (1989),Top-10 未覆盖，需逐例分析
+item_cf,875,651,0.0,0.0,,73,130,0,Glory (1989),Top-10 未覆盖，需逐例分析
+popularity,876,531,0.0,0.0,,17,91,0,Shine (1996),Top-10 未覆盖，需逐例分析
+item_cf,876,531,0.0,0.0,,17,91,0,Shine (1996),Top-10 未覆盖，需逐例分析
+popularity,877,566,0.0,0.0,,60,96,0,Clear and Present Danger (1994),Top-10 未覆盖，需逐例分析
+item_cf,877,566,0.0,0.0,,60,96,0,Clear and Present Danger (1994),Top-10 未覆盖，需逐例分析
+popularity,878,530,0.0,0.0,,63,57,0,"Man Who Would Be King, The (1975)",Top-10 未覆盖，需逐例分析
+item_cf,878,530,0.0,0.0,,63,57,0,"Man Who Would Be King, The (1975)",Top-10 未覆盖，需逐例分析
+popularity,879,685,0.0,0.0,,19,66,0,Executive Decision (1996),Top-10 未覆盖，需逐例分析
+item_cf,879,685,0.0,0.0,,19,66,0,Executive Decision (1996),Top-10 未覆盖，需逐例分析
+popularity,880,815,0.0,0.0,,184,40,0,One Fine Day (1996),Top-10 未覆盖，需逐例分析
+item_cf,880,815,0.0,0.0,,184,40,0,One Fine Day (1996),Top-10 未覆盖，需逐例分析
+popularity,881,409,0.0,0.0,,121,26,0,Jack (1996),Top-10 未覆盖，需逐例分析
+item_cf,881,409,0.0,0.0,,121,26,0,Jack (1996),Top-10 未覆盖，需逐例分析
+popularity,882,969,0.0,0.0,,101,51,0,Winnie the Pooh and the Blustery Day (1968),Top-10 未覆盖，需逐例分析
+item_cf,882,969,0.0,0.0,,101,51,0,Winnie the Pooh and the Blustery Day (1968),Top-10 未覆盖，需逐例分析
+popularity,883,752,0.0,0.0,,173,16,0,"Replacement Killers, The (1998)",Top-10 未覆盖，需逐例分析
+item_cf,883,752,0.0,0.0,,173,16,0,"Replacement Killers, The (1998)",Top-10 未覆盖，需逐例分析
+popularity,884,381,0.0,0.0,,27,53,0,Muriel's Wedding (1994),Top-10 未覆盖，需逐例分析
+item_cf,884,381,0.0,0.0,,27,53,0,Muriel's Wedding (1994),Top-10 未覆盖，需逐例分析
+popularity,885,143,0.0,0.0,,44,136,0,"Sound of Music, The (1965)",Top-10 未覆盖，需逐例分析
+item_cf,885,143,0.0,0.0,,44,136,0,"Sound of Music, The (1965)",Top-10 未覆盖，需逐例分析
+popularity,886,1014,0.0,0.0,,121,29,0,Romy and Michele's High School Reunion (1997),Top-10 未覆盖，需逐例分析
+item_cf,886,1014,0.0,0.0,,121,29,0,Romy and Michele's High School Reunion (1997),Top-10 未覆盖，需逐例分析
+popularity,887,1035,0.0,0.0,,127,27,0,Cool Runnings (1993),Top-10 未覆盖，需逐例分析
+item_cf,887,1035,0.0,0.0,,127,27,0,Cool Runnings (1993),Top-10 未覆盖，需逐例分析
+popularity,888,762,0.0,0.0,,18,50,0,Beautiful Girls (1996),Top-10 未覆盖，需逐例分析
+item_cf,888,762,0.0,0.0,,18,50,0,Beautiful Girls (1996),Top-10 未覆盖，需逐例分析
+popularity,889,217,0.0,0.0,,162,44,0,Bram Stoker's Dracula (1992),Top-10 未覆盖，需逐例分析
+item_cf,889,217,0.0,0.0,,162,44,0,Bram Stoker's Dracula (1992),Top-10 未覆盖，需逐例分析
+popularity,890,1149,0.0,0.0,,79,17,0,Walkabout (1971),Top-10 未覆盖，需逐例分析
+item_cf,890,1149,0.0,0.0,,79,17,0,Walkabout (1971),Top-10 未覆盖，需逐例分析
+popularity,891,471,0.0,0.0,,32,128,0,Courage Under Fire (1996),Top-10 未覆盖，需逐例分析
+popularity,892,5,0.0,0.0,,170,37,0,Copycat (1995),Top-10 未覆盖，需逐例分析
+item_cf,892,5,0.0,0.0,,170,37,0,Copycat (1995),Top-10 未覆盖，需逐例分析
+popularity,893,96,0.0,0.0,,24,224,0,Terminator 2: Judgment Day (1991),Top-10 未覆盖，需逐例分析
+popularity,894,904,0.0,0.0,,143,9,0,Ma vie en rose (My Life in Pink) (1997),Top-10 未覆盖，需逐例分析
+item_cf,894,904,0.0,0.0,,143,9,0,Ma vie en rose (My Life in Pink) (1997),Top-10 未覆盖，需逐例分析
+popularity,895,742,0.0,0.0,,11,153,0,Ransom (1996),Top-10 未覆盖，需逐例分析
+item_cf,895,742,0.0,0.0,,11,153,0,Ransom (1996),Top-10 未覆盖，需逐例分析
+popularity,896,183,0.0,0.0,,121,220,0,Alien (1979),Top-10 未覆盖，需逐例分析
+popularity,897,646,0.0,0.0,,120,25,0,Once Upon a Time in the West (1969),Top-10 未覆盖，需逐例分析
+item_cf,897,646,0.0,0.0,,120,25,0,Once Upon a Time in the West (1969),Top-10 未覆盖，需逐例分析
+popularity,898,1296,0.0,0.0,,15,6,0,Indian Summer (1996),Top-10 未覆盖，需逐例分析
+item_cf,898,1296,0.0,0.0,,15,6,0,Indian Summer (1996),Top-10 未覆盖，需逐例分析
+popularity,899,724,0.0,0.0,,80,38,0,Circle of Friends (1995),Top-10 未覆盖，需逐例分析
+item_cf,899,724,0.0,0.0,,80,38,0,Circle of Friends (1995),Top-10 未覆盖，需逐例分析
+popularity,900,618,0.0,0.0,,12,9,0,Picnic (1955),Top-10 未覆盖，需逐例分析
+item_cf,900,618,0.0,0.0,,12,9,0,Picnic (1955),Top-10 未覆盖，需逐例分析
+popularity,901,864,0.0,0.0,,83,28,0,My Fellow Americans (1996),Top-10 未覆盖，需逐例分析
+item_cf,901,864,0.0,0.0,,83,28,0,My Fellow Americans (1996),Top-10 未覆盖，需逐例分析
+popularity,902,79,0.0,0.0,,21,261,0,"Fugitive, The (1993)",Top-10 未覆盖，需逐例分析
+popularity,903,528,0.0,0.0,,94,92,0,"Killing Fields, The (1984)",Top-10 未覆盖，需逐例分析
+item_cf,903,528,0.0,0.0,,94,92,0,"Killing Fields, The (1984)",Top-10 未覆盖，需逐例分析
+popularity,904,603,0.0,0.0,,30,181,0,Rear Window (1954),Top-10 未覆盖，需逐例分析
+item_cf,904,603,0.0,0.0,,30,181,0,Rear Window (1954),Top-10 未覆盖，需逐例分析
+popularity,905,458,0.0,0.0,,15,32,0,Nixon (1995),Top-10 未覆盖，需逐例分析
+item_cf,905,458,0.0,0.0,,15,32,0,Nixon (1995),Top-10 未覆盖，需逐例分析
+popularity,906,696,0.0,0.0,,27,24,0,City Hall (1996),Top-10 未覆盖，需逐例分析
+item_cf,906,696,0.0,0.0,,27,24,0,City Hall (1996),Top-10 未覆盖，需逐例分析
+popularity,907,129,0.0,0.0,,136,85,0,Bound (1996),Top-10 未覆盖，需逐例分析
+item_cf,907,129,0.0,0.0,,136,85,0,Bound (1996),Top-10 未覆盖，需逐例分析
+popularity,908,631,0.0,0.0,,39,68,0,"Crying Game, The (1992)",Top-10 未覆盖，需逐例分析
+item_cf,908,631,0.0,0.0,,39,68,0,"Crying Game, The (1992)",Top-10 未覆盖，需逐例分析
+popularity,909,14,0.0,0.0,,20,130,0,"Postino, Il (1994)",Top-10 未覆盖，需逐例分析
+popularity,910,1012,0.0,0.0,,27,59,0,Private Parts (1997),Top-10 未覆盖，需逐例分析
+item_cf,910,1012,0.0,0.0,,27,59,0,Private Parts (1997),Top-10 未覆盖，需逐例分析
+popularity,911,197,0.0,0.0,,64,184,0,"Graduate, The (1967)",Top-10 未覆盖，需逐例分析
+item_cf,911,197,0.0,0.0,,64,184,0,"Graduate, The (1967)",Top-10 未覆盖，需逐例分析
+popularity,912,15,0.0,0.0,,34,186,0,Mr. Holland's Opus (1995),Top-10 未覆盖，需逐例分析
+item_cf,912,15,0.0,0.0,,34,186,0,Mr. Holland's Opus (1995),Top-10 未覆盖，需逐例分析
+item_cf,913,258,0.0,0.0,,69,335,0,Contact (1997),Top-10 未覆盖，需逐例分析
+popularity,914,402,0.0,0.0,,7,85,0,Ghost (1990),Top-10 未覆盖，需逐例分析
+popularity,915,347,0.0,0.0,,8,73,0,Wag the Dog (1997),Top-10 未覆盖，需逐例分析
+popularity,916,190,0.0,0.0,,137,99,0,Henry V (1989),Top-10 未覆盖，需逐例分析
+item_cf,916,190,0.0,0.0,,137,99,0,Henry V (1989),Top-10 未覆盖，需逐例分析
+popularity,917,740,0.0,0.0,,19,36,0,Jane Eyre (1996),Top-10 未覆盖，需逐例分析
+item_cf,917,740,0.0,0.0,,19,36,0,Jane Eyre (1996),Top-10 未覆盖，需逐例分析
+popularity,918,143,0.0,0.0,,52,136,0,"Sound of Music, The (1965)",Top-10 未覆盖，需逐例分析
+item_cf,918,143,0.0,0.0,,52,136,0,"Sound of Music, The (1965)",Top-10 未覆盖，需逐例分析
+popularity,919,895,0.0,0.0,,109,42,0,Scream 2 (1997),Top-10 未覆盖，需逐例分析
+item_cf,919,895,0.0,0.0,,109,42,0,Scream 2 (1997),Top-10 未覆盖，需逐例分析
+popularity,920,347,0.0,0.0,,9,73,0,Wag the Dog (1997),Top-10 未覆盖，需逐例分析
+popularity,921,526,0.0,0.0,,47,81,0,Ben-Hur (1959),Top-10 未覆盖，需逐例分析
+item_cf,921,526,0.0,0.0,,47,81,0,Ben-Hur (1959),Top-10 未覆盖，需逐例分析
+popularity,922,257,0.0,0.0,,56,186,0,Men in Black (1997),Top-10 未覆盖，需逐例分析
+item_cf,922,257,0.0,0.0,,56,186,0,Men in Black (1997),Top-10 未覆盖，需逐例分析
+popularity,924,129,0.0,0.0,,51,85,0,Bound (1996),Top-10 未覆盖，需逐例分析
+item_cf,924,129,0.0,0.0,,51,85,0,Bound (1996),Top-10 未覆盖，需逐例分析
+popularity,925,5,0.0,0.0,,10,37,0,Copycat (1995),Top-10 未覆盖，需逐例分析
+item_cf,925,5,0.0,0.0,,10,37,0,Copycat (1995),Top-10 未覆盖，需逐例分析
+popularity,927,1016,0.0,0.0,,76,65,0,Con Air (1997),Top-10 未覆盖，需逐例分析
+item_cf,927,1016,0.0,0.0,,76,65,0,Con Air (1997),Top-10 未覆盖，需逐例分析
+popularity,928,246,0.0,0.0,,27,90,0,Chasing Amy (1997),Top-10 未覆盖，需逐例分析
+item_cf,928,246,0.0,0.0,,27,90,0,Chasing Amy (1997),Top-10 未覆盖，需逐例分析
+popularity,929,419,0.0,0.0,,29,108,0,Mary Poppins (1964),Top-10 未覆盖，需逐例分析
+item_cf,929,419,0.0,0.0,,29,108,0,Mary Poppins (1964),Top-10 未覆盖，需逐例分析
+popularity,930,709,0.0,0.0,,21,74,0,Strictly Ballroom (1992),Top-10 未覆盖，需逐例分析
+item_cf,930,709,0.0,0.0,,21,74,0,Strictly Ballroom (1992),Top-10 未覆盖，需逐例分析
+popularity,931,315,0.0,0.0,,38,120,0,Apt Pupil (1998),Top-10 未覆盖，需逐例分析
+item_cf,931,315,0.0,0.0,,38,120,0,Apt Pupil (1998),Top-10 未覆盖，需逐例分析
+popularity,932,614,0.0,0.0,,183,30,0,Giant (1956),Top-10 未覆盖，需逐例分析
+item_cf,932,614,0.0,0.0,,183,30,0,Giant (1956),Top-10 未覆盖，需逐例分析
+popularity,933,186,0.0,0.0,,49,166,0,"Blues Brothers, The (1980)",Top-10 未覆盖，需逐例分析
+item_cf,933,186,0.0,0.0,,49,166,0,"Blues Brothers, The (1980)",Top-10 未覆盖，需逐例分析
+popularity,934,153,0.0,0.0,,119,159,0,"Fish Called Wanda, A (1988)",Top-10 未覆盖，需逐例分析
+item_cf,934,153,0.0,0.0,,119,159,0,"Fish Called Wanda, A (1988)",Top-10 未覆盖，需逐例分析
+popularity,935,846,0.0,0.0,,31,12,0,To Gillian on Her 37th Birthday (1996),Top-10 未覆盖，需逐例分析
+item_cf,935,846,0.0,0.0,,31,12,0,To Gillian on Her 37th Birthday (1996),Top-10 未覆盖，需逐例分析
+popularity,936,1160,0.0,0.0,,92,15,0,Love! Valour! Compassion! (1997),Top-10 未覆盖，需逐例分析
+item_cf,936,1160,0.0,0.0,,92,15,0,Love! Valour! Compassion! (1997),Top-10 未覆盖，需逐例分析
+popularity,937,295,0.0,0.0,,24,33,0,Breakdown (1997),Top-10 未覆盖，需逐例分析
+item_cf,937,295,0.0,0.0,,24,33,0,Breakdown (1997),Top-10 未覆盖，需逐例分析
+popularity,938,225,0.0,0.0,,46,27,0,101 Dalmatians (1996),Top-10 未覆盖，需逐例分析
+item_cf,938,225,0.0,0.0,,46,27,0,101 Dalmatians (1996),Top-10 未覆盖，需逐例分析
+popularity,939,1051,0.0,0.0,,38,17,0,"Associate, The (1996)",Top-10 未覆盖，需逐例分析
+item_cf,939,1051,0.0,0.0,,38,17,0,"Associate, The (1996)",Top-10 未覆盖，需逐例分析
+popularity,940,316,0.0,0.0,,56,88,0,As Good As It Gets (1997),Top-10 未覆盖，需逐例分析
+item_cf,940,316,0.0,0.0,,56,88,0,As Good As It Gets (1997),Top-10 未覆盖，需逐例分析
+popularity,941,15,0.0,0.0,,17,186,0,Mr. Holland's Opus (1995),Top-10 未覆盖，需逐例分析
+item_cf,941,15,0.0,0.0,,17,186,0,Mr. Holland's Opus (1995),Top-10 未覆盖，需逐例分析
+popularity,942,662,0.0,0.0,,65,35,0,Somewhere in Time (1980),Top-10 未覆盖，需逐例分析
+item_cf,942,662,0.0,0.0,,65,35,0,Somewhere in Time (1980),Top-10 未覆盖，需逐例分析
+popularity,943,840,0.0,0.0,,95,15,0,Last Man Standing (1996),Top-10 未覆盖，需逐例分析
+item_cf,943,840,0.0,0.0,,95,15,0,Last Man Standing (1996),Top-10 未覆盖，需逐例分析
